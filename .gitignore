@@ -1,6 +1,10 @@
 # macOS
 .DS_Store
 
+# Data excluded for license
+data/raw/*
+
+
 # Python
 __pycache__/
 *.pyc
