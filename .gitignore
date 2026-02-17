@@ -3,6 +3,10 @@
 
 # Data excluded for license
 data/raw/*
+data/interim/*
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+
 
 
 # Python
@@ -18,6 +22,8 @@ build/
 .venv/
 venv/
 env/
+.env
+bmob/
 
 # Jupyter
 .ipynb_checkpoints/
