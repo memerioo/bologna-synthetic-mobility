@@ -11,5 +11,5 @@ This folder contains Python scripts for processing and preparing datasets for th
   - `area_id`, `area_name`, `zona_id`, `zona_name`, `quartiere_id`, `quartiere_name`.
 
 ## Other scripts
-- Add descriptions here for any other scripts you create.
+- Will add
 
