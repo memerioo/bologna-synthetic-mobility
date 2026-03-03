@@ -3,20 +3,14 @@ import pandas as pd
 # Load CSV
 df = pd.read_csv(
     "data/raw/occupation/occupation.csv",
-    sep=";",          # likely ; like others
-    encoding="utf-8"  # safe default
+    sep=";",
+    encoding="utf-8"
 )
-
-# Quick inspection
-print("Columns:\n", df.columns.tolist())
-print("\nShape:", df.shape)
-print("\nHead:\n", df.head())
-print("\nInfo:")
-print(df.info())
 
 # Clean column names
 df.columns = df.columns.str.replace("\ufeff", "", regex=False)
 df.columns = df.columns.str.strip()
+
 df = df.rename(columns={
     'Sezione censimento (2011)': 'census_section',
     'Anno di riferimento': 'year',
@@ -29,19 +23,33 @@ df = df.rename(columns={
     'Numero studenti': 'n_students'
 })
 
-# Keep only latest year
-latest_year = df['year'].max()
-df = df[df['year'] == latest_year].copy()
-print("Rows after filtering latest year:", len(df))
-print("Year kept:", latest_year)
+# -------------------------------------------------
+# Keep LAST TWO YEARS because of COVID, we will check inconsistencies in notebooks before final cleaning.
+# -------------------------------------------------
 
-# Optional: fill missing with 0
+df['year'] = pd.to_numeric(df['year'], errors='coerce')
+
+latest_year = df['year'].max()
+second_latest_year = sorted(df['year'].unique())[-2]
+
+print("Latest year:", latest_year)
+print("Second latest year:", second_latest_year)
+
+df = df[df['year'].isin([second_latest_year, latest_year])].copy()
+
+print("Rows after filtering last two years:", len(df))
+print("Years kept:", df['year'].unique())
+
+# -------------------------------------------------
+
+# Fill missing numeric values
 df['n_workers_public'] = df['n_workers_public'].fillna(0).astype(int)
 df['n_students'] = df['n_students'].fillna(0).astype(int)
 
-# Keep only relevant columns
+# Keep relevant columns (NOW INCLUDING year)
 df = df[
     [
+        'year',
         'area_name',
         'quartiere_name',
         'zona_name',
@@ -56,7 +64,7 @@ df = df[
 print("\nHead:\n", df.head())
 print(df.info())
 
-
 # Save cleaned dataset
-df.to_csv("data/interim/occupation.csv", index=False)
-print("\nCleaned occupation dataset saved to data/interim/occupation.csv")
+df.to_csv("data/interim/occupation_2years.csv", index=False)
+
+print("\nCleaned occupation dataset (2 years) saved.")
