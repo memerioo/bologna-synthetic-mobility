@@ -29,6 +29,8 @@ bmob/
 
 # Jupyter
 .ipynb_checkpoints/
+notebooks/test.ipynb
+
 
 # Data (keep structure, not raw files)
 data/raw/*
