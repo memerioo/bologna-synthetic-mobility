@@ -6,13 +6,7 @@ This Project is devided in the following steps:
 
 1. Gathering Data and general exploration
 
-2. Processing Data according to the goals (merging, aggregation, disaggregation, proxy, etc.)
-We add .json file for constraints, like total university students, total cars, and target population. 
-
-We disaggregate households dataset, which exists in zones, into area level, becasue other data exists in area level, and targeted spatial unit is statistical areas. We wil ldo so accordin to population share of each area in its zone.
-
-In this process we will have altered data due to some logics, like mentioned disaggregation of households; or assigning numeric values to households size (random for 6-10 and randome between 11 and 15 for oltre 10)
-
+2. Processing Data according to the goals
 
 3. Synthetic Population Generation
 
@@ -32,9 +26,15 @@ https://public.tableau.com/app/profile/ufficio.statistiche.territoriali.bologna/
 2. Click Download → Crosstab → CSV
 3. Save as data/raw/occupation/graf poli.csv
 
-##2. Processing Data
+## 2. Processing Data
 
-##3. Synthetic Population Generation
+We disaggregate households dataset, which exists in zones, into area level, becasue other data exists in area level, and targeted spatial unit is statistical areas. We wil ldo so accordin to population share of each area in its zone.
+
+In this process we will have altered data due to some logics, like mentioned disaggregation of households; or assigning numeric values to households size (random for 6-10 and randome between 11 and 15 for oltre 10)
+
+
+
+## 3. Synthetic Population Generation
 
 For synthetic population generation, we do household first. The logic is to prevent impossible combinations for households, eg infant living alone. Also some mobility constraints make sense in households level, for example car ownership, as people might share usage of a car even if they don't own it. 
 
@@ -62,6 +62,6 @@ The algorithm for synthetic population generation would be a hybrid approach. Fo
 
 Then we will assign individuals to households, and the last step would be assign work/school locations.
 
-##4. Mobility generation with TPB
+## 4. Mobility generation with TPB
 
-##5. Evaluation
+## 5. Evaluation
