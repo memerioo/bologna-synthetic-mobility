@@ -1,0 +1,2954 @@
+area_name,household_type,household_size,households
+battindarno,Altre tipologie familiari,6-10,2
+canale di reno,Altre tipologie familiari,6-10,2
+villaggio della barca,Altre tipologie familiari,6-10,2
+battindarno,Coniugi con figli e altri membri conviventi,4,29
+canale di reno,Coniugi con figli e altri membri conviventi,4,21
+villaggio della barca,Coniugi con figli e altri membri conviventi,4,20
+battindarno,Padre con figli,4,1
+canale di reno,Padre con figli,4,1
+villaggio della barca,Padre con figli,4,1
+battindarno,Padre con figli e altri membri conviventi,3,64
+canale di reno,Padre con figli e altri membri conviventi,3,46
+villaggio della barca,Padre con figli e altri membri conviventi,3,43
+battindarno,Padre con figli e altri membri conviventi,6-10,3
+canale di reno,Padre con figli e altri membri conviventi,6-10,3
+villaggio della barca,Padre con figli e altri membri conviventi,6-10,2
+aeroporto,Madre con figli e altri membri conviventi,6-10,1
+bargellino,Madre con figli e altri membri conviventi,6-10,1
+borgo centro,Madre con figli e altri membri conviventi,6-10,3
+casteldebole,Madre con figli e altri membri conviventi,6-10,2
+ducati-villaggio ina,Madre con figli e altri membri conviventi,6-10,2
+la birra,Madre con figli e altri membri conviventi,6-10,1
+lavino di mezzo,Madre con figli e altri membri conviventi,6-10,1
+lungo reno,Madre con figli e altri membri conviventi,6-10,1
+rigosa,Madre con figli e altri membri conviventi,6-10,1
+triumvirato-pietra,Madre con figli e altri membri conviventi,6-10,3
+via del vivaio,Madre con figli e altri membri conviventi,6-10,1
+aeroporto,Padre con figli,2,4
+bargellino,Padre con figli,2,1
+borgo centro,Padre con figli,2,57
+casteldebole,Padre con figli,2,37
+ducati-villaggio ina,Padre con figli,2,23
+la birra,Padre con figli,2,14
+lavino di mezzo,Padre con figli,2,4
+lungo reno,Padre con figli,2,1
+rigosa,Padre con figli,2,10
+triumvirato-pietra,Padre con figli,2,39
+via del vivaio,Padre con figli,2,7
+aeroporto,Padre con figli,5,1
+bargellino,Padre con figli,5,1
+borgo centro,Padre con figli,5,1
+casteldebole,Padre con figli,5,1
+ducati-villaggio ina,Padre con figli,5,1
+la birra,Padre con figli,5,1
+lavino di mezzo,Padre con figli,5,1
+lungo reno,Padre con figli,5,1
+rigosa,Padre con figli,5,1
+triumvirato-pietra,Padre con figli,5,1
+via del vivaio,Padre con figli,5,1
+arcoveggio,Altre tipologie familiari,3,20
+caserme rosse-manifattura,Altre tipologie familiari,3,5
+cnr,Altre tipologie familiari,3,1
+ex mercato ortofrutticolo,Altre tipologie familiari,3,4
+piazza dell'unita',Altre tipologie familiari,3,21
+via ferrarese,Altre tipologie familiari,3,23
+arcoveggio,Coniugi con altri membri conviventi,3,22
+caserme rosse-manifattura,Coniugi con altri membri conviventi,3,5
+cnr,Coniugi con altri membri conviventi,3,1
+ex mercato ortofrutticolo,Coniugi con altri membri conviventi,3,4
+piazza dell'unita',Coniugi con altri membri conviventi,3,24
+via ferrarese,Coniugi con altri membri conviventi,3,25
+arcoveggio,Coniugi con figli,6-10,19
+caserme rosse-manifattura,Coniugi con figli,6-10,4
+cnr,Coniugi con figli,6-10,1
+ex mercato ortofrutticolo,Coniugi con figli,6-10,4
+piazza dell'unita',Coniugi con figli,6-10,20
+via ferrarese,Coniugi con figli,6-10,22
+arcoveggio,Padre con figli e altri membri conviventi,6-10,6
+caserme rosse-manifattura,Padre con figli e altri membri conviventi,6-10,2
+cnr,Padre con figli e altri membri conviventi,6-10,1
+ex mercato ortofrutticolo,Padre con figli e altri membri conviventi,6-10,1
+piazza dell'unita',Padre con figli e altri membri conviventi,6-10,6
+via ferrarese,Padre con figli e altri membri conviventi,6-10,6
+croce coperta,Coniugi,2,465
+la dozza,Coniugi,2,106
+mulino del gomito,Coniugi,2,56
+san savino,Coniugi,2,713
+savena abbandonato,Coniugi,2,78
+croce coperta,Coniugi con figli,4,196
+la dozza,Coniugi con figli,4,45
+mulino del gomito,Coniugi con figli,4,24
+san savino,Coniugi con figli,4,300
+savena abbandonato,Coniugi con figli,4,33
+croce coperta,Coppia unita civilmente femminile,2,3
+la dozza,Coppia unita civilmente femminile,2,1
+mulino del gomito,Coppia unita civilmente femminile,2,1
+san savino,Coppia unita civilmente femminile,2,4
+savena abbandonato,Coppia unita civilmente femminile,2,1
+croce coperta,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+la dozza,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+mulino del gomito,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+san savino,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+savena abbandonato,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+croce coperta,Coppia unita civilmente maschile,2,2
+la dozza,Coppia unita civilmente maschile,2,1
+mulino del gomito,Coppia unita civilmente maschile,2,1
+san savino,Coppia unita civilmente maschile,2,4
+savena abbandonato,Coppia unita civilmente maschile,2,1
+beverara,Altre tipologie familiari,6-10,1
+la noce,Altre tipologie familiari,6-10,1
+laghetti del rosario,Altre tipologie familiari,6-10,1
+lazzaretto,Altre tipologie familiari,6-10,1
+pescarola,Altre tipologie familiari,6-10,1
+tiro a segno,Altre tipologie familiari,6-10,1
+beverara,Coniugi con figli e altri membri conviventi,6-10,18
+la noce,Coniugi con figli e altri membri conviventi,6-10,4
+laghetti del rosario,Coniugi con figli e altri membri conviventi,6-10,2
+lazzaretto,Coniugi con figli e altri membri conviventi,6-10,3
+pescarola,Coniugi con figli e altri membri conviventi,6-10,12
+tiro a segno,Coniugi con figli e altri membri conviventi,6-10,1
+beverara,Madre con figli,3,68
+la noce,Madre con figli,3,15
+laghetti del rosario,Madre con figli,3,5
+lazzaretto,Madre con figli,3,9
+pescarola,Madre con figli,3,44
+tiro a segno,Madre con figli,3,2
+beverara,Solo,1,784
+la noce,Solo,1,170
+laghetti del rosario,Solo,1,55
+lazzaretto,Solo,1,102
+pescarola,Solo,1,504
+tiro a segno,Solo,1,17
+ravone,Coniugi con figli e altri membri conviventi,6-10,2
+san giuseppe,Coniugi con figli e altri membri conviventi,6-10,7
+san luca,Coniugi con figli e altri membri conviventi,6-10,1
+stadio-meloncello,Coniugi con figli e altri membri conviventi,6-10,4
+via del genio,Coniugi con figli e altri membri conviventi,6-10,1
+xxi aprile,Coniugi con figli e altri membri conviventi,6-10,15
+ravone,Coniugi con figli e altri membri conviventi,Oltre 10,1
+san giuseppe,Coniugi con figli e altri membri conviventi,Oltre 10,1
+san luca,Coniugi con figli e altri membri conviventi,Oltre 10,1
+stadio-meloncello,Coniugi con figli e altri membri conviventi,Oltre 10,1
+via del genio,Coniugi con figli e altri membri conviventi,Oltre 10,1
+xxi aprile,Coniugi con figli e altri membri conviventi,Oltre 10,2
+ravone,Coppia unita civilmente femminile con altri conviventi,3,1
+san giuseppe,Coppia unita civilmente femminile con altri conviventi,3,1
+san luca,Coppia unita civilmente femminile con altri conviventi,3,1
+stadio-meloncello,Coppia unita civilmente femminile con altri conviventi,3,1
+via del genio,Coppia unita civilmente femminile con altri conviventi,3,1
+xxi aprile,Coppia unita civilmente femminile con altri conviventi,3,1
+ravone,Madre con figli,3,14
+san giuseppe,Madre con figli,3,68
+san luca,Madre con figli,3,8
+stadio-meloncello,Madre con figli,3,39
+via del genio,Madre con figli,3,1
+xxi aprile,Madre con figli,3,138
+ravone,Madre con figli,5,1
+san giuseppe,Madre con figli,5,2
+san luca,Madre con figli,5,1
+stadio-meloncello,Madre con figli,5,2
+via del genio,Madre con figli,5,1
+xxi aprile,Madre con figli,5,4
+ravone,Padre con figli,3,3
+san giuseppe,Padre con figli,3,14
+san luca,Padre con figli,3,2
+stadio-meloncello,Padre con figli,3,8
+via del genio,Padre con figli,3,1
+xxi aprile,Padre con figli,3,28
+ravone,Padre con figli,6-10,1
+san giuseppe,Padre con figli,6-10,1
+san luca,Padre con figli,6-10,1
+stadio-meloncello,Padre con figli,6-10,1
+via del genio,Padre con figli,6-10,1
+xxi aprile,Padre con figli,6-10,1
+malpighi-1,Coniugi con altri membri conviventi,4,1
+malpighi-2,Coniugi con altri membri conviventi,4,1
+malpighi-1,Madre con figli,2,58
+malpighi-2,Madre con figli,2,306
+malpighi-1,Madre con figli e altri membri conviventi,5,1
+malpighi-2,Madre con figli e altri membri conviventi,5,6
+marconi-1,Altre tipologie familiari,5,1
+marconi-2,Altre tipologie familiari,5,2
+marconi-1,Coniugi,2,136
+marconi-2,Coniugi,2,719
+marconi-1,Padre con figli,2,16
+marconi-2,Padre con figli,2,81
+prati di caprara-ospedale maggiore,Coniugi con altri membri conviventi,4,1
+scalo ravone,Coniugi con altri membri conviventi,4,1
+velodromo,Coniugi con altri membri conviventi,4,2
+via vittorio veneto,Coniugi con altri membri conviventi,4,2
+zanardi,Coniugi con altri membri conviventi,4,2
+prati di caprara-ospedale maggiore,Coniugi con figli,6-10,1
+scalo ravone,Coniugi con figli,6-10,1
+velodromo,Coniugi con figli,6-10,5
+via vittorio veneto,Coniugi con figli,6-10,5
+zanardi,Coniugi con figli,6-10,6
+prati di caprara-ospedale maggiore,Coniugi con figli e altri membri conviventi,6-10,1
+scalo ravone,Coniugi con figli e altri membri conviventi,6-10,1
+velodromo,Coniugi con figli e altri membri conviventi,6-10,6
+via vittorio veneto,Coniugi con figli e altri membri conviventi,6-10,6
+zanardi,Coniugi con figli e altri membri conviventi,6-10,7
+prati di caprara-ospedale maggiore,Madre con figli,5,1
+scalo ravone,Madre con figli,5,1
+velodromo,Madre con figli,5,1
+via vittorio veneto,Madre con figli,5,1
+zanardi,Madre con figli,5,1
+prati di caprara-ospedale maggiore,Padre con figli,5,1
+scalo ravone,Padre con figli,5,1
+velodromo,Padre con figli,5,1
+via vittorio veneto,Padre con figli,5,1
+zanardi,Padre con figli,5,1
+caab,Coniugi,2,27
+cadriano-calamosco,Coniugi,2,51
+fiera,Coniugi,2,2
+michelino,Coniugi,2,272
+pilastro,Coniugi,2,422
+san donnino,Coniugi,2,174
+scalo merci san donato,Coniugi,2,3
+via del lavoro,Coniugi,2,480
+via mondo,Coniugi,2,478
+caab,Solo,1,63
+cadriano-calamosco,Solo,1,123
+fiera,Solo,1,3
+michelino,Solo,1,652
+pilastro,Solo,1,1011
+san donnino,Solo,1,418
+scalo merci san donato,Solo,1,6
+via del lavoro,Solo,1,1150
+via mondo,Solo,1,1147
+osservanza,Coppia unita civilmente maschile,2,3
+paderno,Coppia unita civilmente maschile,2,1
+san michele in bosco,Coppia unita civilmente maschile,2,2
+osservanza,Madre con figli e altri membri conviventi,3,34
+paderno,Madre con figli e altri membri conviventi,3,13
+san michele in bosco,Madre con figli e altri membri conviventi,3,22
+osservanza,Madre con figli e altri membri conviventi,5,3
+paderno,Madre con figli e altri membri conviventi,5,2
+san michele in bosco,Madre con figli e altri membri conviventi,5,2
+osservanza,Padre con figli,5,1
+paderno,Padre con figli,5,1
+san michele in bosco,Padre con figli,5,1
+galvani-1,Coniugi con figli e altri membri conviventi,6-10,2
+galvani-2,Coniugi con figli e altri membri conviventi,6-10,10
+galvani-1,Madre con figli,3,22
+galvani-2,Madre con figli,3,133
+galvani-1,Madre con figli,5,1
+galvani-2,Madre con figli,5,3
+galvani-1,Padre con figli,3,5
+galvani-2,Padre con figli,3,31
+galvani-1,Padre con figli,4,1
+galvani-2,Padre con figli,4,4
+galvani-1,Sola,1,366
+galvani-2,Sola,1,2310
+irnerio-1,Altre tipologie familiari,2,99
+irnerio-2,Altre tipologie familiari,2,270
+irnerio-1,Coniugi con altri membri conviventi,3,4
+irnerio-2,Coniugi con altri membri conviventi,3,9
+irnerio-1,Coniugi con figli e altri membri conviventi,6-10,3
+irnerio-2,Coniugi con figli e altri membri conviventi,6-10,7
+irnerio-1,Padre con figli,2,27
+irnerio-2,Padre con figli,2,73
+irnerio-1,Padre con figli e altri membri conviventi,4,11
+irnerio-2,Padre con figli e altri membri conviventi,4,31
+chiesanuova,Padre con figli e altri membri conviventi,4,29
+dagnini,Padre con figli e altri membri conviventi,4,37
+giardini margherita,Padre con figli e altri membri conviventi,4,1
+mezzofanti,Padre con figli e altri membri conviventi,4,29
+siepelunga,Padre con figli e altri membri conviventi,4,18
+bitone,Coppia unita civilmente maschile,2,4
+cavedone,Coppia unita civilmente maschile,2,1
+due madonne,Coppia unita civilmente maschile,2,1
+fossolo,Coppia unita civilmente maschile,2,3
+lungo savena,Coppia unita civilmente maschile,2,1
+ospedale bellaria,Coppia unita civilmente maschile,2,1
+pontevecchio,Coppia unita civilmente maschile,2,2
+via arno,Coppia unita civilmente maschile,2,3
+bitone,Madre con figli,4,17
+cavedone,Madre con figli,4,5
+due madonne,Madre con figli,4,5
+fossolo,Madre con figli,4,14
+lungo savena,Madre con figli,4,1
+ospedale bellaria,Madre con figli,4,1
+pontevecchio,Madre con figli,4,9
+via arno,Madre con figli,4,12
+battindarno,Sola,1,1156
+canale di reno,Sola,1,826
+villaggio della barca,Sola,1,784
+aeroporto,Coniugi,2,35
+bargellino,Coniugi,2,6
+borgo centro,Coniugi,2,585
+casteldebole,Coniugi,2,374
+ducati-villaggio ina,Coniugi,2,228
+la birra,Coniugi,2,144
+lavino di mezzo,Coniugi,2,39
+lungo reno,Coniugi,2,1
+rigosa,Coniugi,2,98
+triumvirato-pietra,Coniugi,2,398
+via del vivaio,Coniugi,2,69
+aeroporto,Coniugi con altri membri conviventi,4,1
+bargellino,Coniugi con altri membri conviventi,4,1
+borgo centro,Coniugi con altri membri conviventi,4,6
+casteldebole,Coniugi con altri membri conviventi,4,4
+ducati-villaggio ina,Coniugi con altri membri conviventi,4,2
+la birra,Coniugi con altri membri conviventi,4,2
+lavino di mezzo,Coniugi con altri membri conviventi,4,1
+lungo reno,Coniugi con altri membri conviventi,4,1
+rigosa,Coniugi con altri membri conviventi,4,1
+triumvirato-pietra,Coniugi con altri membri conviventi,4,4
+via del vivaio,Coniugi con altri membri conviventi,4,1
+aeroporto,Madre con figli e altri membri conviventi,3,4
+bargellino,Madre con figli e altri membri conviventi,3,1
+borgo centro,Madre con figli e altri membri conviventi,3,65
+casteldebole,Madre con figli e altri membri conviventi,3,42
+ducati-villaggio ina,Madre con figli e altri membri conviventi,3,26
+la birra,Madre con figli e altri membri conviventi,3,16
+lavino di mezzo,Madre con figli e altri membri conviventi,3,5
+lungo reno,Madre con figli e altri membri conviventi,3,1
+rigosa,Madre con figli e altri membri conviventi,3,11
+triumvirato-pietra,Madre con figli e altri membri conviventi,3,44
+via del vivaio,Madre con figli e altri membri conviventi,3,8
+aeroporto,Madre con figli e altri membri conviventi,4,2
+bargellino,Madre con figli e altri membri conviventi,4,1
+borgo centro,Madre con figli e altri membri conviventi,4,31
+casteldebole,Madre con figli e altri membri conviventi,4,20
+ducati-villaggio ina,Madre con figli e altri membri conviventi,4,12
+la birra,Madre con figli e altri membri conviventi,4,8
+lavino di mezzo,Madre con figli e altri membri conviventi,4,3
+lungo reno,Madre con figli e altri membri conviventi,4,1
+rigosa,Madre con figli e altri membri conviventi,4,6
+triumvirato-pietra,Madre con figli e altri membri conviventi,4,21
+via del vivaio,Madre con figli e altri membri conviventi,4,4
+arcoveggio,Coniugi con figli,3,342
+caserme rosse-manifattura,Coniugi con figli,3,71
+cnr,Coniugi con figli,3,2
+ex mercato ortofrutticolo,Coniugi con figli,3,57
+piazza dell'unita',Coniugi con figli,3,361
+via ferrarese,Coniugi con figli,3,392
+arcoveggio,Coniugi con figli,4,271
+caserme rosse-manifattura,Coniugi con figli,4,57
+cnr,Coniugi con figli,4,2
+ex mercato ortofrutticolo,Coniugi con figli,4,45
+piazza dell'unita',Coniugi con figli,4,287
+via ferrarese,Coniugi con figli,4,312
+arcoveggio,Madre con figli,4,17
+caserme rosse-manifattura,Madre con figli,4,4
+cnr,Madre con figli,4,1
+ex mercato ortofrutticolo,Madre con figli,4,3
+piazza dell'unita',Madre con figli,4,18
+via ferrarese,Madre con figli,4,19
+croce coperta,Coniugi con altri membri conviventi,4,3
+la dozza,Coniugi con altri membri conviventi,4,1
+mulino del gomito,Coniugi con altri membri conviventi,4,1
+san savino,Coniugi con altri membri conviventi,4,5
+savena abbandonato,Coniugi con altri membri conviventi,4,1
+croce coperta,Coniugi con figli,3,249
+la dozza,Coniugi con figli,3,57
+mulino del gomito,Coniugi con figli,3,30
+san savino,Coniugi con figli,3,382
+savena abbandonato,Coniugi con figli,3,42
+croce coperta,Madre con figli e altri membri conviventi,3,49
+la dozza,Madre con figli e altri membri conviventi,3,11
+mulino del gomito,Madre con figli e altri membri conviventi,3,6
+san savino,Madre con figli e altri membri conviventi,3,74
+savena abbandonato,Madre con figli e altri membri conviventi,3,9
+croce coperta,Madre con figli e altri membri conviventi,4,21
+la dozza,Madre con figli e altri membri conviventi,4,5
+mulino del gomito,Madre con figli e altri membri conviventi,4,3
+san savino,Madre con figli e altri membri conviventi,4,32
+savena abbandonato,Madre con figli e altri membri conviventi,4,4
+malpighi-1,Solo,1,333
+malpighi-2,Solo,1,1764
+marconi-1,Coppia unita civilmente femminile con altri conviventi,3,1
+marconi-2,Coppia unita civilmente femminile con altri conviventi,3,2
+marconi-1,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+marconi-2,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+marconi-1,Padre con figli,3,4
+marconi-2,Padre con figli,3,20
+prati di caprara-ospedale maggiore,Altre tipologie familiari,3,1
+scalo ravone,Altre tipologie familiari,3,1
+velodromo,Altre tipologie familiari,3,11
+via vittorio veneto,Altre tipologie familiari,3,10
+zanardi,Altre tipologie familiari,3,12
+prati di caprara-ospedale maggiore,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+scalo ravone,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+velodromo,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+via vittorio veneto,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+zanardi,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,2
+prati di caprara-ospedale maggiore,Madre con figli,2,14
+scalo ravone,Madre con figli,2,5
+velodromo,Madre con figli,2,170
+via vittorio veneto,Madre con figli,2,158
+zanardi,Madre con figli,2,192
+prati di caprara-ospedale maggiore,Madre con figli,4,1
+scalo ravone,Madre con figli,4,1
+velodromo,Madre con figli,4,6
+via vittorio veneto,Madre con figli,4,6
+zanardi,Madre con figli,4,7
+prati di caprara-ospedale maggiore,Padre con figli,4,1
+scalo ravone,Padre con figli,4,1
+velodromo,Padre con figli,4,2
+via vittorio veneto,Padre con figli,4,2
+zanardi,Padre con figli,4,2
+caab,Coniugi con figli,Oltre 10,1
+cadriano-calamosco,Coniugi con figli,Oltre 10,1
+fiera,Coniugi con figli,Oltre 10,1
+michelino,Coniugi con figli,Oltre 10,1
+pilastro,Coniugi con figli,Oltre 10,1
+san donnino,Coniugi con figli,Oltre 10,1
+scalo merci san donato,Coniugi con figli,Oltre 10,1
+via del lavoro,Coniugi con figli,Oltre 10,1
+via mondo,Coniugi con figli,Oltre 10,1
+caab,Madre con figli e altri membri conviventi,Oltre 10,1
+cadriano-calamosco,Madre con figli e altri membri conviventi,Oltre 10,1
+fiera,Madre con figli e altri membri conviventi,Oltre 10,1
+michelino,Madre con figli e altri membri conviventi,Oltre 10,1
+pilastro,Madre con figli e altri membri conviventi,Oltre 10,1
+san donnino,Madre con figli e altri membri conviventi,Oltre 10,1
+scalo merci san donato,Madre con figli e altri membri conviventi,Oltre 10,1
+via del lavoro,Madre con figli e altri membri conviventi,Oltre 10,1
+via mondo,Madre con figli e altri membri conviventi,Oltre 10,1
+osservanza,Coniugi con altri membri conviventi,4,1
+paderno,Coniugi con altri membri conviventi,4,1
+san michele in bosco,Coniugi con altri membri conviventi,4,1
+osservanza,Padre con figli e altri membri conviventi,4,19
+paderno,Padre con figli e altri membri conviventi,4,8
+san michele in bosco,Padre con figli e altri membri conviventi,4,12
+galvani-1,Altre tipologie familiari,3,3
+galvani-2,Altre tipologie familiari,3,15
+galvani-1,Madre con figli,6-10,1
+galvani-2,Madre con figli,6-10,1
+irnerio-1,Altre tipologie familiari,4,2
+irnerio-2,Altre tipologie familiari,4,3
+irnerio-1,Madre con figli e altri membri conviventi,3,29
+irnerio-2,Madre con figli e altri membri conviventi,3,77
+irnerio-1,Madre con figli e altri membri conviventi,4,11
+irnerio-2,Madre con figli e altri membri conviventi,4,29
+bitone,Padre con figli e altri membri conviventi,6-10,4
+cavedone,Padre con figli e altri membri conviventi,6-10,2
+due madonne,Padre con figli e altri membri conviventi,6-10,2
+fossolo,Padre con figli e altri membri conviventi,6-10,4
+lungo savena,Padre con figli e altri membri conviventi,6-10,1
+ospedale bellaria,Padre con figli e altri membri conviventi,6-10,1
+pontevecchio,Padre con figli e altri membri conviventi,6-10,2
+via arno,Padre con figli e altri membri conviventi,6-10,3
+bitone,Solo,1,1174
+cavedone,Solo,1,342
+due madonne,Solo,1,330
+fossolo,Solo,1,946
+lungo savena,Solo,1,20
+ospedale bellaria,Solo,1,14
+pontevecchio,Solo,1,576
+via arno,Solo,1,773
+battindarno,Altre tipologie familiari,3,13
+canale di reno,Altre tipologie familiari,3,10
+villaggio della barca,Altre tipologie familiari,3,9
+battindarno,Altre tipologie familiari,4,6
+canale di reno,Altre tipologie familiari,4,4
+villaggio della barca,Altre tipologie familiari,4,4
+battindarno,Altre tipologie familiari,5,2
+canale di reno,Altre tipologie familiari,5,2
+villaggio della barca,Altre tipologie familiari,5,2
+battindarno,Coniugi,2,681
+canale di reno,Coniugi,2,486
+villaggio della barca,Coniugi,2,462
+battindarno,Coniugi con altri membri conviventi,5,2
+canale di reno,Coniugi con altri membri conviventi,5,1
+villaggio della barca,Coniugi con altri membri conviventi,5,1
+battindarno,Madre con figli,6-10,2
+canale di reno,Madre con figli,6-10,2
+villaggio della barca,Madre con figli,6-10,2
+battindarno,Padre con figli e altri membri conviventi,4,36
+canale di reno,Padre con figli e altri membri conviventi,4,26
+villaggio della barca,Padre con figli e altri membri conviventi,4,24
+battindarno,Solo,1,879
+canale di reno,Solo,1,628
+villaggio della barca,Solo,1,596
+aeroporto,Altre tipologie familiari,3,2
+bargellino,Altre tipologie familiari,3,1
+borgo centro,Altre tipologie familiari,3,18
+casteldebole,Altre tipologie familiari,3,11
+ducati-villaggio ina,Altre tipologie familiari,3,7
+la birra,Altre tipologie familiari,3,5
+lavino di mezzo,Altre tipologie familiari,3,2
+lungo reno,Altre tipologie familiari,3,1
+rigosa,Altre tipologie familiari,3,3
+triumvirato-pietra,Altre tipologie familiari,3,12
+via del vivaio,Altre tipologie familiari,3,3
+aeroporto,Coniugi con altri membri conviventi,3,2
+bargellino,Coniugi con altri membri conviventi,3,1
+borgo centro,Coniugi con altri membri conviventi,3,18
+casteldebole,Coniugi con altri membri conviventi,3,12
+ducati-villaggio ina,Coniugi con altri membri conviventi,3,7
+la birra,Coniugi con altri membri conviventi,3,5
+lavino di mezzo,Coniugi con altri membri conviventi,3,2
+lungo reno,Coniugi con altri membri conviventi,3,1
+rigosa,Coniugi con altri membri conviventi,3,3
+triumvirato-pietra,Coniugi con altri membri conviventi,3,12
+via del vivaio,Coniugi con altri membri conviventi,3,3
+aeroporto,Coniugi con figli,6-10,1
+bargellino,Coniugi con figli,6-10,1
+borgo centro,Coniugi con figli,6-10,15
+casteldebole,Coniugi con figli,6-10,10
+ducati-villaggio ina,Coniugi con figli,6-10,6
+la birra,Coniugi con figli,6-10,4
+lavino di mezzo,Coniugi con figli,6-10,1
+lungo reno,Coniugi con figli,6-10,1
+rigosa,Coniugi con figli,6-10,3
+triumvirato-pietra,Coniugi con figli,6-10,11
+via del vivaio,Coniugi con figli,6-10,2
+aeroporto,Coppia unita civilmente femminile,2,1
+bargellino,Coppia unita civilmente femminile,2,1
+borgo centro,Coppia unita civilmente femminile,2,2
+casteldebole,Coppia unita civilmente femminile,2,1
+ducati-villaggio ina,Coppia unita civilmente femminile,2,1
+la birra,Coppia unita civilmente femminile,2,1
+lavino di mezzo,Coppia unita civilmente femminile,2,1
+lungo reno,Coppia unita civilmente femminile,2,1
+rigosa,Coppia unita civilmente femminile,2,1
+triumvirato-pietra,Coppia unita civilmente femminile,2,1
+via del vivaio,Coppia unita civilmente femminile,2,1
+aeroporto,Solo,1,55
+bargellino,Solo,1,9
+borgo centro,Solo,1,930
+casteldebole,Solo,1,594
+ducati-villaggio ina,Solo,1,362
+la birra,Solo,1,228
+lavino di mezzo,Solo,1,62
+lungo reno,Solo,1,2
+rigosa,Solo,1,156
+triumvirato-pietra,Solo,1,632
+via del vivaio,Solo,1,110
+arcoveggio,Altre tipologie familiari,5,3
+caserme rosse-manifattura,Altre tipologie familiari,5,1
+cnr,Altre tipologie familiari,5,1
+ex mercato ortofrutticolo,Altre tipologie familiari,5,1
+piazza dell'unita',Altre tipologie familiari,5,3
+via ferrarese,Altre tipologie familiari,5,3
+arcoveggio,Coniugi,2,548
+caserme rosse-manifattura,Coniugi,2,114
+cnr,Coniugi,2,3
+ex mercato ortofrutticolo,Coniugi,2,91
+piazza dell'unita',Coniugi,2,580
+via ferrarese,Coniugi,2,629
+arcoveggio,Coniugi con altri membri conviventi,6-10,2
+caserme rosse-manifattura,Coniugi con altri membri conviventi,6-10,1
+cnr,Coniugi con altri membri conviventi,6-10,1
+ex mercato ortofrutticolo,Coniugi con altri membri conviventi,6-10,1
+piazza dell'unita',Coniugi con altri membri conviventi,6-10,3
+via ferrarese,Coniugi con altri membri conviventi,6-10,3
+arcoveggio,Coniugi con figli,5,59
+caserme rosse-manifattura,Coniugi con figli,5,13
+cnr,Coniugi con figli,5,1
+ex mercato ortofrutticolo,Coniugi con figli,5,10
+piazza dell'unita',Coniugi con figli,5,62
+via ferrarese,Coniugi con figli,5,68
+arcoveggio,Coppia unita civilmente femminile,2,4
+caserme rosse-manifattura,Coppia unita civilmente femminile,2,1
+cnr,Coppia unita civilmente femminile,2,1
+ex mercato ortofrutticolo,Coppia unita civilmente femminile,2,1
+piazza dell'unita',Coppia unita civilmente femminile,2,4
+via ferrarese,Coppia unita civilmente femminile,2,4
+arcoveggio,Coppia unita civilmente maschile,2,7
+caserme rosse-manifattura,Coppia unita civilmente maschile,2,2
+cnr,Coppia unita civilmente maschile,2,1
+ex mercato ortofrutticolo,Coppia unita civilmente maschile,2,2
+piazza dell'unita',Coppia unita civilmente maschile,2,7
+via ferrarese,Coppia unita civilmente maschile,2,8
+arcoveggio,Madre con figli,2,273
+caserme rosse-manifattura,Madre con figli,2,57
+cnr,Madre con figli,2,2
+ex mercato ortofrutticolo,Madre con figli,2,46
+piazza dell'unita',Madre con figli,2,288
+via ferrarese,Madre con figli,2,313
+arcoveggio,Madre con figli e altri membri conviventi,4,48
+caserme rosse-manifattura,Madre con figli e altri membri conviventi,4,10
+cnr,Madre con figli e altri membri conviventi,4,1
+ex mercato ortofrutticolo,Madre con figli e altri membri conviventi,4,8
+piazza dell'unita',Madre con figli e altri membri conviventi,4,50
+via ferrarese,Madre con figli e altri membri conviventi,4,55
+arcoveggio,Madre con figli e altri membri conviventi,6-10,5
+caserme rosse-manifattura,Madre con figli e altri membri conviventi,6-10,1
+cnr,Madre con figli e altri membri conviventi,6-10,1
+ex mercato ortofrutticolo,Madre con figli e altri membri conviventi,6-10,1
+piazza dell'unita',Madre con figli e altri membri conviventi,6-10,6
+via ferrarese,Madre con figli e altri membri conviventi,6-10,6
+arcoveggio,Padre con figli,6-10,1
+caserme rosse-manifattura,Padre con figli,6-10,1
+cnr,Padre con figli,6-10,1
+ex mercato ortofrutticolo,Padre con figli,6-10,1
+piazza dell'unita',Padre con figli,6-10,1
+via ferrarese,Padre con figli,6-10,1
+croce coperta,Coniugi con altri membri conviventi,6-10,1
+la dozza,Coniugi con altri membri conviventi,6-10,1
+mulino del gomito,Coniugi con altri membri conviventi,6-10,1
+san savino,Coniugi con altri membri conviventi,6-10,1
+savena abbandonato,Coniugi con altri membri conviventi,6-10,1
+croce coperta,Madre con figli,4,7
+la dozza,Madre con figli,4,2
+mulino del gomito,Madre con figli,4,1
+san savino,Madre con figli,4,10
+savena abbandonato,Madre con figli,4,2
+beverara,Altre tipologie familiari,4,5
+la noce,Altre tipologie familiari,4,1
+laghetti del rosario,Altre tipologie familiari,4,1
+lazzaretto,Altre tipologie familiari,4,1
+pescarola,Altre tipologie familiari,4,3
+tiro a segno,Altre tipologie familiari,4,1
+beverara,Coniugi con figli,6-10,21
+la noce,Coniugi con figli,6-10,5
+laghetti del rosario,Coniugi con figli,6-10,2
+lazzaretto,Coniugi con figli,6-10,3
+pescarola,Coniugi con figli,6-10,13
+tiro a segno,Coniugi con figli,6-10,1
+beverara,Padre con figli e altri membri conviventi,3,51
+la noce,Padre con figli e altri membri conviventi,3,11
+laghetti del rosario,Padre con figli e altri membri conviventi,3,4
+lazzaretto,Padre con figli e altri membri conviventi,3,7
+pescarola,Padre con figli e altri membri conviventi,3,33
+tiro a segno,Padre con figli e altri membri conviventi,3,2
+beverara,Padre con figli e altri membri conviventi,4,31
+la noce,Padre con figli e altri membri conviventi,4,7
+laghetti del rosario,Padre con figli e altri membri conviventi,4,3
+lazzaretto,Padre con figli e altri membri conviventi,4,4
+pescarola,Padre con figli e altri membri conviventi,4,20
+tiro a segno,Padre con figli e altri membri conviventi,4,1
+beverara,Padre con figli e altri membri conviventi,5,6
+la noce,Padre con figli e altri membri conviventi,5,2
+laghetti del rosario,Padre con figli e altri membri conviventi,5,1
+lazzaretto,Padre con figli e altri membri conviventi,5,1
+pescarola,Padre con figli e altri membri conviventi,5,4
+tiro a segno,Padre con figli e altri membri conviventi,5,1
+ravone,Coniugi con altri membri conviventi,3,2
+san giuseppe,Coniugi con altri membri conviventi,3,10
+san luca,Coniugi con altri membri conviventi,3,2
+stadio-meloncello,Coniugi con altri membri conviventi,3,6
+via del genio,Coniugi con altri membri conviventi,3,1
+xxi aprile,Coniugi con altri membri conviventi,3,20
+ravone,Coniugi con figli,3,49
+san giuseppe,Coniugi con figli,3,250
+san luca,Coniugi con figli,3,27
+stadio-meloncello,Coniugi con figli,3,144
+via del genio,Coniugi con figli,3,1
+xxi aprile,Coniugi con figli,3,507
+ravone,Madre con figli,2,37
+san giuseppe,Madre con figli,2,190
+san luca,Madre con figli,2,20
+stadio-meloncello,Madre con figli,2,109
+via del genio,Madre con figli,2,1
+xxi aprile,Madre con figli,2,384
+ravone,Padre con figli e altri membri conviventi,3,9
+san giuseppe,Padre con figli e altri membri conviventi,3,43
+san luca,Padre con figli e altri membri conviventi,3,5
+stadio-meloncello,Padre con figli e altri membri conviventi,3,25
+via del genio,Padre con figli e altri membri conviventi,3,1
+xxi aprile,Padre con figli e altri membri conviventi,3,87
+ravone,Padre con figli e altri membri conviventi,4,5
+san giuseppe,Padre con figli e altri membri conviventi,4,26
+san luca,Padre con figli e altri membri conviventi,4,3
+stadio-meloncello,Padre con figli e altri membri conviventi,4,15
+via del genio,Padre con figli e altri membri conviventi,4,1
+xxi aprile,Padre con figli e altri membri conviventi,4,51
+malpighi-1,Coniugi,2,106
+malpighi-2,Coniugi,2,560
+malpighi-1,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+malpighi-2,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+malpighi-1,Madre con figli e altri membri conviventi,6-10,1
+malpighi-2,Madre con figli e altri membri conviventi,6-10,1
+malpighi-1,Padre con figli e altri membri conviventi,3,12
+malpighi-2,Padre con figli e altri membri conviventi,3,64
+marconi-1,Altre tipologie familiari,2,55
+marconi-2,Altre tipologie familiari,2,289
+marconi-1,Coniugi con altri membri conviventi,5,1
+marconi-2,Coniugi con altri membri conviventi,5,1
+marconi-1,Coniugi con figli e altri membri conviventi,5,4
+marconi-2,Coniugi con figli e altri membri conviventi,5,17
+prati di caprara-ospedale maggiore,Coniugi con figli,3,17
+scalo ravone,Coniugi con figli,3,6
+velodromo,Coniugi con figli,3,202
+via vittorio veneto,Coniugi con figli,3,188
+zanardi,Coniugi con figli,3,229
+prati di caprara-ospedale maggiore,Madre con figli,3,5
+scalo ravone,Madre con figli,3,2
+velodromo,Madre con figli,3,56
+via vittorio veneto,Madre con figli,3,52
+zanardi,Madre con figli,3,63
+prati di caprara-ospedale maggiore,Madre con figli e altri membri conviventi,3,4
+scalo ravone,Madre con figli e altri membri conviventi,3,2
+velodromo,Madre con figli e altri membri conviventi,3,47
+via vittorio veneto,Madre con figli e altri membri conviventi,3,43
+zanardi,Madre con figli e altri membri conviventi,3,53
+caab,Coniugi con figli e altri membri conviventi,6-10,2
+cadriano-calamosco,Coniugi con figli e altri membri conviventi,6-10,4
+fiera,Coniugi con figli e altri membri conviventi,6-10,1
+michelino,Coniugi con figli e altri membri conviventi,6-10,19
+pilastro,Coniugi con figli e altri membri conviventi,6-10,29
+san donnino,Coniugi con figli e altri membri conviventi,6-10,12
+scalo merci san donato,Coniugi con figli e altri membri conviventi,6-10,1
+via del lavoro,Coniugi con figli e altri membri conviventi,6-10,33
+via mondo,Coniugi con figli e altri membri conviventi,6-10,33
+caab,Coniugi con figli e altri membri conviventi,Oltre 10,1
+cadriano-calamosco,Coniugi con figli e altri membri conviventi,Oltre 10,1
+fiera,Coniugi con figli e altri membri conviventi,Oltre 10,1
+michelino,Coniugi con figli e altri membri conviventi,Oltre 10,2
+pilastro,Coniugi con figli e altri membri conviventi,Oltre 10,2
+san donnino,Coniugi con figli e altri membri conviventi,Oltre 10,1
+scalo merci san donato,Coniugi con figli e altri membri conviventi,Oltre 10,1
+via del lavoro,Coniugi con figli e altri membri conviventi,Oltre 10,3
+via mondo,Coniugi con figli e altri membri conviventi,Oltre 10,3
+caab,Coppia unita civilmente femminile,2,1
+cadriano-calamosco,Coppia unita civilmente femminile,2,1
+fiera,Coppia unita civilmente femminile,2,1
+michelino,Coppia unita civilmente femminile,2,2
+pilastro,Coppia unita civilmente femminile,2,2
+san donnino,Coppia unita civilmente femminile,2,1
+scalo merci san donato,Coppia unita civilmente femminile,2,1
+via del lavoro,Coppia unita civilmente femminile,2,3
+via mondo,Coppia unita civilmente femminile,2,3
+caab,Coppia unita civilmente femminile con altri conviventi,3,1
+cadriano-calamosco,Coppia unita civilmente femminile con altri conviventi,3,1
+fiera,Coppia unita civilmente femminile con altri conviventi,3,1
+michelino,Coppia unita civilmente femminile con altri conviventi,3,1
+pilastro,Coppia unita civilmente femminile con altri conviventi,3,1
+san donnino,Coppia unita civilmente femminile con altri conviventi,3,1
+scalo merci san donato,Coppia unita civilmente femminile con altri conviventi,3,1
+via del lavoro,Coppia unita civilmente femminile con altri conviventi,3,1
+via mondo,Coppia unita civilmente femminile con altri conviventi,3,1
+caab,Madre con figli,4,1
+cadriano-calamosco,Madre con figli,4,2
+fiera,Madre con figli,4,1
+michelino,Madre con figli,4,7
+pilastro,Madre con figli,4,11
+san donnino,Madre con figli,4,5
+scalo merci san donato,Madre con figli,4,1
+via del lavoro,Madre con figli,4,13
+via mondo,Madre con figli,4,13
+caab,Padre con figli,3,1
+cadriano-calamosco,Padre con figli,3,2
+fiera,Padre con figli,3,1
+michelino,Padre con figli,3,7
+pilastro,Padre con figli,3,11
+san donnino,Padre con figli,3,5
+scalo merci san donato,Padre con figli,3,1
+via del lavoro,Padre con figli,3,12
+via mondo,Padre con figli,3,12
+caab,Padre con figli e altri membri conviventi,Oltre 10,1
+cadriano-calamosco,Padre con figli e altri membri conviventi,Oltre 10,1
+fiera,Padre con figli e altri membri conviventi,Oltre 10,1
+michelino,Padre con figli e altri membri conviventi,Oltre 10,1
+pilastro,Padre con figli e altri membri conviventi,Oltre 10,1
+san donnino,Padre con figli e altri membri conviventi,Oltre 10,1
+scalo merci san donato,Padre con figli e altri membri conviventi,Oltre 10,1
+via del lavoro,Padre con figli e altri membri conviventi,Oltre 10,1
+via mondo,Padre con figli e altri membri conviventi,Oltre 10,1
+osservanza,Altre tipologie familiari,4,5
+paderno,Altre tipologie familiari,4,2
+san michele in bosco,Altre tipologie familiari,4,3
+osservanza,Coniugi con figli,4,155
+paderno,Coniugi con figli,4,59
+san michele in bosco,Coniugi con figli,4,97
+osservanza,Coniugi con figli,5,48
+paderno,Coniugi con figli,5,18
+san michele in bosco,Coniugi con figli,5,30
+osservanza,Coniugi con figli e altri membri conviventi,6-10,4
+paderno,Coniugi con figli e altri membri conviventi,6-10,2
+san michele in bosco,Coniugi con figli e altri membri conviventi,6-10,3
+osservanza,Madre con figli e altri membri conviventi,6-10,4
+paderno,Madre con figli e altri membri conviventi,6-10,2
+san michele in bosco,Madre con figli e altri membri conviventi,6-10,3
+osservanza,Padre con figli,3,15
+paderno,Padre con figli,3,6
+san michele in bosco,Padre con figli,3,10
+osservanza,Padre con figli e altri membri conviventi,5,5
+paderno,Padre con figli e altri membri conviventi,5,2
+san michele in bosco,Padre con figli e altri membri conviventi,5,3
+galvani-1,Altre tipologie familiari,2,45
+galvani-2,Altre tipologie familiari,2,279
+galvani-1,Coppia unita civilmente femminile,2,1
+galvani-2,Coppia unita civilmente femminile,2,1
+galvani-1,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+galvani-2,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+galvani-1,Padre con figli,2,15
+galvani-2,Padre con figli,2,93
+galvani-1,Padre con figli e altri membri conviventi,5,2
+galvani-2,Padre con figli e altri membri conviventi,5,8
+irnerio-1,Coniugi con figli,6-10,3
+irnerio-2,Coniugi con figli,6-10,6
+irnerio-1,Coppia unita civilmente femminile,2,1
+irnerio-2,Coppia unita civilmente femminile,2,1
+irnerio-1,Coppia unita civilmente femminile con altri conviventi,3,1
+irnerio-2,Coppia unita civilmente femminile con altri conviventi,3,1
+irnerio-1,Madre con figli,3,38
+irnerio-2,Madre con figli,3,103
+irnerio-1,Madre con figli,4,4
+irnerio-2,Madre con figli,4,11
+irnerio-1,Padre con figli e altri membri conviventi,5,2
+irnerio-2,Padre con figli e altri membri conviventi,5,5
+irnerio-1,Sola,1,828
+irnerio-2,Sola,1,2273
+bitone,Altre tipologie familiari,5,2
+cavedone,Altre tipologie familiari,5,1
+due madonne,Altre tipologie familiari,5,1
+fossolo,Altre tipologie familiari,5,2
+lungo savena,Altre tipologie familiari,5,1
+ospedale bellaria,Altre tipologie familiari,5,1
+pontevecchio,Altre tipologie familiari,5,1
+via arno,Altre tipologie familiari,5,1
+bitone,Padre con figli,4,3
+cavedone,Padre con figli,4,1
+due madonne,Padre con figli,4,1
+fossolo,Padre con figli,4,2
+lungo savena,Padre con figli,4,1
+ospedale bellaria,Padre con figli,4,1
+pontevecchio,Padre con figli,4,2
+via arno,Padre con figli,4,2
+irnerio-1,Madre con figli e altri membri conviventi,6-10,1
+irnerio-2,Madre con figli e altri membri conviventi,6-10,1
+chiesanuova,Coniugi con figli,6-10,10
+dagnini,Coniugi con figli,6-10,12
+giardini margherita,Coniugi con figli,6-10,1
+mezzofanti,Coniugi con figli,6-10,10
+siepelunga,Coniugi con figli,6-10,6
+bitone,Coniugi,2,831
+cavedone,Coniugi,2,242
+due madonne,Coniugi,2,233
+fossolo,Coniugi,2,670
+lungo savena,Coniugi,2,14
+ospedale bellaria,Coniugi,2,10
+pontevecchio,Coniugi,2,407
+via arno,Coniugi,2,547
+bitone,Madre con figli e altri membri conviventi,5,9
+cavedone,Madre con figli e altri membri conviventi,5,3
+due madonne,Madre con figli e altri membri conviventi,5,3
+fossolo,Madre con figli e altri membri conviventi,5,7
+lungo savena,Madre con figli e altri membri conviventi,5,1
+ospedale bellaria,Madre con figli e altri membri conviventi,5,1
+pontevecchio,Madre con figli e altri membri conviventi,5,4
+via arno,Madre con figli e altri membri conviventi,5,6
+aeroporto,Madre con figli e altri membri conviventi,5,1
+bargellino,Madre con figli e altri membri conviventi,5,1
+borgo centro,Madre con figli e altri membri conviventi,5,8
+casteldebole,Madre con figli e altri membri conviventi,5,5
+ducati-villaggio ina,Madre con figli e altri membri conviventi,5,3
+la birra,Madre con figli e altri membri conviventi,5,2
+lavino di mezzo,Madre con figli e altri membri conviventi,5,1
+lungo reno,Madre con figli e altri membri conviventi,5,1
+rigosa,Madre con figli e altri membri conviventi,5,2
+triumvirato-pietra,Madre con figli e altri membri conviventi,5,6
+via del vivaio,Madre con figli e altri membri conviventi,5,1
+malpighi-1,Coniugi con altri membri conviventi,3,3
+malpighi-2,Coniugi con altri membri conviventi,3,15
+malpighi-1,Madre con figli e altri membri conviventi,4,6
+malpighi-2,Madre con figli e altri membri conviventi,4,31
+malpighi-1,Padre con figli e altri membri conviventi,4,7
+malpighi-2,Padre con figli e altri membri conviventi,4,38
+marconi-1,Coniugi con figli,6-10,2
+marconi-2,Coniugi con figli,6-10,6
+marconi-1,Madre con figli e altri membri conviventi,6-10,1
+marconi-2,Madre con figli e altri membri conviventi,6-10,2
+marconi-1,Padre con figli e altri membri conviventi,6-10,1
+marconi-2,Padre con figli e altri membri conviventi,6-10,2
+osservanza,Altre tipologie familiari,6-10,1
+paderno,Altre tipologie familiari,6-10,1
+san michele in bosco,Altre tipologie familiari,6-10,1
+osservanza,Madre con figli,2,128
+paderno,Madre con figli,2,49
+san michele in bosco,Madre con figli,2,80
+galvani-1,Coniugi con figli,4,43
+galvani-2,Coniugi con figli,4,266
+irnerio-1,Coppia unita civilmente maschile con figli ed eventuali conviventi,3,1
+irnerio-2,Coppia unita civilmente maschile con figli ed eventuali conviventi,3,1
+irnerio-1,Padre con figli e altri membri conviventi,3,19
+irnerio-2,Padre con figli e altri membri conviventi,3,50
+chiesanuova,Coniugi con figli,3,294
+dagnini,Coniugi con figli,3,377
+giardini margherita,Coniugi con figli,3,2
+mezzofanti,Coniugi con figli,3,295
+siepelunga,Coniugi con figli,3,177
+chiesanuova,Coniugi con figli,4,266
+dagnini,Coniugi con figli,4,340
+giardini margherita,Coniugi con figli,4,2
+mezzofanti,Coniugi con figli,4,267
+siepelunga,Coniugi con figli,4,159
+chiesanuova,Madre con figli,2,223
+dagnini,Madre con figli,2,285
+giardini margherita,Madre con figli,2,1
+mezzofanti,Madre con figli,2,223
+siepelunga,Madre con figli,2,134
+chiesanuova,Padre con figli,3,19
+dagnini,Padre con figli,3,24
+giardini margherita,Padre con figli,3,1
+mezzofanti,Padre con figli,3,19
+siepelunga,Padre con figli,3,11
+chiesanuova,Padre con figli,4,3
+dagnini,Padre con figli,4,3
+giardini margherita,Padre con figli,4,1
+mezzofanti,Padre con figli,4,3
+siepelunga,Padre con figli,4,2
+bitone,Altre tipologie familiari,3,16
+cavedone,Altre tipologie familiari,3,5
+due madonne,Altre tipologie familiari,3,5
+fossolo,Altre tipologie familiari,3,13
+lungo savena,Altre tipologie familiari,3,1
+ospedale bellaria,Altre tipologie familiari,3,1
+pontevecchio,Altre tipologie familiari,3,8
+via arno,Altre tipologie familiari,3,11
+bitone,Coniugi con figli e altri membri conviventi,5,18
+cavedone,Coniugi con figli e altri membri conviventi,5,6
+due madonne,Coniugi con figli e altri membri conviventi,5,5
+fossolo,Coniugi con figli e altri membri conviventi,5,15
+lungo savena,Coniugi con figli e altri membri conviventi,5,1
+ospedale bellaria,Coniugi con figli e altri membri conviventi,5,1
+pontevecchio,Coniugi con figli e altri membri conviventi,5,9
+via arno,Coniugi con figli e altri membri conviventi,5,12
+bitone,Madre con figli,2,323
+cavedone,Madre con figli,2,95
+due madonne,Madre con figli,2,91
+fossolo,Madre con figli,2,261
+lungo savena,Madre con figli,2,6
+ospedale bellaria,Madre con figli,2,4
+pontevecchio,Madre con figli,2,159
+via arno,Madre con figli,2,213
+aeroporto,Padre con figli e altri membri conviventi,6-10,1
+bargellino,Padre con figli e altri membri conviventi,6-10,1
+borgo centro,Padre con figli e altri membri conviventi,6-10,6
+casteldebole,Padre con figli e altri membri conviventi,6-10,4
+ducati-villaggio ina,Padre con figli e altri membri conviventi,6-10,3
+la birra,Padre con figli e altri membri conviventi,6-10,2
+lavino di mezzo,Padre con figli e altri membri conviventi,6-10,1
+lungo reno,Padre con figli e altri membri conviventi,6-10,1
+rigosa,Padre con figli e altri membri conviventi,6-10,1
+triumvirato-pietra,Padre con figli e altri membri conviventi,6-10,4
+via del vivaio,Padre con figli e altri membri conviventi,6-10,1
+arcoveggio,Altre tipologie familiari,4,9
+caserme rosse-manifattura,Altre tipologie familiari,4,2
+cnr,Altre tipologie familiari,4,1
+ex mercato ortofrutticolo,Altre tipologie familiari,4,2
+piazza dell'unita',Altre tipologie familiari,4,10
+via ferrarese,Altre tipologie familiari,4,10
+arcoveggio,Padre con figli e altri membri conviventi,5,9
+caserme rosse-manifattura,Padre con figli e altri membri conviventi,5,2
+cnr,Padre con figli e altri membri conviventi,5,1
+ex mercato ortofrutticolo,Padre con figli e altri membri conviventi,5,2
+piazza dell'unita',Padre con figli e altri membri conviventi,5,9
+via ferrarese,Padre con figli e altri membri conviventi,5,10
+croce coperta,Altre tipologie familiari,2,132
+la dozza,Altre tipologie familiari,2,30
+mulino del gomito,Altre tipologie familiari,2,16
+san savino,Altre tipologie familiari,2,203
+savena abbandonato,Altre tipologie familiari,2,23
+croce coperta,Coniugi con altri membri conviventi,5,2
+la dozza,Coniugi con altri membri conviventi,5,1
+mulino del gomito,Coniugi con altri membri conviventi,5,1
+san savino,Coniugi con altri membri conviventi,5,4
+savena abbandonato,Coniugi con altri membri conviventi,5,1
+croce coperta,Padre con figli,3,11
+la dozza,Padre con figli,3,3
+mulino del gomito,Padre con figli,3,2
+san savino,Padre con figli,3,16
+savena abbandonato,Padre con figli,3,2
+ravone,Padre con figli e altri membri conviventi,6-10,1
+san giuseppe,Padre con figli e altri membri conviventi,6-10,2
+san luca,Padre con figli e altri membri conviventi,6-10,1
+stadio-meloncello,Padre con figli e altri membri conviventi,6-10,1
+via del genio,Padre con figli e altri membri conviventi,6-10,1
+xxi aprile,Padre con figli e altri membri conviventi,6-10,3
+ravone,Solo,1,157
+san giuseppe,Solo,1,812
+san luca,Solo,1,86
+stadio-meloncello,Solo,1,466
+via del genio,Solo,1,3
+xxi aprile,Solo,1,1647
+battindarno,Coniugi con altri membri conviventi,3,27
+canale di reno,Coniugi con altri membri conviventi,3,20
+villaggio della barca,Coniugi con altri membri conviventi,3,19
+battindarno,Coniugi con altri membri conviventi,6-10,2
+canale di reno,Coniugi con altri membri conviventi,6-10,1
+villaggio della barca,Coniugi con altri membri conviventi,6-10,1
+arcoveggio,Coniugi con altri membri conviventi,5,2
+caserme rosse-manifattura,Coniugi con altri membri conviventi,5,1
+cnr,Coniugi con altri membri conviventi,5,1
+ex mercato ortofrutticolo,Coniugi con altri membri conviventi,5,1
+piazza dell'unita',Coniugi con altri membri conviventi,5,2
+via ferrarese,Coniugi con altri membri conviventi,5,2
+arcoveggio,Madre con figli,6-10,1
+caserme rosse-manifattura,Madre con figli,6-10,1
+cnr,Madre con figli,6-10,1
+ex mercato ortofrutticolo,Madre con figli,6-10,1
+piazza dell'unita',Madre con figli,6-10,1
+via ferrarese,Madre con figli,6-10,1
+arcoveggio,Padre con figli,3,14
+caserme rosse-manifattura,Padre con figli,3,3
+cnr,Padre con figli,3,1
+ex mercato ortofrutticolo,Padre con figli,3,3
+piazza dell'unita',Padre con figli,3,15
+via ferrarese,Padre con figli,3,17
+croce coperta,Altre tipologie familiari,4,3
+la dozza,Altre tipologie familiari,4,1
+mulino del gomito,Altre tipologie familiari,4,1
+san savino,Altre tipologie familiari,4,4
+savena abbandonato,Altre tipologie familiari,4,1
+croce coperta,Coniugi con altri membri conviventi,3,13
+la dozza,Coniugi con altri membri conviventi,3,3
+mulino del gomito,Coniugi con altri membri conviventi,3,2
+san savino,Coniugi con altri membri conviventi,3,19
+savena abbandonato,Coniugi con altri membri conviventi,3,3
+beverara,Coniugi con figli e altri membri conviventi,4,16
+la noce,Coniugi con figli e altri membri conviventi,4,4
+laghetti del rosario,Coniugi con figli e altri membri conviventi,4,2
+lazzaretto,Coniugi con figli e altri membri conviventi,4,3
+pescarola,Coniugi con figli e altri membri conviventi,4,11
+tiro a segno,Coniugi con figli e altri membri conviventi,4,1
+ravone,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+san giuseppe,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,2
+san luca,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+stadio-meloncello,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+via del genio,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+xxi aprile,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,3
+ravone,Madre con figli e altri membri conviventi,4,6
+san giuseppe,Madre con figli e altri membri conviventi,4,28
+san luca,Madre con figli e altri membri conviventi,4,3
+stadio-meloncello,Madre con figli e altri membri conviventi,4,16
+via del genio,Madre con figli e altri membri conviventi,4,1
+xxi aprile,Madre con figli e altri membri conviventi,4,57
+malpighi-1,Altre tipologie familiari,2,42
+malpighi-2,Altre tipologie familiari,2,223
+malpighi-1,Madre con figli,6-10,1
+malpighi-2,Madre con figli,6-10,2
+malpighi-1,Padre con figli,2,13
+malpighi-2,Padre con figli,2,66
+marconi-1,Coniugi con altri membri conviventi,4,1
+marconi-2,Coniugi con altri membri conviventi,4,5
+marconi-1,Coppia unita civilmente femminile,2,1
+marconi-2,Coppia unita civilmente femminile,2,4
+marconi-1,Madre con figli,2,74
+marconi-2,Madre con figli,2,388
+marconi-1,Madre con figli e altri membri conviventi,5,2
+marconi-2,Madre con figli e altri membri conviventi,5,6
+marconi-1,Padre con figli,4,1
+marconi-2,Padre con figli,4,3
+prati di caprara-ospedale maggiore,Altre tipologie familiari,2,12
+scalo ravone,Altre tipologie familiari,2,4
+velodromo,Altre tipologie familiari,2,138
+via vittorio veneto,Altre tipologie familiari,2,129
+zanardi,Altre tipologie familiari,2,157
+prati di caprara-ospedale maggiore,Coppia unita civilmente femminile,2,1
+scalo ravone,Coppia unita civilmente femminile,2,1
+velodromo,Coppia unita civilmente femminile,2,2
+via vittorio veneto,Coppia unita civilmente femminile,2,2
+zanardi,Coppia unita civilmente femminile,2,2
+prati di caprara-ospedale maggiore,Coppia unita civilmente maschile,2,1
+scalo ravone,Coppia unita civilmente maschile,2,1
+velodromo,Coppia unita civilmente maschile,2,4
+via vittorio veneto,Coppia unita civilmente maschile,2,4
+zanardi,Coppia unita civilmente maschile,2,5
+caab,Altre tipologie familiari,6-10,1
+cadriano-calamosco,Altre tipologie familiari,6-10,1
+fiera,Altre tipologie familiari,6-10,1
+michelino,Altre tipologie familiari,6-10,1
+pilastro,Altre tipologie familiari,6-10,1
+san donnino,Altre tipologie familiari,6-10,1
+scalo merci san donato,Altre tipologie familiari,6-10,1
+via del lavoro,Altre tipologie familiari,6-10,1
+via mondo,Altre tipologie familiari,6-10,1
+caab,Coniugi con figli,3,14
+cadriano-calamosco,Coniugi con figli,3,28
+fiera,Coniugi con figli,3,1
+michelino,Coniugi con figli,3,146
+pilastro,Coniugi con figli,3,227
+san donnino,Coniugi con figli,3,94
+scalo merci san donato,Coniugi con figli,3,2
+via del lavoro,Coniugi con figli,3,258
+via mondo,Coniugi con figli,3,257
+caab,Coniugi con figli,4,11
+cadriano-calamosco,Coniugi con figli,4,21
+fiera,Coniugi con figli,4,1
+michelino,Coniugi con figli,4,112
+pilastro,Coniugi con figli,4,174
+san donnino,Coniugi con figli,4,72
+scalo merci san donato,Coniugi con figli,4,1
+via del lavoro,Coniugi con figli,4,198
+via mondo,Coniugi con figli,4,197
+caab,Padre con figli,6-10,1
+cadriano-calamosco,Padre con figli,6-10,1
+fiera,Padre con figli,6-10,1
+michelino,Padre con figli,6-10,1
+pilastro,Padre con figli,6-10,1
+san donnino,Padre con figli,6-10,1
+scalo merci san donato,Padre con figli,6-10,1
+via del lavoro,Padre con figli,6-10,1
+via mondo,Padre con figli,6-10,1
+osservanza,Coniugi,2,264
+paderno,Coniugi,2,100
+san michele in bosco,Coniugi,2,165
+osservanza,Madre con figli,3,59
+paderno,Madre con figli,3,23
+san michele in bosco,Madre con figli,3,37
+osservanza,Madre con figli,5,2
+paderno,Madre con figli,5,1
+san michele in bosco,Madre con figli,5,2
+osservanza,Madre con figli e altri membri conviventi,4,23
+paderno,Madre con figli e altri membri conviventi,4,9
+san michele in bosco,Madre con figli e altri membri conviventi,4,15
+osservanza,Padre con figli,6-10,1
+paderno,Padre con figli,6-10,1
+san michele in bosco,Padre con figli,6-10,1
+osservanza,Solo,1,449
+paderno,Solo,1,170
+san michele in bosco,Solo,1,280
+galvani-1,Coniugi con figli,3,57
+galvani-2,Coniugi con figli,3,358
+galvani-1,Coniugi con figli,5,10
+galvani-2,Coniugi con figli,5,63
+galvani-1,Madre con figli e altri membri conviventi,4,7
+galvani-2,Madre con figli e altri membri conviventi,4,39
+galvani-1,Padre con figli e altri membri conviventi,3,10
+galvani-2,Padre con figli e altri membri conviventi,3,61
+galvani-1,Padre con figli e altri membri conviventi,6-10,1
+galvani-2,Padre con figli e altri membri conviventi,6-10,1
+chiesanuova,Altre tipologie familiari,2,145
+dagnini,Altre tipologie familiari,2,185
+giardini margherita,Altre tipologie familiari,2,1
+mezzofanti,Altre tipologie familiari,2,145
+siepelunga,Altre tipologie familiari,2,87
+chiesanuova,Altre tipologie familiari,3,13
+dagnini,Altre tipologie familiari,3,17
+giardini margherita,Altre tipologie familiari,3,1
+mezzofanti,Altre tipologie familiari,3,13
+siepelunga,Altre tipologie familiari,3,8
+chiesanuova,Altre tipologie familiari,4,3
+dagnini,Altre tipologie familiari,4,4
+giardini margherita,Altre tipologie familiari,4,1
+mezzofanti,Altre tipologie familiari,4,3
+siepelunga,Altre tipologie familiari,4,2
+chiesanuova,Coniugi con figli,5,45
+dagnini,Coniugi con figli,5,57
+giardini margherita,Coniugi con figli,5,1
+mezzofanti,Coniugi con figli,5,45
+siepelunga,Coniugi con figli,5,27
+chiesanuova,Coppia unita civilmente maschile con altri conviventi,3,1
+dagnini,Coppia unita civilmente maschile con altri conviventi,3,1
+giardini margherita,Coppia unita civilmente maschile con altri conviventi,3,1
+mezzofanti,Coppia unita civilmente maschile con altri conviventi,3,1
+siepelunga,Coppia unita civilmente maschile con altri conviventi,3,1
+chiesanuova,Madre con figli e altri membri conviventi,5,6
+dagnini,Madre con figli e altri membri conviventi,5,8
+giardini margherita,Madre con figli e altri membri conviventi,5,1
+mezzofanti,Madre con figli e altri membri conviventi,5,6
+siepelunga,Madre con figli e altri membri conviventi,5,4
+chiesanuova,Padre con figli e altri membri conviventi,5,4
+dagnini,Padre con figli e altri membri conviventi,5,5
+giardini margherita,Padre con figli e altri membri conviventi,5,1
+mezzofanti,Padre con figli e altri membri conviventi,5,4
+siepelunga,Padre con figli e altri membri conviventi,5,3
+bitone,Coniugi con altri membri conviventi,3,25
+cavedone,Coniugi con altri membri conviventi,3,8
+due madonne,Coniugi con altri membri conviventi,3,7
+fossolo,Coniugi con altri membri conviventi,3,20
+lungo savena,Coniugi con altri membri conviventi,3,1
+ospedale bellaria,Coniugi con altri membri conviventi,3,1
+pontevecchio,Coniugi con altri membri conviventi,3,12
+via arno,Coniugi con altri membri conviventi,3,17
+bitone,Coniugi con figli,3,443
+cavedone,Coniugi con figli,3,129
+due madonne,Coniugi con figli,3,124
+fossolo,Coniugi con figli,3,357
+lungo savena,Coniugi con figli,3,8
+ospedale bellaria,Coniugi con figli,3,5
+pontevecchio,Coniugi con figli,3,217
+via arno,Coniugi con figli,3,292
+bitone,Coniugi con figli e altri membri conviventi,Oltre 10,1
+cavedone,Coniugi con figli e altri membri conviventi,Oltre 10,1
+due madonne,Coniugi con figli e altri membri conviventi,Oltre 10,1
+fossolo,Coniugi con figli e altri membri conviventi,Oltre 10,1
+lungo savena,Coniugi con figli e altri membri conviventi,Oltre 10,1
+ospedale bellaria,Coniugi con figli e altri membri conviventi,Oltre 10,1
+pontevecchio,Coniugi con figli e altri membri conviventi,Oltre 10,1
+via arno,Coniugi con figli e altri membri conviventi,Oltre 10,1
+bitone,Coppia unita civilmente femminile,2,2
+cavedone,Coppia unita civilmente femminile,2,1
+due madonne,Coppia unita civilmente femminile,2,1
+fossolo,Coppia unita civilmente femminile,2,2
+lungo savena,Coppia unita civilmente femminile,2,1
+ospedale bellaria,Coppia unita civilmente femminile,2,1
+pontevecchio,Coppia unita civilmente femminile,2,1
+via arno,Coppia unita civilmente femminile,2,2
+bitone,Madre con figli e altri membri conviventi,4,50
+cavedone,Madre con figli e altri membri conviventi,4,15
+due madonne,Madre con figli e altri membri conviventi,4,14
+fossolo,Madre con figli e altri membri conviventi,4,40
+lungo savena,Madre con figli e altri membri conviventi,4,1
+ospedale bellaria,Madre con figli e altri membri conviventi,4,1
+pontevecchio,Madre con figli e altri membri conviventi,4,25
+via arno,Madre con figli e altri membri conviventi,4,33
+bitone,Sola,1,1618
+cavedone,Sola,1,471
+due madonne,Sola,1,454
+fossolo,Sola,1,1304
+lungo savena,Sola,1,27
+ospedale bellaria,Sola,1,18
+pontevecchio,Sola,1,793
+via arno,Sola,1,1065
+battindarno,Madre con figli,3,90
+canale di reno,Madre con figli,3,65
+villaggio della barca,Madre con figli,3,61
+battindarno,Padre con figli,2,58
+canale di reno,Padre con figli,2,42
+villaggio della barca,Padre con figli,2,40
+aeroporto,Coniugi con altri membri conviventi,6-10,1
+bargellino,Coniugi con altri membri conviventi,6-10,1
+borgo centro,Coniugi con altri membri conviventi,6-10,1
+casteldebole,Coniugi con altri membri conviventi,6-10,1
+ducati-villaggio ina,Coniugi con altri membri conviventi,6-10,1
+la birra,Coniugi con altri membri conviventi,6-10,1
+lavino di mezzo,Coniugi con altri membri conviventi,6-10,1
+lungo reno,Coniugi con altri membri conviventi,6-10,1
+rigosa,Coniugi con altri membri conviventi,6-10,1
+triumvirato-pietra,Coniugi con altri membri conviventi,6-10,1
+via del vivaio,Coniugi con altri membri conviventi,6-10,1
+aeroporto,Madre con figli,2,12
+bargellino,Madre con figli,2,2
+borgo centro,Madre con figli,2,204
+casteldebole,Madre con figli,2,131
+ducati-villaggio ina,Madre con figli,2,80
+la birra,Madre con figli,2,50
+lavino di mezzo,Madre con figli,2,14
+lungo reno,Madre con figli,2,1
+rigosa,Madre con figli,2,35
+triumvirato-pietra,Madre con figli,2,139
+via del vivaio,Madre con figli,2,24
+aeroporto,Padre con figli,4,1
+bargellino,Padre con figli,4,1
+borgo centro,Padre con figli,4,2
+casteldebole,Padre con figli,4,2
+ducati-villaggio ina,Padre con figli,4,1
+la birra,Padre con figli,4,1
+lavino di mezzo,Padre con figli,4,1
+lungo reno,Padre con figli,4,1
+rigosa,Padre con figli,4,1
+triumvirato-pietra,Padre con figli,4,2
+via del vivaio,Padre con figli,4,1
+arcoveggio,Altre tipologie familiari,2,298
+caserme rosse-manifattura,Altre tipologie familiari,2,62
+cnr,Altre tipologie familiari,2,2
+ex mercato ortofrutticolo,Altre tipologie familiari,2,50
+piazza dell'unita',Altre tipologie familiari,2,316
+via ferrarese,Altre tipologie familiari,2,343
+croce coperta,Altre tipologie familiari,3,12
+la dozza,Altre tipologie familiari,3,3
+mulino del gomito,Altre tipologie familiari,3,2
+san savino,Altre tipologie familiari,3,19
+savena abbandonato,Altre tipologie familiari,3,2
+croce coperta,Madre con figli e altri membri conviventi,6-10,5
+la dozza,Madre con figli e altri membri conviventi,6-10,1
+mulino del gomito,Madre con figli e altri membri conviventi,6-10,1
+san savino,Madre con figli e altri membri conviventi,6-10,7
+savena abbandonato,Madre con figli e altri membri conviventi,6-10,1
+croce coperta,Padre con figli,2,42
+la dozza,Padre con figli,2,10
+mulino del gomito,Padre con figli,2,6
+san savino,Padre con figli,2,64
+savena abbandonato,Padre con figli,2,7
+croce coperta,Padre con figli e altri membri conviventi,6-10,3
+la dozza,Padre con figli e altri membri conviventi,6-10,1
+mulino del gomito,Padre con figli e altri membri conviventi,6-10,1
+san savino,Padre con figli e altri membri conviventi,6-10,5
+savena abbandonato,Padre con figli e altri membri conviventi,6-10,1
+beverara,Altre tipologie familiari,3,13
+la noce,Altre tipologie familiari,3,3
+laghetti del rosario,Altre tipologie familiari,3,1
+lazzaretto,Altre tipologie familiari,3,2
+pescarola,Altre tipologie familiari,3,9
+tiro a segno,Altre tipologie familiari,3,1
+beverara,Coniugi con altri membri conviventi,4,2
+la noce,Coniugi con altri membri conviventi,4,1
+laghetti del rosario,Coniugi con altri membri conviventi,4,1
+lazzaretto,Coniugi con altri membri conviventi,4,1
+pescarola,Coniugi con altri membri conviventi,4,2
+tiro a segno,Coniugi con altri membri conviventi,4,1
+beverara,Coniugi con figli,3,287
+la noce,Coniugi con figli,3,62
+laghetti del rosario,Coniugi con figli,3,20
+lazzaretto,Coniugi con figli,3,38
+pescarola,Coniugi con figli,3,185
+tiro a segno,Coniugi con figli,3,7
+beverara,Coniugi con figli e altri membri conviventi,Oltre 10,1
+la noce,Coniugi con figli e altri membri conviventi,Oltre 10,1
+laghetti del rosario,Coniugi con figli e altri membri conviventi,Oltre 10,1
+lazzaretto,Coniugi con figli e altri membri conviventi,Oltre 10,1
+pescarola,Coniugi con figli e altri membri conviventi,Oltre 10,1
+tiro a segno,Coniugi con figli e altri membri conviventi,Oltre 10,1
+beverara,Madre con figli e altri membri conviventi,5,7
+la noce,Madre con figli e altri membri conviventi,5,2
+laghetti del rosario,Madre con figli e altri membri conviventi,5,1
+lazzaretto,Madre con figli e altri membri conviventi,5,1
+pescarola,Madre con figli e altri membri conviventi,5,5
+tiro a segno,Madre con figli e altri membri conviventi,5,1
+beverara,Padre con figli,3,11
+la noce,Padre con figli,3,3
+laghetti del rosario,Padre con figli,3,1
+lazzaretto,Padre con figli,3,2
+pescarola,Padre con figli,3,7
+tiro a segno,Padre con figli,3,1
+ravone,Altre tipologie familiari,4,1
+san giuseppe,Altre tipologie familiari,4,1
+san luca,Altre tipologie familiari,4,1
+stadio-meloncello,Altre tipologie familiari,4,1
+via del genio,Altre tipologie familiari,4,1
+xxi aprile,Altre tipologie familiari,4,2
+ravone,Coniugi con figli,6-10,2
+san giuseppe,Coniugi con figli,6-10,6
+san luca,Coniugi con figli,6-10,1
+stadio-meloncello,Coniugi con figli,6-10,4
+via del genio,Coniugi con figli,6-10,1
+xxi aprile,Coniugi con figli,6-10,12
+ravone,Coppia unita civilmente maschile con altri conviventi,3,1
+san giuseppe,Coppia unita civilmente maschile con altri conviventi,3,1
+san luca,Coppia unita civilmente maschile con altri conviventi,3,1
+stadio-meloncello,Coppia unita civilmente maschile con altri conviventi,3,1
+via del genio,Coppia unita civilmente maschile con altri conviventi,3,1
+xxi aprile,Coppia unita civilmente maschile con altri conviventi,3,1
+ravone,Madre con figli e altri membri conviventi,3,8
+san giuseppe,Madre con figli e altri membri conviventi,3,40
+san luca,Madre con figli e altri membri conviventi,3,5
+stadio-meloncello,Madre con figli e altri membri conviventi,3,23
+via del genio,Madre con figli e altri membri conviventi,3,1
+xxi aprile,Madre con figli e altri membri conviventi,3,81
+ravone,Padre con figli,4,1
+san giuseppe,Padre con figli,4,1
+san luca,Padre con figli,4,1
+stadio-meloncello,Padre con figli,4,1
+via del genio,Padre con figli,4,1
+xxi aprile,Padre con figli,4,2
+ravone,Sola,1,205
+san giuseppe,Sola,1,1064
+san luca,Sola,1,112
+stadio-meloncello,Sola,1,610
+via del genio,Sola,1,3
+xxi aprile,Sola,1,2158
+malpighi-1,Coppia unita civilmente maschile,2,1
+malpighi-2,Coppia unita civilmente maschile,2,6
+malpighi-1,Madre con figli,3,18
+malpighi-2,Madre con figli,3,91
+marconi-1,Altre tipologie familiari,4,2
+marconi-2,Altre tipologie familiari,4,8
+marconi-1,Coniugi con figli,4,62
+marconi-2,Coniugi con figli,4,326
+marconi-1,Padre con figli,5,1
+marconi-2,Padre con figli,5,1
+marconi-1,Padre con figli e altri membri conviventi,4,6
+marconi-2,Padre con figli e altri membri conviventi,4,30
+prati di caprara-ospedale maggiore,Padre con figli e altri membri conviventi,4,2
+scalo ravone,Padre con figli e altri membri conviventi,4,1
+velodromo,Padre con figli e altri membri conviventi,4,22
+via vittorio veneto,Padre con figli e altri membri conviventi,4,20
+zanardi,Padre con figli e altri membri conviventi,4,25
+prati di caprara-ospedale maggiore,Padre con figli e altri membri conviventi,5,1
+scalo ravone,Padre con figli e altri membri conviventi,5,1
+velodromo,Padre con figli e altri membri conviventi,5,5
+via vittorio veneto,Padre con figli e altri membri conviventi,5,5
+zanardi,Padre con figli e altri membri conviventi,5,6
+caab,Altre tipologie familiari,4,1
+cadriano-calamosco,Altre tipologie familiari,4,1
+fiera,Altre tipologie familiari,4,1
+michelino,Altre tipologie familiari,4,3
+pilastro,Altre tipologie familiari,4,4
+san donnino,Altre tipologie familiari,4,2
+scalo merci san donato,Altre tipologie familiari,4,1
+via del lavoro,Altre tipologie familiari,4,5
+via mondo,Altre tipologie familiari,4,5
+caab,Coniugi con figli,5,4
+cadriano-calamosco,Coniugi con figli,5,7
+fiera,Coniugi con figli,5,1
+michelino,Coniugi con figli,5,35
+pilastro,Coniugi con figli,5,54
+san donnino,Coniugi con figli,5,22
+scalo merci san donato,Coniugi con figli,5,1
+via del lavoro,Coniugi con figli,5,61
+via mondo,Coniugi con figli,5,61
+osservanza,Altre tipologie familiari,2,73
+paderno,Altre tipologie familiari,2,28
+san michele in bosco,Altre tipologie familiari,2,46
+galvani-1,Altre tipologie familiari,4,1
+galvani-2,Altre tipologie familiari,4,6
+galvani-1,Altre tipologie familiari,5,1
+galvani-2,Altre tipologie familiari,5,4
+irnerio-1,Coniugi con altri membri conviventi,4,2
+irnerio-2,Coniugi con altri membri conviventi,4,6
+irnerio-1,Coniugi con altri membri conviventi,5,1
+irnerio-2,Coniugi con altri membri conviventi,5,1
+irnerio-1,Coniugi con figli,4,69
+irnerio-2,Coniugi con figli,4,187
+irnerio-1,Padre con figli,3,10
+irnerio-2,Padre con figli,3,26
+chiesanuova,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+dagnini,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+giardini margherita,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+mezzofanti,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+siepelunga,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+chiesanuova,Padre con figli e altri membri conviventi,3,43
+dagnini,Padre con figli e altri membri conviventi,3,55
+giardini margherita,Padre con figli e altri membri conviventi,3,1
+mezzofanti,Padre con figli e altri membri conviventi,3,43
+siepelunga,Padre con figli e altri membri conviventi,3,26
+bitone,Altre tipologie familiari,2,239
+cavedone,Altre tipologie familiari,2,70
+due madonne,Altre tipologie familiari,2,67
+fossolo,Altre tipologie familiari,2,193
+lungo savena,Altre tipologie familiari,2,4
+ospedale bellaria,Altre tipologie familiari,2,3
+pontevecchio,Altre tipologie familiari,2,117
+via arno,Altre tipologie familiari,2,157
+bitone,Altre tipologie familiari,4,6
+cavedone,Altre tipologie familiari,4,2
+due madonne,Altre tipologie familiari,4,2
+fossolo,Altre tipologie familiari,4,5
+lungo savena,Altre tipologie familiari,4,1
+ospedale bellaria,Altre tipologie familiari,4,1
+pontevecchio,Altre tipologie familiari,4,3
+via arno,Altre tipologie familiari,4,4
+bitone,Coniugi con figli e altri membri conviventi,6-10,23
+cavedone,Coniugi con figli e altri membri conviventi,6-10,7
+due madonne,Coniugi con figli e altri membri conviventi,6-10,7
+fossolo,Coniugi con figli e altri membri conviventi,6-10,18
+lungo savena,Coniugi con figli e altri membri conviventi,6-10,1
+ospedale bellaria,Coniugi con figli e altri membri conviventi,6-10,1
+pontevecchio,Coniugi con figli e altri membri conviventi,6-10,11
+via arno,Coniugi con figli e altri membri conviventi,6-10,15
+bitone,Madre con figli e altri membri conviventi,6-10,3
+cavedone,Madre con figli e altri membri conviventi,6-10,1
+due madonne,Madre con figli e altri membri conviventi,6-10,1
+fossolo,Madre con figli e altri membri conviventi,6-10,3
+lungo savena,Madre con figli e altri membri conviventi,6-10,1
+ospedale bellaria,Madre con figli e altri membri conviventi,6-10,1
+pontevecchio,Madre con figli e altri membri conviventi,6-10,2
+via arno,Madre con figli e altri membri conviventi,6-10,2
+bitone,Padre con figli,3,22
+cavedone,Padre con figli,3,7
+due madonne,Padre con figli,3,7
+fossolo,Padre con figli,3,18
+lungo savena,Padre con figli,3,1
+ospedale bellaria,Padre con figli,3,1
+pontevecchio,Padre con figli,3,11
+via arno,Padre con figli,3,15
+irnerio-1,Coniugi,2,196
+irnerio-2,Coniugi,2,538
+irnerio-1,Coniugi con figli e altri membri conviventi,5,4
+irnerio-2,Coniugi con figli e altri membri conviventi,5,11
+irnerio-1,Madre con figli,2,101
+irnerio-2,Madre con figli,2,276
+irnerio-1,Padre con figli,4,2
+irnerio-2,Padre con figli,4,4
+chiesanuova,Coniugi con figli e altri membri conviventi,4,13
+dagnini,Coniugi con figli e altri membri conviventi,4,17
+giardini margherita,Coniugi con figli e altri membri conviventi,4,1
+mezzofanti,Coniugi con figli e altri membri conviventi,4,13
+siepelunga,Coniugi con figli e altri membri conviventi,4,8
+chiesanuova,Coniugi con figli e altri membri conviventi,6-10,9
+dagnini,Coniugi con figli e altri membri conviventi,6-10,11
+giardini margherita,Coniugi con figli e altri membri conviventi,6-10,1
+mezzofanti,Coniugi con figli e altri membri conviventi,6-10,9
+siepelunga,Coniugi con figli e altri membri conviventi,6-10,5
+chiesanuova,Madre con figli,3,83
+dagnini,Madre con figli,3,106
+giardini margherita,Madre con figli,3,1
+mezzofanti,Madre con figli,3,83
+siepelunga,Madre con figli,3,50
+chiesanuova,Madre con figli,4,11
+dagnini,Madre con figli,4,13
+giardini margherita,Madre con figli,4,1
+mezzofanti,Madre con figli,4,11
+siepelunga,Madre con figli,4,7
+chiesanuova,Madre con figli e altri membri conviventi,4,26
+dagnini,Madre con figli e altri membri conviventi,4,34
+giardini margherita,Madre con figli e altri membri conviventi,4,1
+mezzofanti,Madre con figli e altri membri conviventi,4,27
+siepelunga,Madre con figli e altri membri conviventi,4,16
+chiesanuova,Padre con figli,2,49
+dagnini,Padre con figli,2,63
+giardini margherita,Padre con figli,2,1
+mezzofanti,Padre con figli,2,50
+siepelunga,Padre con figli,2,30
+bitone,Coniugi con figli e altri membri conviventi,4,25
+cavedone,Coniugi con figli e altri membri conviventi,4,8
+due madonne,Coniugi con figli e altri membri conviventi,4,7
+fossolo,Coniugi con figli e altri membri conviventi,4,20
+lungo savena,Coniugi con figli e altri membri conviventi,4,1
+ospedale bellaria,Coniugi con figli e altri membri conviventi,4,1
+pontevecchio,Coniugi con figli e altri membri conviventi,4,12
+via arno,Coniugi con figli e altri membri conviventi,4,17
+bitone,Madre con figli e altri membri conviventi,3,80
+cavedone,Madre con figli e altri membri conviventi,3,24
+due madonne,Madre con figli e altri membri conviventi,3,23
+fossolo,Madre con figli e altri membri conviventi,3,65
+lungo savena,Madre con figli e altri membri conviventi,3,2
+ospedale bellaria,Madre con figli e altri membri conviventi,3,1
+pontevecchio,Madre con figli e altri membri conviventi,3,40
+via arno,Madre con figli e altri membri conviventi,3,53
+battindarno,Coniugi con figli,6-10,16
+canale di reno,Coniugi con figli,6-10,12
+villaggio della barca,Coniugi con figli,6-10,11
+battindarno,Coppia unita civilmente femminile,2,3
+canale di reno,Coppia unita civilmente femminile,2,2
+villaggio della barca,Coppia unita civilmente femminile,2,2
+battindarno,Madre con figli,2,280
+canale di reno,Madre con figli,2,200
+villaggio della barca,Madre con figli,2,190
+battindarno,Padre con figli,3,13
+canale di reno,Padre con figli,3,9
+villaggio della barca,Padre con figli,3,9
+aeroporto,Altre tipologie familiari,6-10,1
+bargellino,Altre tipologie familiari,6-10,1
+borgo centro,Altre tipologie familiari,6-10,1
+casteldebole,Altre tipologie familiari,6-10,1
+ducati-villaggio ina,Altre tipologie familiari,6-10,1
+la birra,Altre tipologie familiari,6-10,1
+lavino di mezzo,Altre tipologie familiari,6-10,1
+lungo reno,Altre tipologie familiari,6-10,1
+rigosa,Altre tipologie familiari,6-10,1
+triumvirato-pietra,Altre tipologie familiari,6-10,1
+via del vivaio,Altre tipologie familiari,6-10,1
+aeroporto,Coniugi con figli,5,3
+bargellino,Coniugi con figli,5,1
+borgo centro,Coniugi con figli,5,49
+casteldebole,Coniugi con figli,5,32
+ducati-villaggio ina,Coniugi con figli,5,20
+la birra,Coniugi con figli,5,12
+lavino di mezzo,Coniugi con figli,5,4
+lungo reno,Coniugi con figli,5,1
+rigosa,Coniugi con figli,5,9
+triumvirato-pietra,Coniugi con figli,5,34
+via del vivaio,Coniugi con figli,5,6
+aeroporto,Coniugi con figli e altri membri conviventi,4,2
+bargellino,Coniugi con figli e altri membri conviventi,4,1
+borgo centro,Coniugi con figli e altri membri conviventi,4,20
+casteldebole,Coniugi con figli e altri membri conviventi,4,13
+ducati-villaggio ina,Coniugi con figli e altri membri conviventi,4,8
+la birra,Coniugi con figli e altri membri conviventi,4,5
+lavino di mezzo,Coniugi con figli e altri membri conviventi,4,2
+lungo reno,Coniugi con figli e altri membri conviventi,4,1
+rigosa,Coniugi con figli e altri membri conviventi,4,4
+triumvirato-pietra,Coniugi con figli e altri membri conviventi,4,14
+via del vivaio,Coniugi con figli e altri membri conviventi,4,3
+aeroporto,Coniugi con figli e altri membri conviventi,5,2
+bargellino,Coniugi con figli e altri membri conviventi,5,1
+borgo centro,Coniugi con figli e altri membri conviventi,5,24
+casteldebole,Coniugi con figli e altri membri conviventi,5,15
+ducati-villaggio ina,Coniugi con figli e altri membri conviventi,5,9
+la birra,Coniugi con figli e altri membri conviventi,5,6
+lavino di mezzo,Coniugi con figli e altri membri conviventi,5,2
+lungo reno,Coniugi con figli e altri membri conviventi,5,1
+rigosa,Coniugi con figli e altri membri conviventi,5,4
+triumvirato-pietra,Coniugi con figli e altri membri conviventi,5,16
+via del vivaio,Coniugi con figli e altri membri conviventi,5,3
+aeroporto,Madre con figli,4,1
+bargellino,Madre con figli,4,1
+borgo centro,Madre con figli,4,11
+casteldebole,Madre con figli,4,8
+ducati-villaggio ina,Madre con figli,4,5
+la birra,Madre con figli,4,3
+lavino di mezzo,Madre con figli,4,1
+lungo reno,Madre con figli,4,1
+rigosa,Madre con figli,4,2
+triumvirato-pietra,Madre con figli,4,8
+via del vivaio,Madre con figli,4,2
+aeroporto,Padre con figli,3,1
+bargellino,Padre con figli,3,1
+borgo centro,Padre con figli,3,13
+casteldebole,Padre con figli,3,8
+ducati-villaggio ina,Padre con figli,3,5
+la birra,Padre con figli,3,4
+lavino di mezzo,Padre con figli,3,1
+lungo reno,Padre con figli,3,1
+rigosa,Padre con figli,3,3
+triumvirato-pietra,Padre con figli,3,9
+via del vivaio,Padre con figli,3,2
+aeroporto,Padre con figli e altri membri conviventi,5,1
+bargellino,Padre con figli e altri membri conviventi,5,1
+borgo centro,Padre con figli e altri membri conviventi,5,6
+casteldebole,Padre con figli e altri membri conviventi,5,4
+ducati-villaggio ina,Padre con figli e altri membri conviventi,5,3
+la birra,Padre con figli e altri membri conviventi,5,2
+lavino di mezzo,Padre con figli e altri membri conviventi,5,1
+lungo reno,Padre con figli e altri membri conviventi,5,1
+rigosa,Padre con figli e altri membri conviventi,5,1
+triumvirato-pietra,Padre con figli e altri membri conviventi,5,5
+via del vivaio,Padre con figli e altri membri conviventi,5,1
+arcoveggio,Madre con figli e altri membri conviventi,5,9
+caserme rosse-manifattura,Madre con figli e altri membri conviventi,5,2
+cnr,Madre con figli e altri membri conviventi,5,1
+ex mercato ortofrutticolo,Madre con figli e altri membri conviventi,5,2
+piazza dell'unita',Madre con figli e altri membri conviventi,5,10
+via ferrarese,Madre con figli e altri membri conviventi,5,11
+arcoveggio,Sola,1,1554
+caserme rosse-manifattura,Sola,1,324
+cnr,Sola,1,8
+ex mercato ortofrutticolo,Sola,1,259
+piazza dell'unita',Sola,1,1643
+via ferrarese,Sola,1,1785
+croce coperta,Altre tipologie familiari,5,1
+la dozza,Altre tipologie familiari,5,1
+mulino del gomito,Altre tipologie familiari,5,1
+san savino,Altre tipologie familiari,5,2
+savena abbandonato,Altre tipologie familiari,5,1
+croce coperta,Altre tipologie familiari,6-10,1
+la dozza,Altre tipologie familiari,6-10,1
+mulino del gomito,Altre tipologie familiari,6-10,1
+san savino,Altre tipologie familiari,6-10,2
+savena abbandonato,Altre tipologie familiari,6-10,1
+croce coperta,Coniugi con figli,6-10,11
+la dozza,Coniugi con figli,6-10,3
+mulino del gomito,Coniugi con figli,6-10,2
+san savino,Coniugi con figli,6-10,16
+savena abbandonato,Coniugi con figli,6-10,2
+croce coperta,Madre con figli,2,167
+la dozza,Madre con figli,2,38
+mulino del gomito,Madre con figli,2,21
+san savino,Madre con figli,2,256
+savena abbandonato,Madre con figli,2,28
+croce coperta,Madre con figli,5,1
+la dozza,Madre con figli,5,1
+mulino del gomito,Madre con figli,5,1
+san savino,Madre con figli,5,2
+savena abbandonato,Madre con figli,5,1
+croce coperta,Padre con figli,4,2
+la dozza,Padre con figli,4,1
+mulino del gomito,Padre con figli,4,1
+san savino,Padre con figli,4,3
+savena abbandonato,Padre con figli,4,1
+beverara,Coniugi con figli e altri membri conviventi,5,11
+la noce,Coniugi con figli e altri membri conviventi,5,3
+laghetti del rosario,Coniugi con figli e altri membri conviventi,5,1
+lazzaretto,Coniugi con figli e altri membri conviventi,5,2
+pescarola,Coniugi con figli e altri membri conviventi,5,7
+tiro a segno,Coniugi con figli e altri membri conviventi,5,1
+beverara,Coppia unita civilmente maschile,2,4
+la noce,Coppia unita civilmente maschile,2,1
+laghetti del rosario,Coppia unita civilmente maschile,2,1
+lazzaretto,Coppia unita civilmente maschile,2,1
+pescarola,Coppia unita civilmente maschile,2,3
+tiro a segno,Coppia unita civilmente maschile,2,1
+beverara,Padre con figli,2,43
+la noce,Padre con figli,2,10
+laghetti del rosario,Padre con figli,2,3
+lazzaretto,Padre con figli,2,6
+pescarola,Padre con figli,2,28
+tiro a segno,Padre con figli,2,1
+ravone,Altre tipologie familiari,2,28
+san giuseppe,Altre tipologie familiari,2,144
+san luca,Altre tipologie familiari,2,16
+stadio-meloncello,Altre tipologie familiari,2,83
+via del genio,Altre tipologie familiari,2,1
+xxi aprile,Altre tipologie familiari,2,292
+ravone,Coniugi con figli,5,7
+san giuseppe,Coniugi con figli,5,37
+san luca,Coniugi con figli,5,4
+stadio-meloncello,Coniugi con figli,5,21
+via del genio,Coniugi con figli,5,1
+xxi aprile,Coniugi con figli,5,74
+ravone,Coniugi con figli e altri membri conviventi,5,3
+san giuseppe,Coniugi con figli e altri membri conviventi,5,11
+san luca,Coniugi con figli e altri membri conviventi,5,2
+stadio-meloncello,Coniugi con figli e altri membri conviventi,5,7
+via del genio,Coniugi con figli e altri membri conviventi,5,1
+xxi aprile,Coniugi con figli e altri membri conviventi,5,22
+ravone,Madre con figli e altri membri conviventi,5,1
+san giuseppe,Madre con figli e altri membri conviventi,5,4
+san luca,Madre con figli e altri membri conviventi,5,1
+stadio-meloncello,Madre con figli e altri membri conviventi,5,3
+via del genio,Madre con figli e altri membri conviventi,5,1
+xxi aprile,Madre con figli e altri membri conviventi,5,8
+ravone,Padre con figli,2,8
+san giuseppe,Padre con figli,2,38
+san luca,Padre con figli,2,4
+stadio-meloncello,Padre con figli,2,22
+via del genio,Padre con figli,2,1
+xxi aprile,Padre con figli,2,77
+ravone,Padre con figli,5,1
+san giuseppe,Padre con figli,5,1
+san luca,Padre con figli,5,1
+stadio-meloncello,Padre con figli,5,1
+via del genio,Padre con figli,5,1
+xxi aprile,Padre con figli,5,1
+malpighi-1,Altre tipologie familiari,6-10,1
+malpighi-2,Altre tipologie familiari,6-10,2
+marconi-1,Madre con figli,3,22
+marconi-2,Madre con figli,3,116
+prati di caprara-ospedale maggiore,Coniugi,2,31
+scalo ravone,Coniugi,2,10
+velodromo,Coniugi,2,367
+via vittorio veneto,Coniugi,2,341
+zanardi,Coniugi,2,416
+prati di caprara-ospedale maggiore,Coniugi con figli,5,3
+scalo ravone,Coniugi con figli,5,1
+velodromo,Coniugi con figli,5,35
+via vittorio veneto,Coniugi con figli,5,32
+zanardi,Coniugi con figli,5,39
+prati di caprara-ospedale maggiore,Coniugi con figli e altri membri conviventi,5,1
+scalo ravone,Coniugi con figli e altri membri conviventi,5,1
+velodromo,Coniugi con figli e altri membri conviventi,5,11
+via vittorio veneto,Coniugi con figli e altri membri conviventi,5,10
+zanardi,Coniugi con figli e altri membri conviventi,5,12
+prati di caprara-ospedale maggiore,Madre con figli e altri membri conviventi,4,2
+scalo ravone,Madre con figli e altri membri conviventi,4,1
+velodromo,Madre con figli e altri membri conviventi,4,21
+via vittorio veneto,Madre con figli e altri membri conviventi,4,20
+zanardi,Madre con figli e altri membri conviventi,4,24
+prati di caprara-ospedale maggiore,Padre con figli e altri membri conviventi,3,3
+scalo ravone,Padre con figli e altri membri conviventi,3,1
+velodromo,Padre con figli e altri membri conviventi,3,34
+via vittorio veneto,Padre con figli e altri membri conviventi,3,32
+zanardi,Padre con figli e altri membri conviventi,3,38
+caab,Altre tipologie familiari,2,11
+cadriano-calamosco,Altre tipologie familiari,2,22
+fiera,Altre tipologie familiari,2,1
+michelino,Altre tipologie familiari,2,114
+pilastro,Altre tipologie familiari,2,177
+san donnino,Altre tipologie familiari,2,73
+scalo merci san donato,Altre tipologie familiari,2,1
+via del lavoro,Altre tipologie familiari,2,201
+via mondo,Altre tipologie familiari,2,200
+caab,Coniugi con altri membri conviventi,5,1
+cadriano-calamosco,Coniugi con altri membri conviventi,5,1
+fiera,Coniugi con altri membri conviventi,5,1
+michelino,Coniugi con altri membri conviventi,5,1
+pilastro,Coniugi con altri membri conviventi,5,2
+san donnino,Coniugi con altri membri conviventi,5,1
+scalo merci san donato,Coniugi con altri membri conviventi,5,1
+via del lavoro,Coniugi con altri membri conviventi,5,2
+via mondo,Coniugi con altri membri conviventi,5,2
+caab,Coniugi con figli e altri membri conviventi,5,2
+cadriano-calamosco,Coniugi con figli e altri membri conviventi,5,3
+fiera,Coniugi con figli e altri membri conviventi,5,1
+michelino,Coniugi con figli e altri membri conviventi,5,12
+pilastro,Coniugi con figli e altri membri conviventi,5,18
+san donnino,Coniugi con figli e altri membri conviventi,5,8
+scalo merci san donato,Coniugi con figli e altri membri conviventi,5,1
+via del lavoro,Coniugi con figli e altri membri conviventi,5,20
+via mondo,Coniugi con figli e altri membri conviventi,5,20
+caab,Coppia unita civilmente maschile,2,1
+cadriano-calamosco,Coppia unita civilmente maschile,2,1
+fiera,Coppia unita civilmente maschile,2,1
+michelino,Coppia unita civilmente maschile,2,2
+pilastro,Coppia unita civilmente maschile,2,3
+san donnino,Coppia unita civilmente maschile,2,2
+scalo merci san donato,Coppia unita civilmente maschile,2,1
+via del lavoro,Coppia unita civilmente maschile,2,3
+via mondo,Coppia unita civilmente maschile,2,3
+caab,Madre con figli,6-10,1
+cadriano-calamosco,Madre con figli,6-10,1
+fiera,Madre con figli,6-10,1
+michelino,Madre con figli,6-10,1
+pilastro,Madre con figli,6-10,1
+san donnino,Madre con figli,6-10,1
+scalo merci san donato,Madre con figli,6-10,1
+via del lavoro,Madre con figli,6-10,1
+via mondo,Madre con figli,6-10,1
+caab,Madre con figli e altri membri conviventi,4,2
+cadriano-calamosco,Madre con figli e altri membri conviventi,4,4
+fiera,Madre con figli e altri membri conviventi,4,1
+michelino,Madre con figli e altri membri conviventi,4,19
+pilastro,Madre con figli e altri membri conviventi,4,29
+san donnino,Madre con figli e altri membri conviventi,4,12
+scalo merci san donato,Madre con figli e altri membri conviventi,4,1
+via del lavoro,Madre con figli e altri membri conviventi,4,33
+via mondo,Madre con figli e altri membri conviventi,4,33
+caab,Madre con figli e altri membri conviventi,5,1
+cadriano-calamosco,Madre con figli e altri membri conviventi,5,2
+fiera,Madre con figli e altri membri conviventi,5,1
+michelino,Madre con figli e altri membri conviventi,5,7
+pilastro,Madre con figli e altri membri conviventi,5,10
+san donnino,Madre con figli e altri membri conviventi,5,4
+scalo merci san donato,Madre con figli e altri membri conviventi,5,1
+via del lavoro,Madre con figli e altri membri conviventi,5,11
+via mondo,Madre con figli e altri membri conviventi,5,11
+caab,Padre con figli,2,3
+cadriano-calamosco,Padre con figli,2,6
+fiera,Padre con figli,2,1
+michelino,Padre con figli,2,29
+pilastro,Padre con figli,2,45
+san donnino,Padre con figli,2,19
+scalo merci san donato,Padre con figli,2,1
+via del lavoro,Padre con figli,2,51
+via mondo,Padre con figli,2,51
+caab,Padre con figli e altri membri conviventi,4,2
+cadriano-calamosco,Padre con figli e altri membri conviventi,4,4
+fiera,Padre con figli e altri membri conviventi,4,1
+michelino,Padre con figli e altri membri conviventi,4,18
+pilastro,Padre con figli e altri membri conviventi,4,28
+san donnino,Padre con figli e altri membri conviventi,4,12
+scalo merci san donato,Padre con figli e altri membri conviventi,4,1
+via del lavoro,Padre con figli e altri membri conviventi,4,32
+via mondo,Padre con figli e altri membri conviventi,4,32
+caab,Padre con figli e altri membri conviventi,5,1
+cadriano-calamosco,Padre con figli e altri membri conviventi,5,1
+fiera,Padre con figli e altri membri conviventi,5,1
+michelino,Padre con figli e altri membri conviventi,5,5
+pilastro,Padre con figli e altri membri conviventi,5,7
+san donnino,Padre con figli e altri membri conviventi,5,3
+scalo merci san donato,Padre con figli e altri membri conviventi,5,1
+via del lavoro,Padre con figli e altri membri conviventi,5,8
+via mondo,Padre con figli e altri membri conviventi,5,8
+caab,Padre con figli e altri membri conviventi,6-10,1
+cadriano-calamosco,Padre con figli e altri membri conviventi,6-10,1
+fiera,Padre con figli e altri membri conviventi,6-10,1
+michelino,Padre con figli e altri membri conviventi,6-10,2
+pilastro,Padre con figli e altri membri conviventi,6-10,3
+san donnino,Padre con figli e altri membri conviventi,6-10,2
+scalo merci san donato,Padre con figli e altri membri conviventi,6-10,1
+via del lavoro,Padre con figli e altri membri conviventi,6-10,4
+via mondo,Padre con figli e altri membri conviventi,6-10,4
+caab,Sola,1,65
+cadriano-calamosco,Sola,1,127
+fiera,Sola,1,4
+michelino,Sola,1,677
+pilastro,Sola,1,1050
+san donnino,Sola,1,434
+scalo merci san donato,Sola,1,6
+via del lavoro,Sola,1,1194
+via mondo,Sola,1,1191
+osservanza,Altre tipologie familiari,5,1
+paderno,Altre tipologie familiari,5,1
+san michele in bosco,Altre tipologie familiari,5,1
+osservanza,Madre con figli,4,13
+paderno,Madre con figli,4,5
+san michele in bosco,Madre con figli,4,8
+galvani-1,Coniugi con altri membri conviventi,3,4
+galvani-2,Coniugi con altri membri conviventi,3,22
+galvani-1,Coniugi con altri membri conviventi,5,1
+galvani-2,Coniugi con altri membri conviventi,5,2
+galvani-1,Coniugi con figli e altri membri conviventi,5,4
+galvani-2,Coniugi con figli e altri membri conviventi,5,24
+galvani-1,Madre con figli,2,60
+galvani-2,Madre con figli,2,379
+galvani-1,Madre con figli e altri membri conviventi,3,10
+galvani-2,Madre con figli e altri membri conviventi,3,64
+galvani-1,Padre con figli,5,1
+galvani-2,Padre con figli,5,1
+irnerio-1,Coniugi con figli,5,15
+irnerio-2,Coniugi con figli,5,42
+irnerio-1,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+irnerio-2,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+irnerio-1,Padre con figli e altri membri conviventi,6-10,1
+irnerio-2,Padre con figli e altri membri conviventi,6-10,3
+irnerio-1,Solo,1,776
+irnerio-2,Solo,1,2129
+chiesanuova,Altre tipologie familiari,6-10,1
+dagnini,Altre tipologie familiari,6-10,1
+giardini margherita,Altre tipologie familiari,6-10,1
+mezzofanti,Altre tipologie familiari,6-10,1
+siepelunga,Altre tipologie familiari,6-10,1
+chiesanuova,Coniugi con altri membri conviventi,4,3
+dagnini,Coniugi con altri membri conviventi,4,4
+giardini margherita,Coniugi con altri membri conviventi,4,1
+mezzofanti,Coniugi con altri membri conviventi,4,3
+siepelunga,Coniugi con altri membri conviventi,4,2
+chiesanuova,Coppia unita civilmente femminile,2,1
+dagnini,Coppia unita civilmente femminile,2,1
+giardini margherita,Coppia unita civilmente femminile,2,1
+mezzofanti,Coppia unita civilmente femminile,2,1
+siepelunga,Coppia unita civilmente femminile,2,1
+chiesanuova,Coppia unita civilmente maschile,2,3
+dagnini,Coppia unita civilmente maschile,2,3
+giardini margherita,Coppia unita civilmente maschile,2,1
+mezzofanti,Coppia unita civilmente maschile,2,3
+siepelunga,Coppia unita civilmente maschile,2,2
+chiesanuova,Madre con figli e altri membri conviventi,3,50
+dagnini,Madre con figli e altri membri conviventi,3,64
+giardini margherita,Madre con figli e altri membri conviventi,3,1
+mezzofanti,Madre con figli e altri membri conviventi,3,50
+siepelunga,Madre con figli e altri membri conviventi,3,30
+chiesanuova,Madre con figli e altri membri conviventi,6-10,3
+dagnini,Madre con figli e altri membri conviventi,6-10,3
+giardini margherita,Madre con figli e altri membri conviventi,6-10,1
+mezzofanti,Madre con figli e altri membri conviventi,6-10,3
+siepelunga,Madre con figli e altri membri conviventi,6-10,2
+chiesanuova,Padre con figli e altri membri conviventi,6-10,1
+dagnini,Padre con figli e altri membri conviventi,6-10,1
+giardini margherita,Padre con figli e altri membri conviventi,6-10,1
+mezzofanti,Padre con figli e altri membri conviventi,6-10,1
+siepelunga,Padre con figli e altri membri conviventi,6-10,1
+chiesanuova,Solo,1,893
+dagnini,Solo,1,1143
+giardini margherita,Solo,1,4
+mezzofanti,Solo,1,896
+siepelunga,Solo,1,535
+bitone,Madre con figli,5,3
+cavedone,Madre con figli,5,1
+due madonne,Madre con figli,5,1
+fossolo,Madre con figli,5,2
+lungo savena,Madre con figli,5,1
+ospedale bellaria,Madre con figli,5,1
+pontevecchio,Madre con figli,5,2
+via arno,Madre con figli,5,2
+bitone,Padre con figli e altri membri conviventi,5,7
+cavedone,Padre con figli e altri membri conviventi,5,2
+due madonne,Padre con figli e altri membri conviventi,5,2
+fossolo,Padre con figli e altri membri conviventi,5,5
+lungo savena,Padre con figli e altri membri conviventi,5,1
+ospedale bellaria,Padre con figli e altri membri conviventi,5,1
+pontevecchio,Padre con figli e altri membri conviventi,5,4
+via arno,Padre con figli e altri membri conviventi,5,5
+battindarno,Coniugi con altri membri conviventi,4,5
+canale di reno,Coniugi con altri membri conviventi,4,4
+villaggio della barca,Coniugi con altri membri conviventi,4,4
+battindarno,Coniugi con figli,3,351
+canale di reno,Coniugi con figli,3,251
+villaggio della barca,Coniugi con figli,3,238
+aeroporto,Altre tipologie familiari,2,11
+bargellino,Altre tipologie familiari,2,2
+borgo centro,Altre tipologie familiari,2,184
+casteldebole,Altre tipologie familiari,2,118
+ducati-villaggio ina,Altre tipologie familiari,2,72
+la birra,Altre tipologie familiari,2,45
+lavino di mezzo,Altre tipologie familiari,2,13
+lungo reno,Altre tipologie familiari,2,1
+rigosa,Altre tipologie familiari,2,31
+triumvirato-pietra,Altre tipologie familiari,2,125
+via del vivaio,Altre tipologie familiari,2,22
+aeroporto,Padre con figli,6-10,1
+bargellino,Padre con figli,6-10,1
+borgo centro,Padre con figli,6-10,1
+casteldebole,Padre con figli,6-10,1
+ducati-villaggio ina,Padre con figli,6-10,1
+la birra,Padre con figli,6-10,1
+lavino di mezzo,Padre con figli,6-10,1
+lungo reno,Padre con figli,6-10,1
+rigosa,Padre con figli,6-10,1
+triumvirato-pietra,Padre con figli,6-10,1
+via del vivaio,Padre con figli,6-10,1
+arcoveggio,Coniugi con altri membri conviventi,4,5
+caserme rosse-manifattura,Coniugi con altri membri conviventi,4,1
+cnr,Coniugi con altri membri conviventi,4,1
+ex mercato ortofrutticolo,Coniugi con altri membri conviventi,4,1
+piazza dell'unita',Coniugi con altri membri conviventi,4,6
+via ferrarese,Coniugi con altri membri conviventi,4,6
+beverara,Coniugi con altri membri conviventi,6-10,2
+la noce,Coniugi con altri membri conviventi,6-10,1
+laghetti del rosario,Coniugi con altri membri conviventi,6-10,1
+lazzaretto,Coniugi con altri membri conviventi,6-10,1
+pescarola,Coniugi con altri membri conviventi,6-10,1
+tiro a segno,Coniugi con altri membri conviventi,6-10,1
+beverara,Coniugi con figli,4,207
+la noce,Coniugi con figli,4,45
+laghetti del rosario,Coniugi con figli,4,15
+lazzaretto,Coniugi con figli,4,27
+pescarola,Coniugi con figli,4,133
+tiro a segno,Coniugi con figli,4,5
+beverara,Padre con figli e altri membri conviventi,6-10,5
+la noce,Padre con figli e altri membri conviventi,6-10,1
+laghetti del rosario,Padre con figli e altri membri conviventi,6-10,1
+lazzaretto,Padre con figli e altri membri conviventi,6-10,1
+pescarola,Padre con figli e altri membri conviventi,6-10,3
+tiro a segno,Padre con figli e altri membri conviventi,6-10,1
+ravone,Coniugi con altri membri conviventi,4,1
+san giuseppe,Coniugi con altri membri conviventi,4,2
+san luca,Coniugi con altri membri conviventi,4,1
+stadio-meloncello,Coniugi con altri membri conviventi,4,1
+via del genio,Coniugi con altri membri conviventi,4,1
+xxi aprile,Coniugi con altri membri conviventi,4,4
+ravone,Coniugi con figli,4,41
+san giuseppe,Coniugi con figli,4,209
+san luca,Coniugi con figli,4,22
+stadio-meloncello,Coniugi con figli,4,120
+via del genio,Coniugi con figli,4,1
+xxi aprile,Coniugi con figli,4,424
+ravone,Padre con figli e altri membri conviventi,5,1
+san giuseppe,Padre con figli e altri membri conviventi,5,5
+san luca,Padre con figli e altri membri conviventi,5,1
+stadio-meloncello,Padre con figli e altri membri conviventi,5,3
+via del genio,Padre con figli e altri membri conviventi,5,1
+xxi aprile,Padre con figli e altri membri conviventi,5,9
+malpighi-1,Coniugi con figli,3,58
+malpighi-2,Coniugi con figli,3,303
+malpighi-1,Coniugi con figli,6-10,1
+malpighi-2,Coniugi con figli,6-10,4
+malpighi-1,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+malpighi-2,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,2
+malpighi-1,Madre con figli,4,2
+malpighi-2,Madre con figli,4,9
+malpighi-1,Madre con figli,5,1
+malpighi-2,Madre con figli,5,3
+malpighi-1,Madre con figli e altri membri conviventi,3,14
+malpighi-2,Madre con figli e altri membri conviventi,3,73
+malpighi-1,Padre con figli,3,4
+malpighi-2,Padre con figli,3,20
+malpighi-1,Padre con figli e altri membri conviventi,5,2
+malpighi-2,Padre con figli e altri membri conviventi,5,6
+marconi-1,Altre tipologie familiari,3,3
+marconi-2,Altre tipologie familiari,3,16
+marconi-1,Coniugi con altri membri conviventi,3,5
+marconi-2,Coniugi con altri membri conviventi,3,22
+marconi-1,Coniugi con figli,3,75
+marconi-2,Coniugi con figli,3,393
+marconi-1,Coniugi con figli e altri membri conviventi,4,4
+marconi-2,Coniugi con figli e altri membri conviventi,4,21
+marconi-1,Madre con figli,4,3
+marconi-2,Madre con figli,4,13
+marconi-1,Padre con figli e altri membri conviventi,3,13
+marconi-2,Padre con figli e altri membri conviventi,3,67
+prati di caprara-ospedale maggiore,Coniugi con altri membri conviventi,5,1
+scalo ravone,Coniugi con altri membri conviventi,5,1
+velodromo,Coniugi con altri membri conviventi,5,1
+via vittorio veneto,Coniugi con altri membri conviventi,5,1
+zanardi,Coniugi con altri membri conviventi,5,2
+prati di caprara-ospedale maggiore,Padre con figli,3,1
+scalo ravone,Padre con figli,3,1
+velodromo,Padre con figli,3,10
+via vittorio veneto,Padre con figli,3,10
+zanardi,Padre con figli,3,12
+caab,Madre con figli,5,1
+cadriano-calamosco,Madre con figli,5,1
+fiera,Madre con figli,5,1
+michelino,Madre con figli,5,2
+pilastro,Madre con figli,5,2
+san donnino,Madre con figli,5,1
+scalo merci san donato,Madre con figli,5,1
+via del lavoro,Madre con figli,5,3
+via mondo,Madre con figli,5,3
+caab,Padre con figli,4,1
+cadriano-calamosco,Padre con figli,4,1
+fiera,Padre con figli,4,1
+michelino,Padre con figli,4,1
+pilastro,Padre con figli,4,2
+san donnino,Padre con figli,4,1
+scalo merci san donato,Padre con figli,4,1
+via del lavoro,Padre con figli,4,2
+via mondo,Padre con figli,4,2
+osservanza,Coniugi con altri membri conviventi,3,8
+paderno,Coniugi con altri membri conviventi,3,4
+san michele in bosco,Coniugi con altri membri conviventi,3,5
+osservanza,Coniugi con figli,6-10,9
+paderno,Coniugi con figli,6-10,4
+san michele in bosco,Coniugi con figli,6-10,6
+osservanza,Coniugi con figli e altri membri conviventi,4,7
+paderno,Coniugi con figli e altri membri conviventi,4,3
+san michele in bosco,Coniugi con figli e altri membri conviventi,4,5
+osservanza,Madre con figli,6-10,1
+paderno,Madre con figli,6-10,1
+san michele in bosco,Madre con figli,6-10,1
+osservanza,Padre con figli e altri membri conviventi,3,24
+paderno,Padre con figli e altri membri conviventi,3,10
+san michele in bosco,Padre con figli e altri membri conviventi,3,15
+osservanza,Padre con figli e altri membri conviventi,6-10,2
+paderno,Padre con figli e altri membri conviventi,6-10,1
+san michele in bosco,Padre con figli e altri membri conviventi,6-10,1
+osservanza,Sola,1,556
+paderno,Sola,1,210
+san michele in bosco,Sola,1,346
+galvani-1,Coniugi,2,101
+galvani-2,Coniugi,2,633
+galvani-1,Coniugi con altri membri conviventi,4,1
+galvani-2,Coniugi con altri membri conviventi,4,3
+galvani-1,Coniugi con figli e altri membri conviventi,Oltre 10,1
+galvani-2,Coniugi con figli e altri membri conviventi,Oltre 10,1
+galvani-1,Coppia unita civilmente maschile,2,2
+galvani-2,Coppia unita civilmente maschile,2,10
+galvani-1,Solo,1,269
+galvani-2,Solo,1,1699
+irnerio-1,Altre tipologie familiari,3,9
+irnerio-2,Altre tipologie familiari,3,22
+bitone,Coniugi con altri membri conviventi,5,2
+cavedone,Coniugi con altri membri conviventi,5,1
+due madonne,Coniugi con altri membri conviventi,5,1
+fossolo,Coniugi con altri membri conviventi,5,1
+lungo savena,Coniugi con altri membri conviventi,5,1
+ospedale bellaria,Coniugi con altri membri conviventi,5,1
+pontevecchio,Coniugi con altri membri conviventi,5,1
+via arno,Coniugi con altri membri conviventi,5,1
+bitone,Madre con figli,3,93
+cavedone,Madre con figli,3,28
+due madonne,Madre con figli,3,27
+fossolo,Madre con figli,3,75
+lungo savena,Madre con figli,3,2
+ospedale bellaria,Madre con figli,3,2
+pontevecchio,Madre con figli,3,46
+via arno,Madre con figli,3,62
+battindarno,Altre tipologie familiari,2,188
+canale di reno,Altre tipologie familiari,2,134
+villaggio della barca,Altre tipologie familiari,2,127
+battindarno,Coppia unita civilmente maschile,2,2
+canale di reno,Coppia unita civilmente maschile,2,1
+villaggio della barca,Coppia unita civilmente maschile,2,1
+battindarno,Madre con figli e altri membri conviventi,4,39
+canale di reno,Madre con figli e altri membri conviventi,4,28
+villaggio della barca,Madre con figli e altri membri conviventi,4,27
+aeroporto,Madre con figli,6-10,1
+bargellino,Madre con figli,6-10,1
+borgo centro,Madre con figli,6-10,1
+casteldebole,Madre con figli,6-10,1
+ducati-villaggio ina,Madre con figli,6-10,1
+la birra,Madre con figli,6-10,1
+lavino di mezzo,Madre con figli,6-10,1
+lungo reno,Madre con figli,6-10,1
+rigosa,Madre con figli,6-10,1
+triumvirato-pietra,Madre con figli,6-10,1
+via del vivaio,Madre con figli,6-10,1
+arcoveggio,Coniugi con figli e altri membri conviventi,6-10,30
+caserme rosse-manifattura,Coniugi con figli e altri membri conviventi,6-10,7
+cnr,Coniugi con figli e altri membri conviventi,6-10,1
+ex mercato ortofrutticolo,Coniugi con figli e altri membri conviventi,6-10,5
+piazza dell'unita',Coniugi con figli e altri membri conviventi,6-10,32
+via ferrarese,Coniugi con figli e altri membri conviventi,6-10,34
+arcoveggio,Madre con figli,5,3
+caserme rosse-manifattura,Madre con figli,5,1
+cnr,Madre con figli,5,1
+ex mercato ortofrutticolo,Madre con figli,5,1
+piazza dell'unita',Madre con figli,5,3
+via ferrarese,Madre con figli,5,3
+arcoveggio,Madre con figli e altri membri conviventi,3,79
+caserme rosse-manifattura,Madre con figli e altri membri conviventi,3,17
+cnr,Madre con figli e altri membri conviventi,3,1
+ex mercato ortofrutticolo,Madre con figli e altri membri conviventi,3,13
+piazza dell'unita',Madre con figli e altri membri conviventi,3,83
+via ferrarese,Madre con figli e altri membri conviventi,3,90
+arcoveggio,Padre con figli,2,57
+caserme rosse-manifattura,Padre con figli,2,12
+cnr,Padre con figli,2,1
+ex mercato ortofrutticolo,Padre con figli,2,10
+piazza dell'unita',Padre con figli,2,60
+via ferrarese,Padre con figli,2,65
+arcoveggio,Padre con figli,4,2
+caserme rosse-manifattura,Padre con figli,4,1
+cnr,Padre con figli,4,1
+ex mercato ortofrutticolo,Padre con figli,4,1
+piazza dell'unita',Padre con figli,4,2
+via ferrarese,Padre con figli,4,2
+arcoveggio,Padre con figli e altri membri conviventi,4,42
+caserme rosse-manifattura,Padre con figli e altri membri conviventi,4,9
+cnr,Padre con figli e altri membri conviventi,4,1
+ex mercato ortofrutticolo,Padre con figli e altri membri conviventi,4,7
+piazza dell'unita',Padre con figli e altri membri conviventi,4,44
+via ferrarese,Padre con figli e altri membri conviventi,4,48
+beverara,Coniugi con figli,5,49
+la noce,Coniugi con figli,5,11
+laghetti del rosario,Coniugi con figli,5,4
+lazzaretto,Coniugi con figli,5,7
+pescarola,Coniugi con figli,5,31
+tiro a segno,Coniugi con figli,5,2
+beverara,Coppia unita civilmente femminile,2,1
+la noce,Coppia unita civilmente femminile,2,1
+laghetti del rosario,Coppia unita civilmente femminile,2,1
+lazzaretto,Coppia unita civilmente femminile,2,1
+pescarola,Coppia unita civilmente femminile,2,1
+tiro a segno,Coppia unita civilmente femminile,2,1
+beverara,Madre con figli e altri membri conviventi,4,28
+la noce,Madre con figli e altri membri conviventi,4,6
+laghetti del rosario,Madre con figli e altri membri conviventi,4,2
+lazzaretto,Madre con figli e altri membri conviventi,4,4
+pescarola,Madre con figli e altri membri conviventi,4,18
+tiro a segno,Madre con figli e altri membri conviventi,4,1
+beverara,Padre con figli,4,3
+la noce,Padre con figli,4,1
+laghetti del rosario,Padre con figli,4,1
+lazzaretto,Padre con figli,4,1
+pescarola,Padre con figli,4,2
+tiro a segno,Padre con figli,4,1
+battindarno,Coniugi con figli e altri membri conviventi,5,19
+canale di reno,Coniugi con figli e altri membri conviventi,5,14
+villaggio della barca,Coniugi con figli e altri membri conviventi,5,13
+battindarno,Madre con figli,5,3
+canale di reno,Madre con figli,5,2
+villaggio della barca,Madre con figli,5,2
+aeroporto,Madre con figli,3,5
+bargellino,Madre con figli,3,1
+borgo centro,Madre con figli,3,75
+casteldebole,Madre con figli,3,48
+ducati-villaggio ina,Madre con figli,3,29
+la birra,Madre con figli,3,19
+lavino di mezzo,Madre con figli,3,5
+lungo reno,Madre con figli,3,1
+rigosa,Madre con figli,3,13
+triumvirato-pietra,Madre con figli,3,51
+via del vivaio,Madre con figli,3,9
+aeroporto,Madre con figli,5,1
+bargellino,Madre con figli,5,1
+borgo centro,Madre con figli,5,2
+casteldebole,Madre con figli,5,1
+ducati-villaggio ina,Madre con figli,5,1
+la birra,Madre con figli,5,1
+lavino di mezzo,Madre con figli,5,1
+lungo reno,Madre con figli,5,1
+rigosa,Madre con figli,5,1
+triumvirato-pietra,Madre con figli,5,2
+via del vivaio,Madre con figli,5,1
+arcoveggio,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,2
+caserme rosse-manifattura,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+cnr,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+ex mercato ortofrutticolo,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+piazza dell'unita',Coppia unita civilmente femminile con figli ed eventuali conviventi,3,2
+via ferrarese,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,2
+arcoveggio,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+caserme rosse-manifattura,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+cnr,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+ex mercato ortofrutticolo,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+piazza dell'unita',Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+via ferrarese,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+arcoveggio,Padre con figli e altri membri conviventi,3,76
+caserme rosse-manifattura,Padre con figli e altri membri conviventi,3,16
+cnr,Padre con figli e altri membri conviventi,3,1
+ex mercato ortofrutticolo,Padre con figli e altri membri conviventi,3,13
+piazza dell'unita',Padre con figli e altri membri conviventi,3,80
+via ferrarese,Padre con figli e altri membri conviventi,3,87
+croce coperta,Coniugi con figli e altri membri conviventi,6-10,19
+la dozza,Coniugi con figli e altri membri conviventi,6-10,5
+mulino del gomito,Coniugi con figli e altri membri conviventi,6-10,3
+san savino,Coniugi con figli e altri membri conviventi,6-10,28
+savena abbandonato,Coniugi con figli e altri membri conviventi,6-10,4
+croce coperta,Padre con figli e altri membri conviventi,4,27
+la dozza,Padre con figli e altri membri conviventi,4,6
+mulino del gomito,Padre con figli e altri membri conviventi,4,4
+san savino,Padre con figli e altri membri conviventi,4,41
+savena abbandonato,Padre con figli e altri membri conviventi,4,5
+croce coperta,Solo,1,639
+la dozza,Solo,1,145
+mulino del gomito,Solo,1,77
+san savino,Solo,1,980
+savena abbandonato,Solo,1,107
+beverara,Coniugi con altri membri conviventi,5,2
+la noce,Coniugi con altri membri conviventi,5,1
+laghetti del rosario,Coniugi con altri membri conviventi,5,1
+lazzaretto,Coniugi con altri membri conviventi,5,1
+pescarola,Coniugi con altri membri conviventi,5,1
+tiro a segno,Coniugi con altri membri conviventi,5,1
+beverara,Madre con figli e altri membri conviventi,3,47
+la noce,Madre con figli e altri membri conviventi,3,11
+laghetti del rosario,Madre con figli e altri membri conviventi,3,4
+lazzaretto,Madre con figli e altri membri conviventi,3,7
+pescarola,Madre con figli e altri membri conviventi,3,30
+tiro a segno,Madre con figli e altri membri conviventi,3,2
+ravone,Coniugi con altri membri conviventi,5,1
+san giuseppe,Coniugi con altri membri conviventi,5,1
+san luca,Coniugi con altri membri conviventi,5,1
+stadio-meloncello,Coniugi con altri membri conviventi,5,1
+via del genio,Coniugi con altri membri conviventi,5,1
+xxi aprile,Coniugi con altri membri conviventi,5,1
+ravone,Coniugi con figli e altri membri conviventi,4,2
+san giuseppe,Coniugi con figli e altri membri conviventi,4,10
+san luca,Coniugi con figli e altri membri conviventi,4,1
+stadio-meloncello,Coniugi con figli e altri membri conviventi,4,6
+via del genio,Coniugi con figli e altri membri conviventi,4,1
+xxi aprile,Coniugi con figli e altri membri conviventi,4,20
+ravone,Madre con figli,4,2
+san giuseppe,Madre con figli,4,11
+san luca,Madre con figli,4,2
+stadio-meloncello,Madre con figli,4,6
+via del genio,Madre con figli,4,1
+xxi aprile,Madre con figli,4,21
+malpighi-1,Altre tipologie familiari,4,1
+malpighi-2,Altre tipologie familiari,4,4
+malpighi-1,Coniugi con figli,4,40
+malpighi-2,Coniugi con figli,4,209
+malpighi-1,Coniugi con figli,5,9
+malpighi-2,Coniugi con figli,5,47
+malpighi-1,Sola,1,391
+malpighi-2,Sola,1,2069
+marconi-1,Coniugi con figli,5,12
+marconi-2,Coniugi con figli,5,63
+marconi-1,Coniugi con figli e altri membri conviventi,6-10,2
+marconi-2,Coniugi con figli e altri membri conviventi,6-10,9
+marconi-1,Coppia unita civilmente maschile,2,3
+marconi-2,Coppia unita civilmente maschile,2,12
+marconi-1,Madre con figli e altri membri conviventi,4,8
+marconi-2,Madre con figli e altri membri conviventi,4,39
+marconi-1,Solo,1,411
+marconi-2,Solo,1,2177
+prati di caprara-ospedale maggiore,Coniugi con altri membri conviventi,3,1
+scalo ravone,Coniugi con altri membri conviventi,3,1
+velodromo,Coniugi con altri membri conviventi,3,9
+via vittorio veneto,Coniugi con altri membri conviventi,3,9
+zanardi,Coniugi con altri membri conviventi,3,11
+prati di caprara-ospedale maggiore,Coniugi con figli e altri membri conviventi,Oltre 10,1
+scalo ravone,Coniugi con figli e altri membri conviventi,Oltre 10,1
+velodromo,Coniugi con figli e altri membri conviventi,Oltre 10,1
+via vittorio veneto,Coniugi con figli e altri membri conviventi,Oltre 10,1
+zanardi,Coniugi con figli e altri membri conviventi,Oltre 10,1
+prati di caprara-ospedale maggiore,Madre con figli e altri membri conviventi,5,1
+scalo ravone,Madre con figli e altri membri conviventi,5,1
+velodromo,Madre con figli e altri membri conviventi,5,5
+via vittorio veneto,Madre con figli e altri membri conviventi,5,5
+zanardi,Madre con figli e altri membri conviventi,5,6
+caab,Coniugi con figli,6-10,2
+cadriano-calamosco,Coniugi con figli,6-10,3
+fiera,Coniugi con figli,6-10,1
+michelino,Coniugi con figli,6-10,13
+pilastro,Coniugi con figli,6-10,20
+san donnino,Coniugi con figli,6-10,8
+scalo merci san donato,Coniugi con figli,6-10,1
+via del lavoro,Coniugi con figli,6-10,22
+via mondo,Coniugi con figli,6-10,22
+caab,Coniugi con figli e altri membri conviventi,4,2
+cadriano-calamosco,Coniugi con figli e altri membri conviventi,4,3
+fiera,Coniugi con figli e altri membri conviventi,4,1
+michelino,Coniugi con figli e altri membri conviventi,4,11
+pilastro,Coniugi con figli e altri membri conviventi,4,18
+san donnino,Coniugi con figli e altri membri conviventi,4,8
+scalo merci san donato,Coniugi con figli e altri membri conviventi,4,1
+via del lavoro,Coniugi con figli e altri membri conviventi,4,20
+via mondo,Coniugi con figli e altri membri conviventi,4,20
+caab,Madre con figli,2,16
+cadriano-calamosco,Madre con figli,2,30
+fiera,Madre con figli,2,1
+michelino,Madre con figli,2,158
+pilastro,Madre con figli,2,245
+san donnino,Madre con figli,2,102
+scalo merci san donato,Madre con figli,2,2
+via del lavoro,Madre con figli,2,279
+via mondo,Madre con figli,2,278
+caab,Madre con figli e altri membri conviventi,3,3
+cadriano-calamosco,Madre con figli e altri membri conviventi,3,6
+fiera,Madre con figli e altri membri conviventi,3,1
+michelino,Madre con figli e altri membri conviventi,3,29
+pilastro,Madre con figli e altri membri conviventi,3,45
+san donnino,Madre con figli e altri membri conviventi,3,19
+scalo merci san donato,Madre con figli e altri membri conviventi,3,1
+via del lavoro,Madre con figli e altri membri conviventi,3,51
+via mondo,Madre con figli e altri membri conviventi,3,50
+caab,Madre con figli e altri membri conviventi,6-10,1
+cadriano-calamosco,Madre con figli e altri membri conviventi,6-10,1
+fiera,Madre con figli e altri membri conviventi,6-10,1
+michelino,Madre con figli e altri membri conviventi,6-10,3
+pilastro,Madre con figli e altri membri conviventi,6-10,4
+san donnino,Madre con figli e altri membri conviventi,6-10,2
+scalo merci san donato,Madre con figli e altri membri conviventi,6-10,1
+via del lavoro,Madre con figli e altri membri conviventi,6-10,5
+via mondo,Madre con figli e altri membri conviventi,6-10,5
+osservanza,Coniugi con figli,3,166
+paderno,Coniugi con figli,3,63
+san michele in bosco,Coniugi con figli,3,104
+osservanza,Padre con figli,2,35
+paderno,Padre con figli,2,14
+san michele in bosco,Padre con figli,2,22
+galvani-1,Coniugi con figli,6-10,2
+galvani-2,Coniugi con figli,6-10,13
+irnerio-1,Altre tipologie familiari,5,1
+irnerio-2,Altre tipologie familiari,5,2
+irnerio-1,Coniugi con figli e altri membri conviventi,4,7
+irnerio-2,Coniugi con figli e altri membri conviventi,4,20
+irnerio-1,Coppia unita civilmente maschile,2,4
+irnerio-2,Coppia unita civilmente maschile,2,9
+chiesanuova,Coniugi,2,502
+dagnini,Coniugi,2,642
+giardini margherita,Coniugi,2,3
+mezzofanti,Coniugi,2,503
+siepelunga,Coniugi,2,301
+chiesanuova,Coniugi con altri membri conviventi,3,14
+dagnini,Coniugi con altri membri conviventi,3,17
+giardini margherita,Coniugi con altri membri conviventi,3,1
+mezzofanti,Coniugi con altri membri conviventi,3,14
+siepelunga,Coniugi con altri membri conviventi,3,8
+chiesanuova,Padre con figli,6-10,1
+dagnini,Padre con figli,6-10,1
+giardini margherita,Padre con figli,6-10,1
+mezzofanti,Padre con figli,6-10,1
+siepelunga,Padre con figli,6-10,1
+bitone,Altre tipologie familiari,6-10,2
+cavedone,Altre tipologie familiari,6-10,1
+due madonne,Altre tipologie familiari,6-10,1
+fossolo,Altre tipologie familiari,6-10,1
+lungo savena,Altre tipologie familiari,6-10,1
+ospedale bellaria,Altre tipologie familiari,6-10,1
+pontevecchio,Altre tipologie familiari,6-10,1
+via arno,Altre tipologie familiari,6-10,1
+bitone,Coniugi con figli,5,66
+cavedone,Coniugi con figli,5,20
+due madonne,Coniugi con figli,5,19
+fossolo,Coniugi con figli,5,54
+lungo savena,Coniugi con figli,5,2
+ospedale bellaria,Coniugi con figli,5,1
+pontevecchio,Coniugi con figli,5,33
+via arno,Coniugi con figli,5,44
+bitone,Coniugi con figli,6-10,15
+cavedone,Coniugi con figli,6-10,5
+due madonne,Coniugi con figli,6-10,5
+fossolo,Coniugi con figli,6-10,12
+lungo savena,Coniugi con figli,6-10,1
+ospedale bellaria,Coniugi con figli,6-10,1
+pontevecchio,Coniugi con figli,6-10,8
+via arno,Coniugi con figli,6-10,10
+bitone,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+cavedone,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+due madonne,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+fossolo,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+lungo savena,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+ospedale bellaria,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+pontevecchio,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+via arno,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+aeroporto,Coniugi con altri membri conviventi,5,1
+bargellino,Coniugi con altri membri conviventi,5,1
+borgo centro,Coniugi con altri membri conviventi,5,2
+casteldebole,Coniugi con altri membri conviventi,5,2
+ducati-villaggio ina,Coniugi con altri membri conviventi,5,1
+la birra,Coniugi con altri membri conviventi,5,1
+lavino di mezzo,Coniugi con altri membri conviventi,5,1
+lungo reno,Coniugi con altri membri conviventi,5,1
+rigosa,Coniugi con altri membri conviventi,5,1
+triumvirato-pietra,Coniugi con altri membri conviventi,5,2
+via del vivaio,Coniugi con altri membri conviventi,5,1
+aeroporto,Coniugi con figli,3,19
+bargellino,Coniugi con figli,3,3
+borgo centro,Coniugi con figli,3,315
+casteldebole,Coniugi con figli,3,202
+ducati-villaggio ina,Coniugi con figli,3,123
+la birra,Coniugi con figli,3,78
+lavino di mezzo,Coniugi con figli,3,21
+lungo reno,Coniugi con figli,3,1
+rigosa,Coniugi con figli,3,53
+triumvirato-pietra,Coniugi con figli,3,214
+via del vivaio,Coniugi con figli,3,37
+aeroporto,Coniugi con figli,4,15
+bargellino,Coniugi con figli,4,3
+borgo centro,Coniugi con figli,4,247
+casteldebole,Coniugi con figli,4,158
+ducati-villaggio ina,Coniugi con figli,4,96
+la birra,Coniugi con figli,4,61
+lavino di mezzo,Coniugi con figli,4,17
+lungo reno,Coniugi con figli,4,1
+rigosa,Coniugi con figli,4,42
+triumvirato-pietra,Coniugi con figli,4,168
+via del vivaio,Coniugi con figli,4,29
+aeroporto,Coniugi con figli e altri membri conviventi,6-10,2
+bargellino,Coniugi con figli e altri membri conviventi,6-10,1
+borgo centro,Coniugi con figli e altri membri conviventi,6-10,19
+casteldebole,Coniugi con figli e altri membri conviventi,6-10,13
+ducati-villaggio ina,Coniugi con figli e altri membri conviventi,6-10,8
+la birra,Coniugi con figli e altri membri conviventi,6-10,5
+lavino di mezzo,Coniugi con figli e altri membri conviventi,6-10,2
+lungo reno,Coniugi con figli e altri membri conviventi,6-10,1
+rigosa,Coniugi con figli e altri membri conviventi,6-10,4
+triumvirato-pietra,Coniugi con figli e altri membri conviventi,6-10,13
+via del vivaio,Coniugi con figli e altri membri conviventi,6-10,3
+aeroporto,Coniugi con figli e altri membri conviventi,Oltre 10,1
+bargellino,Coniugi con figli e altri membri conviventi,Oltre 10,1
+borgo centro,Coniugi con figli e altri membri conviventi,Oltre 10,1
+casteldebole,Coniugi con figli e altri membri conviventi,Oltre 10,1
+ducati-villaggio ina,Coniugi con figli e altri membri conviventi,Oltre 10,1
+la birra,Coniugi con figli e altri membri conviventi,Oltre 10,1
+lavino di mezzo,Coniugi con figli e altri membri conviventi,Oltre 10,1
+lungo reno,Coniugi con figli e altri membri conviventi,Oltre 10,1
+rigosa,Coniugi con figli e altri membri conviventi,Oltre 10,1
+triumvirato-pietra,Coniugi con figli e altri membri conviventi,Oltre 10,1
+via del vivaio,Coniugi con figli e altri membri conviventi,Oltre 10,1
+croce coperta,Coniugi con figli,5,36
+la dozza,Coniugi con figli,5,8
+mulino del gomito,Coniugi con figli,5,5
+san savino,Coniugi con figli,5,54
+savena abbandonato,Coniugi con figli,5,6
+croce coperta,Coniugi con figli e altri membri conviventi,4,14
+la dozza,Coniugi con figli e altri membri conviventi,4,4
+mulino del gomito,Coniugi con figli e altri membri conviventi,4,2
+san savino,Coniugi con figli e altri membri conviventi,4,21
+savena abbandonato,Coniugi con figli e altri membri conviventi,4,3
+croce coperta,Coniugi con figli e altri membri conviventi,5,17
+la dozza,Coniugi con figli e altri membri conviventi,5,4
+mulino del gomito,Coniugi con figli e altri membri conviventi,5,2
+san savino,Coniugi con figli e altri membri conviventi,5,25
+savena abbandonato,Coniugi con figli e altri membri conviventi,5,3
+croce coperta,Madre con figli,3,54
+la dozza,Madre con figli,3,13
+mulino del gomito,Madre con figli,3,7
+san savino,Madre con figli,3,82
+savena abbandonato,Madre con figli,3,9
+croce coperta,Madre con figli e altri membri conviventi,5,4
+la dozza,Madre con figli e altri membri conviventi,5,1
+mulino del gomito,Madre con figli e altri membri conviventi,5,1
+san savino,Madre con figli e altri membri conviventi,5,6
+savena abbandonato,Madre con figli e altri membri conviventi,5,1
+croce coperta,Padre con figli e altri membri conviventi,5,5
+la dozza,Padre con figli e altri membri conviventi,5,2
+mulino del gomito,Padre con figli e altri membri conviventi,5,1
+san savino,Padre con figli e altri membri conviventi,5,8
+savena abbandonato,Padre con figli e altri membri conviventi,5,1
+beverara,Altre tipologie familiari,2,175
+la noce,Altre tipologie familiari,2,38
+laghetti del rosario,Altre tipologie familiari,2,13
+lazzaretto,Altre tipologie familiari,2,23
+pescarola,Altre tipologie familiari,2,112
+tiro a segno,Altre tipologie familiari,2,4
+beverara,Madre con figli,4,13
+la noce,Madre con figli,4,3
+laghetti del rosario,Madre con figli,4,1
+lazzaretto,Madre con figli,4,2
+pescarola,Madre con figli,4,8
+tiro a segno,Madre con figli,4,1
+ravone,Altre tipologie familiari,3,2
+san giuseppe,Altre tipologie familiari,3,11
+san luca,Altre tipologie familiari,3,2
+stadio-meloncello,Altre tipologie familiari,3,6
+via del genio,Altre tipologie familiari,3,1
+xxi aprile,Altre tipologie familiari,3,21
+ravone,Coniugi,2,80
+san giuseppe,Coniugi,2,414
+san luca,Coniugi,2,44
+stadio-meloncello,Coniugi,2,238
+via del genio,Coniugi,2,2
+xxi aprile,Coniugi,2,840
+ravone,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+san giuseppe,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+san luca,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+stadio-meloncello,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+via del genio,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+xxi aprile,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,2
+malpighi-1,Coniugi con figli e altri membri conviventi,4,4
+malpighi-2,Coniugi con figli e altri membri conviventi,4,19
+malpighi-1,Coniugi con figli e altri membri conviventi,5,3
+malpighi-2,Coniugi con figli e altri membri conviventi,5,11
+malpighi-1,Coniugi con figli e altri membri conviventi,6-10,2
+malpighi-2,Coniugi con figli e altri membri conviventi,6-10,11
+malpighi-1,Padre con figli,4,1
+malpighi-2,Padre con figli,4,3
+malpighi-1,Padre con figli e altri membri conviventi,6-10,1
+malpighi-2,Padre con figli e altri membri conviventi,6-10,2
+marconi-1,Altre tipologie familiari,6-10,1
+marconi-2,Altre tipologie familiari,6-10,1
+marconi-1,Madre con figli,5,1
+marconi-2,Madre con figli,5,2
+marconi-1,Padre con figli e altri membri conviventi,5,2
+marconi-2,Padre con figli e altri membri conviventi,5,10
+marconi-1,Sola,1,506
+marconi-2,Sola,1,2681
+prati di caprara-ospedale maggiore,Altre tipologie familiari,4,1
+scalo ravone,Altre tipologie familiari,4,1
+velodromo,Altre tipologie familiari,4,2
+via vittorio veneto,Altre tipologie familiari,4,2
+zanardi,Altre tipologie familiari,4,2
+prati di caprara-ospedale maggiore,Coniugi con figli e altri membri conviventi,4,1
+scalo ravone,Coniugi con figli e altri membri conviventi,4,1
+velodromo,Coniugi con figli e altri membri conviventi,4,11
+via vittorio veneto,Coniugi con figli e altri membri conviventi,4,10
+zanardi,Coniugi con figli e altri membri conviventi,4,12
+prati di caprara-ospedale maggiore,Madre con figli e altri membri conviventi,6-10,1
+scalo ravone,Madre con figli e altri membri conviventi,6-10,1
+velodromo,Madre con figli e altri membri conviventi,6-10,2
+via vittorio veneto,Madre con figli e altri membri conviventi,6-10,2
+zanardi,Madre con figli e altri membri conviventi,6-10,2
+prati di caprara-ospedale maggiore,Padre con figli e altri membri conviventi,6-10,1
+scalo ravone,Padre con figli e altri membri conviventi,6-10,1
+velodromo,Padre con figli e altri membri conviventi,6-10,2
+via vittorio veneto,Padre con figli e altri membri conviventi,6-10,2
+zanardi,Padre con figli e altri membri conviventi,6-10,3
+prati di caprara-ospedale maggiore,Solo,1,75
+scalo ravone,Solo,1,23
+velodromo,Solo,1,909
+via vittorio veneto,Solo,1,845
+zanardi,Solo,1,1029
+caab,Altre tipologie familiari,3,1
+cadriano-calamosco,Altre tipologie familiari,3,2
+fiera,Altre tipologie familiari,3,1
+michelino,Altre tipologie familiari,3,8
+pilastro,Altre tipologie familiari,3,12
+san donnino,Altre tipologie familiari,3,5
+scalo merci san donato,Altre tipologie familiari,3,1
+via del lavoro,Altre tipologie familiari,3,13
+via mondo,Altre tipologie familiari,3,13
+caab,Altre tipologie familiari,5,1
+cadriano-calamosco,Altre tipologie familiari,5,1
+fiera,Altre tipologie familiari,5,1
+michelino,Altre tipologie familiari,5,1
+pilastro,Altre tipologie familiari,5,2
+san donnino,Altre tipologie familiari,5,1
+scalo merci san donato,Altre tipologie familiari,5,1
+via del lavoro,Altre tipologie familiari,5,2
+via mondo,Altre tipologie familiari,5,2
+caab,Coniugi con altri membri conviventi,3,1
+cadriano-calamosco,Coniugi con altri membri conviventi,3,2
+fiera,Coniugi con altri membri conviventi,3,1
+michelino,Coniugi con altri membri conviventi,3,7
+pilastro,Coniugi con altri membri conviventi,3,11
+san donnino,Coniugi con altri membri conviventi,3,5
+scalo merci san donato,Coniugi con altri membri conviventi,3,1
+via del lavoro,Coniugi con altri membri conviventi,3,13
+via mondo,Coniugi con altri membri conviventi,3,13
+caab,Coniugi con altri membri conviventi,6-10,1
+cadriano-calamosco,Coniugi con altri membri conviventi,6-10,1
+fiera,Coniugi con altri membri conviventi,6-10,1
+michelino,Coniugi con altri membri conviventi,6-10,1
+pilastro,Coniugi con altri membri conviventi,6-10,1
+san donnino,Coniugi con altri membri conviventi,6-10,1
+scalo merci san donato,Coniugi con altri membri conviventi,6-10,1
+via del lavoro,Coniugi con altri membri conviventi,6-10,1
+via mondo,Coniugi con altri membri conviventi,6-10,1
+caab,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+cadriano-calamosco,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+fiera,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+michelino,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+pilastro,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+san donnino,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+scalo merci san donato,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+via del lavoro,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+via mondo,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+caab,Madre con figli,3,5
+cadriano-calamosco,Madre con figli,3,9
+fiera,Madre con figli,3,1
+michelino,Madre con figli,3,44
+pilastro,Madre con figli,3,67
+san donnino,Madre con figli,3,28
+scalo merci san donato,Madre con figli,3,1
+via del lavoro,Madre con figli,3,77
+via mondo,Madre con figli,3,76
+osservanza,Altre tipologie familiari,3,7
+paderno,Altre tipologie familiari,3,3
+san michele in bosco,Altre tipologie familiari,3,5
+osservanza,Coniugi con figli e altri membri conviventi,5,7
+paderno,Coniugi con figli e altri membri conviventi,5,3
+san michele in bosco,Coniugi con figli e altri membri conviventi,5,5
+galvani-1,Madre con figli e altri membri conviventi,5,2
+galvani-2,Madre con figli e altri membri conviventi,5,10
+galvani-1,Madre con figli e altri membri conviventi,6-10,1
+galvani-2,Madre con figli e altri membri conviventi,6-10,2
+galvani-1,Padre con figli,6-10,1
+galvani-2,Padre con figli,6-10,1
+galvani-1,Padre con figli e altri membri conviventi,Oltre 10,1
+galvani-2,Padre con figli e altri membri conviventi,Oltre 10,1
+irnerio-1,Coppia unita civilmente maschile con altri conviventi,4,1
+irnerio-2,Coppia unita civilmente maschile con altri conviventi,4,1
+irnerio-1,Madre con figli,5,1
+irnerio-2,Madre con figli,5,2
+irnerio-1,Madre con figli e altri membri conviventi,5,3
+irnerio-2,Madre con figli e altri membri conviventi,5,7
+chiesanuova,Altre tipologie familiari,5,2
+dagnini,Altre tipologie familiari,5,3
+giardini margherita,Altre tipologie familiari,5,1
+mezzofanti,Altre tipologie familiari,5,2
+siepelunga,Altre tipologie familiari,5,2
+chiesanuova,Coniugi con altri membri conviventi,5,1
+dagnini,Coniugi con altri membri conviventi,5,1
+giardini margherita,Coniugi con altri membri conviventi,5,1
+mezzofanti,Coniugi con altri membri conviventi,5,1
+siepelunga,Coniugi con altri membri conviventi,5,1
+chiesanuova,Coniugi con altri membri conviventi,6-10,1
+dagnini,Coniugi con altri membri conviventi,6-10,1
+giardini margherita,Coniugi con altri membri conviventi,6-10,1
+mezzofanti,Coniugi con altri membri conviventi,6-10,1
+siepelunga,Coniugi con altri membri conviventi,6-10,1
+chiesanuova,Coniugi con figli e altri membri conviventi,5,11
+dagnini,Coniugi con figli e altri membri conviventi,5,14
+giardini margherita,Coniugi con figli e altri membri conviventi,5,1
+mezzofanti,Coniugi con figli e altri membri conviventi,5,11
+siepelunga,Coniugi con figli e altri membri conviventi,5,7
+chiesanuova,Sola,1,1268
+dagnini,Sola,1,1623
+giardini margherita,Sola,1,6
+mezzofanti,Sola,1,1272
+siepelunga,Sola,1,760
+bitone,Coniugi con altri membri conviventi,4,5
+cavedone,Coniugi con altri membri conviventi,4,2
+due madonne,Coniugi con altri membri conviventi,4,2
+fossolo,Coniugi con altri membri conviventi,4,4
+lungo savena,Coniugi con altri membri conviventi,4,1
+ospedale bellaria,Coniugi con altri membri conviventi,4,1
+pontevecchio,Coniugi con altri membri conviventi,4,3
+via arno,Coniugi con altri membri conviventi,4,3
+bitone,Coniugi con altri membri conviventi,6-10,1
+cavedone,Coniugi con altri membri conviventi,6-10,1
+due madonne,Coniugi con altri membri conviventi,6-10,1
+fossolo,Coniugi con altri membri conviventi,6-10,1
+lungo savena,Coniugi con altri membri conviventi,6-10,1
+ospedale bellaria,Coniugi con altri membri conviventi,6-10,1
+pontevecchio,Coniugi con altri membri conviventi,6-10,1
+via arno,Coniugi con altri membri conviventi,6-10,1
+bitone,Coniugi con figli,4,346
+cavedone,Coniugi con figli,4,101
+due madonne,Coniugi con figli,4,97
+fossolo,Coniugi con figli,4,279
+lungo savena,Coniugi con figli,4,6
+ospedale bellaria,Coniugi con figli,4,4
+pontevecchio,Coniugi con figli,4,170
+via arno,Coniugi con figli,4,228
+bitone,Padre con figli,2,67
+cavedone,Padre con figli,2,20
+due madonne,Padre con figli,2,19
+fossolo,Padre con figli,2,54
+lungo savena,Padre con figli,2,2
+ospedale bellaria,Padre con figli,2,1
+pontevecchio,Padre con figli,2,33
+via arno,Padre con figli,2,45
+battindarno,Coniugi con figli,5,55
+canale di reno,Coniugi con figli,5,39
+villaggio della barca,Coniugi con figli,5,37
+battindarno,Padre con figli e altri membri conviventi,5,5
+canale di reno,Padre con figli e altri membri conviventi,5,4
+villaggio della barca,Padre con figli e altri membri conviventi,5,4
+aeroporto,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+bargellino,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+borgo centro,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+casteldebole,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+ducati-villaggio ina,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+la birra,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+lavino di mezzo,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+lungo reno,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+rigosa,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+triumvirato-pietra,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+via del vivaio,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1
+arcoveggio,Coniugi con figli e altri membri conviventi,4,26
+caserme rosse-manifattura,Coniugi con figli e altri membri conviventi,4,6
+cnr,Coniugi con figli e altri membri conviventi,4,1
+ex mercato ortofrutticolo,Coniugi con figli e altri membri conviventi,4,5
+piazza dell'unita',Coniugi con figli e altri membri conviventi,4,27
+via ferrarese,Coniugi con figli e altri membri conviventi,4,29
+arcoveggio,Coniugi con figli e altri membri conviventi,5,28
+caserme rosse-manifattura,Coniugi con figli e altri membri conviventi,5,6
+cnr,Coniugi con figli e altri membri conviventi,5,1
+ex mercato ortofrutticolo,Coniugi con figli e altri membri conviventi,5,5
+piazza dell'unita',Coniugi con figli e altri membri conviventi,5,29
+via ferrarese,Coniugi con figli e altri membri conviventi,5,32
+arcoveggio,Madre con figli,3,91
+caserme rosse-manifattura,Madre con figli,3,19
+cnr,Madre con figli,3,1
+ex mercato ortofrutticolo,Madre con figli,3,16
+piazza dell'unita',Madre con figli,3,96
+via ferrarese,Madre con figli,3,104
+croce coperta,Padre con figli e altri membri conviventi,3,37
+la dozza,Padre con figli e altri membri conviventi,3,9
+mulino del gomito,Padre con figli e altri membri conviventi,3,5
+san savino,Padre con figli e altri membri conviventi,3,57
+savena abbandonato,Padre con figli e altri membri conviventi,3,7
+beverara,Altre tipologie familiari,5,3
+la noce,Altre tipologie familiari,5,1
+laghetti del rosario,Altre tipologie familiari,5,1
+lazzaretto,Altre tipologie familiari,5,1
+pescarola,Altre tipologie familiari,5,2
+tiro a segno,Altre tipologie familiari,5,1
+beverara,Coniugi con altri membri conviventi,3,16
+la noce,Coniugi con altri membri conviventi,3,4
+laghetti del rosario,Coniugi con altri membri conviventi,3,2
+lazzaretto,Coniugi con altri membri conviventi,3,2
+pescarola,Coniugi con altri membri conviventi,3,10
+tiro a segno,Coniugi con altri membri conviventi,3,1
+beverara,Madre con figli e altri membri conviventi,6-10,3
+la noce,Madre con figli e altri membri conviventi,6-10,1
+laghetti del rosario,Madre con figli e altri membri conviventi,6-10,1
+lazzaretto,Madre con figli e altri membri conviventi,6-10,1
+pescarola,Madre con figli e altri membri conviventi,6-10,2
+tiro a segno,Madre con figli e altri membri conviventi,6-10,1
+ravone,Coppia unita civilmente maschile,2,1
+san giuseppe,Coppia unita civilmente maschile,2,4
+san luca,Coppia unita civilmente maschile,2,1
+stadio-meloncello,Coppia unita civilmente maschile,2,2
+via del genio,Coppia unita civilmente maschile,2,1
+xxi aprile,Coppia unita civilmente maschile,2,7
+battindarno,Coniugi con figli,4,284
+canale di reno,Coniugi con figli,4,203
+villaggio della barca,Coniugi con figli,4,193
+battindarno,Coniugi con figli e altri membri conviventi,6-10,23
+canale di reno,Coniugi con figli e altri membri conviventi,6-10,17
+villaggio della barca,Coniugi con figli e altri membri conviventi,6-10,16
+battindarno,Madre con figli,4,15
+canale di reno,Madre con figli,4,11
+villaggio della barca,Madre con figli,4,10
+battindarno,Madre con figli e altri membri conviventi,3,64
+canale di reno,Madre con figli e altri membri conviventi,3,46
+villaggio della barca,Madre con figli e altri membri conviventi,3,44
+battindarno,Madre con figli e altri membri conviventi,5,12
+canale di reno,Madre con figli e altri membri conviventi,5,9
+villaggio della barca,Madre con figli e altri membri conviventi,5,8
+battindarno,Madre con figli e altri membri conviventi,6-10,3
+canale di reno,Madre con figli e altri membri conviventi,6-10,3
+villaggio della barca,Madre con figli e altri membri conviventi,6-10,2
+aeroporto,Altre tipologie familiari,4,1
+bargellino,Altre tipologie familiari,4,1
+borgo centro,Altre tipologie familiari,4,3
+casteldebole,Altre tipologie familiari,4,2
+ducati-villaggio ina,Altre tipologie familiari,4,2
+la birra,Altre tipologie familiari,4,1
+lavino di mezzo,Altre tipologie familiari,4,1
+lungo reno,Altre tipologie familiari,4,1
+rigosa,Altre tipologie familiari,4,1
+triumvirato-pietra,Altre tipologie familiari,4,3
+via del vivaio,Altre tipologie familiari,4,1
+aeroporto,Altre tipologie familiari,5,1
+bargellino,Altre tipologie familiari,5,1
+borgo centro,Altre tipologie familiari,5,3
+casteldebole,Altre tipologie familiari,5,2
+ducati-villaggio ina,Altre tipologie familiari,5,2
+la birra,Altre tipologie familiari,5,1
+lavino di mezzo,Altre tipologie familiari,5,1
+lungo reno,Altre tipologie familiari,5,1
+rigosa,Altre tipologie familiari,5,1
+triumvirato-pietra,Altre tipologie familiari,5,3
+via del vivaio,Altre tipologie familiari,5,1
+aeroporto,Coppia unita civilmente maschile,2,1
+bargellino,Coppia unita civilmente maschile,2,1
+borgo centro,Coppia unita civilmente maschile,2,4
+casteldebole,Coppia unita civilmente maschile,2,3
+ducati-villaggio ina,Coppia unita civilmente maschile,2,2
+la birra,Coppia unita civilmente maschile,2,1
+lavino di mezzo,Coppia unita civilmente maschile,2,1
+lungo reno,Coppia unita civilmente maschile,2,1
+rigosa,Coppia unita civilmente maschile,2,1
+triumvirato-pietra,Coppia unita civilmente maschile,2,3
+via del vivaio,Coppia unita civilmente maschile,2,1
+aeroporto,Padre con figli e altri membri conviventi,3,4
+bargellino,Padre con figli e altri membri conviventi,3,1
+borgo centro,Padre con figli e altri membri conviventi,3,65
+casteldebole,Padre con figli e altri membri conviventi,3,42
+ducati-villaggio ina,Padre con figli e altri membri conviventi,3,26
+la birra,Padre con figli e altri membri conviventi,3,16
+lavino di mezzo,Padre con figli e altri membri conviventi,3,5
+lungo reno,Padre con figli e altri membri conviventi,3,1
+rigosa,Padre con figli e altri membri conviventi,3,11
+triumvirato-pietra,Padre con figli e altri membri conviventi,3,45
+via del vivaio,Padre con figli e altri membri conviventi,3,8
+aeroporto,Padre con figli e altri membri conviventi,4,2
+bargellino,Padre con figli e altri membri conviventi,4,1
+borgo centro,Padre con figli e altri membri conviventi,4,33
+casteldebole,Padre con figli e altri membri conviventi,4,21
+ducati-villaggio ina,Padre con figli e altri membri conviventi,4,13
+la birra,Padre con figli e altri membri conviventi,4,8
+lavino di mezzo,Padre con figli e altri membri conviventi,4,3
+lungo reno,Padre con figli e altri membri conviventi,4,1
+rigosa,Padre con figli e altri membri conviventi,4,6
+triumvirato-pietra,Padre con figli e altri membri conviventi,4,22
+via del vivaio,Padre con figli e altri membri conviventi,4,4
+aeroporto,Sola,1,60
+bargellino,Sola,1,10
+borgo centro,Sola,1,1007
+casteldebole,Sola,1,643
+ducati-villaggio ina,Sola,1,392
+la birra,Sola,1,247
+lavino di mezzo,Sola,1,67
+lungo reno,Sola,1,2
+rigosa,Sola,1,169
+triumvirato-pietra,Sola,1,685
+via del vivaio,Sola,1,119
+arcoveggio,Altre tipologie familiari,6-10,3
+caserme rosse-manifattura,Altre tipologie familiari,6-10,1
+cnr,Altre tipologie familiari,6-10,1
+ex mercato ortofrutticolo,Altre tipologie familiari,6-10,1
+piazza dell'unita',Altre tipologie familiari,6-10,3
+via ferrarese,Altre tipologie familiari,6-10,3
+arcoveggio,Coppia unita civilmente maschile con altri conviventi,4,1
+caserme rosse-manifattura,Coppia unita civilmente maschile con altri conviventi,4,1
+cnr,Coppia unita civilmente maschile con altri conviventi,4,1
+ex mercato ortofrutticolo,Coppia unita civilmente maschile con altri conviventi,4,1
+piazza dell'unita',Coppia unita civilmente maschile con altri conviventi,4,1
+via ferrarese,Coppia unita civilmente maschile con altri conviventi,4,1
+arcoveggio,Solo,1,1617
+caserme rosse-manifattura,Solo,1,337
+cnr,Solo,1,8
+ex mercato ortofrutticolo,Solo,1,269
+piazza dell'unita',Solo,1,1710
+via ferrarese,Solo,1,1857
+croce coperta,Sola,1,730
+la dozza,Sola,1,166
+mulino del gomito,Sola,1,88
+san savino,Sola,1,1120
+savena abbandonato,Sola,1,122
+beverara,Coniugi,2,526
+la noce,Coniugi,2,114
+laghetti del rosario,Coniugi,2,37
+lazzaretto,Coniugi,2,69
+pescarola,Coniugi,2,338
+tiro a segno,Coniugi,2,12
+beverara,Madre con figli,2,222
+la noce,Madre con figli,2,48
+laghetti del rosario,Madre con figli,2,16
+lazzaretto,Madre con figli,2,29
+pescarola,Madre con figli,2,143
+tiro a segno,Madre con figli,2,5
+beverara,Madre con figli,5,3
+la noce,Madre con figli,5,1
+laghetti del rosario,Madre con figli,5,1
+lazzaretto,Madre con figli,5,1
+pescarola,Madre con figli,5,2
+tiro a segno,Madre con figli,5,1
+beverara,Sola,1,856
+la noce,Sola,1,185
+laghetti del rosario,Sola,1,60
+lazzaretto,Sola,1,111
+pescarola,Sola,1,550
+tiro a segno,Sola,1,19
+ravone,Altre tipologie familiari,6-10,1
+san giuseppe,Altre tipologie familiari,6-10,1
+san luca,Altre tipologie familiari,6-10,1
+stadio-meloncello,Altre tipologie familiari,6-10,1
+via del genio,Altre tipologie familiari,6-10,1
+xxi aprile,Altre tipologie familiari,6-10,1
+ravone,Coniugi con altri membri conviventi,6-10,1
+san giuseppe,Coniugi con altri membri conviventi,6-10,1
+san luca,Coniugi con altri membri conviventi,6-10,1
+stadio-meloncello,Coniugi con altri membri conviventi,6-10,1
+via del genio,Coniugi con altri membri conviventi,6-10,1
+xxi aprile,Coniugi con altri membri conviventi,6-10,2
+ravone,Coppia unita civilmente femminile,2,1
+san giuseppe,Coppia unita civilmente femminile,2,2
+san luca,Coppia unita civilmente femminile,2,1
+stadio-meloncello,Coppia unita civilmente femminile,2,1
+via del genio,Coppia unita civilmente femminile,2,1
+xxi aprile,Coppia unita civilmente femminile,2,3
+ravone,Madre con figli e altri membri conviventi,6-10,1
+san giuseppe,Madre con figli e altri membri conviventi,6-10,2
+san luca,Madre con figli e altri membri conviventi,6-10,1
+stadio-meloncello,Madre con figli e altri membri conviventi,6-10,1
+via del genio,Madre con figli e altri membri conviventi,6-10,1
+xxi aprile,Madre con figli e altri membri conviventi,6-10,3
+malpighi-1,Altre tipologie familiari,3,3
+malpighi-2,Altre tipologie familiari,3,13
+marconi-1,Madre con figli e altri membri conviventi,3,17
+marconi-2,Madre con figli e altri membri conviventi,3,90
+marconi-1,Padre con figli e altri membri conviventi,Oltre 10,1
+marconi-2,Padre con figli e altri membri conviventi,Oltre 10,1
+prati di caprara-ospedale maggiore,Coniugi con figli,4,12
+scalo ravone,Coniugi con figli,4,4
+velodromo,Coniugi con figli,4,143
+via vittorio veneto,Coniugi con figli,4,133
+zanardi,Coniugi con figli,4,162
+prati di caprara-ospedale maggiore,Padre con figli,2,4
+scalo ravone,Padre con figli,2,1
+velodromo,Padre con figli,2,40
+via vittorio veneto,Padre con figli,2,37
+zanardi,Padre con figli,2,45
+prati di caprara-ospedale maggiore,Sola,1,87
+scalo ravone,Sola,1,27
+velodromo,Sola,1,1051
+via vittorio veneto,Sola,1,976
+zanardi,Sola,1,1190
+caab,Coniugi con altri membri conviventi,4,1
+cadriano-calamosco,Coniugi con altri membri conviventi,4,1
+fiera,Coniugi con altri membri conviventi,4,1
+michelino,Coniugi con altri membri conviventi,4,4
+pilastro,Coniugi con altri membri conviventi,4,6
+san donnino,Coniugi con altri membri conviventi,4,3
+scalo merci san donato,Coniugi con altri membri conviventi,4,1
+via del lavoro,Coniugi con altri membri conviventi,4,6
+via mondo,Coniugi con altri membri conviventi,4,6
+caab,Padre con figli e altri membri conviventi,3,3
+cadriano-calamosco,Padre con figli e altri membri conviventi,3,5
+fiera,Padre con figli e altri membri conviventi,3,1
+michelino,Padre con figli e altri membri conviventi,3,25
+pilastro,Padre con figli e altri membri conviventi,3,38
+san donnino,Padre con figli e altri membri conviventi,3,16
+scalo merci san donato,Padre con figli e altri membri conviventi,3,1
+via del lavoro,Padre con figli e altri membri conviventi,3,44
+via mondo,Padre con figli e altri membri conviventi,3,43
+galvani-1,Coniugi con figli e altri membri conviventi,4,3
+galvani-2,Coniugi con figli e altri membri conviventi,4,14
+galvani-1,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+galvani-2,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1
+galvani-1,Madre con figli,4,4
+galvani-2,Madre con figli,4,26
+galvani-1,Padre con figli e altri membri conviventi,4,6
+galvani-2,Padre con figli e altri membri conviventi,4,32
+irnerio-1,Coniugi con figli,3,98
+irnerio-2,Coniugi con figli,3,267
+chiesanuova,Madre con figli,5,1
+dagnini,Madre con figli,5,1
+giardini margherita,Madre con figli,5,1
+mezzofanti,Madre con figli,5,1
+siepelunga,Madre con figli,5,1
+bitone,Padre con figli e altri membri conviventi,3,73
+cavedone,Padre con figli e altri membri conviventi,3,21
+due madonne,Padre con figli e altri membri conviventi,3,21
+fossolo,Padre con figli e altri membri conviventi,3,59
+lungo savena,Padre con figli e altri membri conviventi,3,2
+ospedale bellaria,Padre con figli e altri membri conviventi,3,1
+pontevecchio,Padre con figli e altri membri conviventi,3,36
+via arno,Padre con figli e altri membri conviventi,3,48
+bitone,Padre con figli e altri membri conviventi,4,41
+cavedone,Padre con figli e altri membri conviventi,4,12
+due madonne,Padre con figli e altri membri conviventi,4,12
+fossolo,Padre con figli e altri membri conviventi,4,33
+lungo savena,Padre con figli e altri membri conviventi,4,1
+ospedale bellaria,Padre con figli e altri membri conviventi,4,1
+pontevecchio,Padre con figli e altri membri conviventi,4,20
+via arno,Padre con figli e altri membri conviventi,4,27

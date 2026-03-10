@@ -1,6 +1,6 @@
 # ============================================================
 # Bologna Synthetic Population
-# Data Processing Pipeline
+# Data Processing Pipeline (FIXED VERSION)
 # ============================================================
 
 import pandas as pd
@@ -46,31 +46,38 @@ income["area_name"] = clean_area(income["area_name"])
 spatial["area_name"] = clean_area(spatial["area_name"])
 
 # ------------------------------------------------------------
-# Valid areas (from spatial lookup)
+# Clean zona names
+# ------------------------------------------------------------
+
+def clean_zona(series):
+
+    series = series.str.strip().str.lower()
+
+    replacements = {
+        "san ruffillo": "s. ruffillo",
+        "san vitale": "s. vitale",
+        "santa viola": "s. viola"
+    }
+
+    return series.replace(replacements)
+
+households["zona_name"] = clean_zona(households["zona_name"])
+spatial["zona_name"] = clean_zona(spatial["zona_name"])
+
+# Remove homeless category
+households = households[households["zona_name"] != "senza fissa dimora"]
+
+# ------------------------------------------------------------
+# Valid areas
 # ------------------------------------------------------------
 
 valid_areas = set(spatial["area_name"])
-
-# ------------------------------------------------------------
-# Remove invalid areas from income
-# ------------------------------------------------------------
-
-income = income[
-    ~income["area_name"].isin([
-        "senza fissa dimora",
-        "non residenti nell'anno di imposta"
-    ])
-]
-
-# ------------------------------------------------------------
-# Keep only areas present in spatial lookup
-# ------------------------------------------------------------
 
 demographics = demographics[demographics["area_name"].isin(valid_areas)]
 activity = activity[activity["area_name"].isin(valid_areas)]
 income = income[income["area_name"].isin(valid_areas)]
 
-print("After filtering by valid areas:")
+print("After filtering valid areas:")
 print("Demographics:", demographics.shape)
 print("Activity:", activity.shape)
 print("Income:", income.shape)
@@ -104,10 +111,13 @@ zona_pop = area_pop.groupby("zona_name")["population"].sum().reset_index()
 zona_pop = zona_pop.rename(columns={"population": "zona_population"})
 
 area_pop = area_pop.merge(zona_pop, on="zona_name")
-area_pop["population_share"] = area_pop["population"] / area_pop["zona_population"]
+
+area_pop["population_share"] = (
+    area_pop["population"] / area_pop["zona_population"]
+)
 
 # ------------------------------------------------------------
-# Disaggregate households to areas
+# Distribute households to areas
 # ------------------------------------------------------------
 
 households = households.merge(
@@ -116,7 +126,9 @@ households = households.merge(
     how="left"
 )
 
-households["households_area"] = households["num_households"] * households["population_share"]
+households["households_area"] = (
+    households["num_households"] * households["population_share"]
+)
 
 households_area = households[[
     "area_name",
@@ -125,7 +137,6 @@ households_area = households[[
     "households_area"
 ]].rename(columns={"households_area": "households"})
 
-# Drop rows without area_name (just in case)
 households_area = households_area.dropna(subset=["area_name"])
 
 # ------------------------------------------------------------
@@ -138,4 +149,8 @@ activity_area.to_csv(DATA_PROCESSED / "activity_area.csv", index=False)
 income.to_csv(DATA_PROCESSED / "income_area.csv", index=False)
 spatial.to_csv(DATA_PROCESSED / "spatial_lookup.csv", index=False)
 
-print("Processed datasets saved successfully.")
+print("======================================")
+print("Processing complete")
+print("======================================")
+
+print("Areas in households dataset:", households_area["area_name"].nunique())
