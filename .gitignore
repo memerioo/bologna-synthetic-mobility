@@ -33,12 +33,12 @@ notebooks/test.ipynb
 
 
 # Data (keep structure, not raw files)
-data/raw/*
-data/interim/*
-data/processed/*
-!data/raw/.gitkeep
-!data/interim/.gitkeep
-!data/processed/.gitkeep
+# data/raw/*
+# data/interim/*
+# data/processed/*
+# !data/raw/.gitkeep
+# !data/interim/.gitkeep
+# !data/processed/.gitkeep
 
 # Results
 results/*

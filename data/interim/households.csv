@@ -1,0 +1,710 @@
+quartiere_name,zona_name,household_type,household_size,num_households,population
+Borgo Panigale - Reno,Barca,Altre tipologie familiari,6-10,4,28
+Borgo Panigale - Reno,Barca,Coniugi con figli e altri membri conviventi,4,69,276
+Borgo Panigale - Reno,Barca,Padre con figli,4,1,4
+Borgo Panigale - Reno,Barca,Padre con figli e altri membri conviventi,3,151,453
+Borgo Panigale - Reno,Barca,Padre con figli e altri membri conviventi,6-10,7,46
+Borgo Panigale - Reno,Borgo Panigale,Madre con figli e altri membri conviventi,6-10,10,65
+Borgo Panigale - Reno,Borgo Panigale,Padre con figli,2,192,384
+Borgo Panigale - Reno,Borgo Panigale,Padre con figli,5,1,5
+Borgo Panigale - Reno,Santa Viola,Altre tipologie familiari,5,4,20
+Borgo Panigale - Reno,Santa Viola,Coniugi con altri membri conviventi,6-10,3,21
+Borgo Panigale - Reno,Santa Viola,Madre con figli,5,2,10
+Borgo Panigale - Reno,Santa Viola,Padre con figli,2,73,146
+Borgo Panigale - Reno,Santa Viola,Padre con figli e altri membri conviventi,4,55,220
+Navile,Bolognina,Altre tipologie familiari,3,71,213
+Navile,Bolognina,Coniugi con altri membri conviventi,3,78,234
+Navile,Bolognina,Coniugi con figli,6-10,66,416
+Navile,Bolognina,Padre con figli e altri membri conviventi,6-10,18,120
+Navile,Corticella,Coniugi,2,1415,2830
+Navile,Corticella,Coniugi con figli,4,595,2380
+Navile,Corticella,Coppia unita civilmente femminile,2,7,14
+Navile,Corticella,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1,3
+Navile,Corticella,Coppia unita civilmente maschile,2,6,12
+Navile,Lame,Altre tipologie familiari,6-10,2,17
+Navile,Lame,Coniugi con figli e altri membri conviventi,6-10,37,247
+Navile,Lame,Madre con figli,3,140,420
+Navile,Lame,Solo,1,1629,1629
+Porto - Saragozza,Costa Saragozza,Coniugi con figli e altri membri conviventi,6-10,27,179
+Porto - Saragozza,Costa Saragozza,Coniugi con figli e altri membri conviventi,Oltre 10,2,24
+Porto - Saragozza,Costa Saragozza,Coppia unita civilmente femminile con altri conviventi,3,1,3
+Porto - Saragozza,Costa Saragozza,Madre con figli,3,264,792
+Porto - Saragozza,Costa Saragozza,Madre con figli,5,7,35
+Porto - Saragozza,Costa Saragozza,Padre con figli,3,53,159
+Porto - Saragozza,Costa Saragozza,Padre con figli,6-10,1,7
+Porto - Saragozza,Malpighi,Coniugi con altri membri conviventi,4,1,4
+Porto - Saragozza,Malpighi,Madre con figli,2,363,726
+Porto - Saragozza,Malpighi,Madre con figli e altri membri conviventi,5,6,30
+Porto - Saragozza,Marconi,Altre tipologie familiari,5,2,10
+Porto - Saragozza,Marconi,Coniugi,2,854,1708
+Porto - Saragozza,Marconi,Padre con figli,2,96,192
+Porto - Saragozza,Saffi,Coniugi con altri membri conviventi,4,5,20
+Porto - Saragozza,Saffi,Coniugi con figli,6-10,15,92
+Porto - Saragozza,Saffi,Coniugi con figli e altri membri conviventi,6-10,19,122
+Porto - Saragozza,Saffi,Madre con figli,5,2,10
+Porto - Saragozza,Saffi,Padre con figli,5,1,5
+San Donato - San Vitale,San Donato,Coniugi,2,1904,3808
+San Donato - San Vitale,San Donato,Solo,1,4568,4568
+San Donato - San Vitale,San Vitale,Altre tipologie familiari,5,2,10
+San Donato - San Vitale,San Vitale,Coniugi con altri membri conviventi,3,69,207
+San Donato - San Vitale,San Vitale,Madre con figli,4,48,192
+San Donato - San Vitale,San Vitale,Madre con figli e altri membri conviventi,6-10,6,40
+San Donato - San Vitale,San Vitale,Sola,1,5885,5885
+Santo Stefano,Colli,Coppia unita civilmente maschile,2,5,10
+Santo Stefano,Colli,Madre con figli e altri membri conviventi,3,68,204
+Santo Stefano,Colli,Madre con figli e altri membri conviventi,5,6,30
+Santo Stefano,Colli,Padre con figli,5,1,5
+Santo Stefano,Galvani,Coniugi con figli e altri membri conviventi,6-10,11,69
+Santo Stefano,Galvani,Madre con figli,3,154,462
+Santo Stefano,Galvani,Madre con figli,5,3,15
+Santo Stefano,Galvani,Padre con figli,3,35,105
+Santo Stefano,Galvani,Padre con figli,4,4,16
+Santo Stefano,Galvani,Sola,1,2675,2675
+Santo Stefano,Irnerio,Altre tipologie familiari,2,368,736
+Santo Stefano,Irnerio,Coniugi con altri membri conviventi,3,12,36
+Santo Stefano,Irnerio,Coniugi con figli e altri membri conviventi,6-10,9,60
+Santo Stefano,Irnerio,Padre con figli,2,99,198
+Santo Stefano,Irnerio,Padre con figli e altri membri conviventi,4,41,164
+Santo Stefano,Murri,Padre con figli e altri membri conviventi,4,111,444
+Savena,Mazzini,Coppia unita civilmente maschile,2,11,22
+Savena,Mazzini,Madre con figli,4,60,240
+Savena,San Ruffillo,Madre con figli e altri membri conviventi,5,21,105
+Senza fissa dimora,Senza fissa dimora,Coniugi,2,5,10
+Senza fissa dimora,Senza fissa dimora,Padre con figli,2,1,2
+Borgo Panigale - Reno,Barca,Sola,1,2764,2764
+Borgo Panigale - Reno,Borgo Panigale,Coniugi,2,1971,3942
+Borgo Panigale - Reno,Borgo Panigale,Coniugi con altri membri conviventi,4,17,68
+Borgo Panigale - Reno,Borgo Panigale,Madre con figli e altri membri conviventi,3,218,654
+Borgo Panigale - Reno,Borgo Panigale,Madre con figli e altri membri conviventi,4,102,408
+Borgo Panigale - Reno,Santa Viola,Coniugi con figli,5,80,400
+Borgo Panigale - Reno,Santa Viola,Coniugi con figli,6-10,18,111
+Borgo Panigale - Reno,Santa Viola,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1,3
+Navile,Bolognina,Coniugi con figli,3,1223,3669
+Navile,Bolognina,Coniugi con figli,4,971,3884
+Navile,Bolognina,Madre con figli,4,58,232
+Navile,Corticella,Coniugi con altri membri conviventi,4,8,32
+Navile,Corticella,Coniugi con figli,3,758,2274
+Navile,Corticella,Madre con figli e altri membri conviventi,3,147,441
+Navile,Corticella,Madre con figli e altri membri conviventi,4,63,252
+Porto - Saragozza,Malpighi,Solo,1,2096,2096
+Porto - Saragozza,Marconi,Coppia unita civilmente femminile con altri conviventi,3,2,6
+Porto - Saragozza,Marconi,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1,4
+Porto - Saragozza,Marconi,Padre con figli,3,23,69
+Porto - Saragozza,Saffi,Altre tipologie familiari,3,32,96
+Porto - Saragozza,Saffi,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,3,9
+Porto - Saragozza,Saffi,Madre con figli,2,536,1072
+Porto - Saragozza,Saffi,Madre con figli,4,19,76
+Porto - Saragozza,Saffi,Padre con figli,4,5,20
+San Donato - San Vitale,San Donato,Coniugi con figli,Oltre 10,1,11
+San Donato - San Vitale,San Donato,Madre con figli e altri membri conviventi,Oltre 10,1,12
+San Donato - San Vitale,San Vitale,Padre con figli,4,10,40
+Santo Stefano,Colli,Coniugi con altri membri conviventi,4,1,4
+Santo Stefano,Colli,Padre con figli e altri membri conviventi,4,38,152
+Santo Stefano,Galvani,Altre tipologie familiari,3,17,51
+Santo Stefano,Galvani,Madre con figli,6-10,1,6
+Santo Stefano,Irnerio,Altre tipologie familiari,4,4,16
+Santo Stefano,Irnerio,Madre con figli e altri membri conviventi,3,105,315
+Santo Stefano,Irnerio,Madre con figli e altri membri conviventi,4,39,156
+Savena,Mazzini,Padre con figli e altri membri conviventi,6-10,14,87
+Savena,Mazzini,Solo,1,4171,4171
+Savena,San Ruffillo,Coniugi con altri membri conviventi,5,4,20
+Savena,San Ruffillo,Coniugi con figli,4,689,2756
+Savena,San Ruffillo,Coniugi con figli,5,121,605
+Savena,San Ruffillo,Coniugi con figli,6-10,26,160
+Savena,San Ruffillo,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,2,6
+Savena,San Ruffillo,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1,4
+Savena,San Ruffillo,Madre con figli,3,209,627
+Savena,San Ruffillo,Madre con figli e altri membri conviventi,6-10,5,32
+Senza fissa dimora,Senza fissa dimora,Solo,1,604,604
+Borgo Panigale - Reno,Barca,Altre tipologie familiari,3,31,93
+Borgo Panigale - Reno,Barca,Altre tipologie familiari,4,12,48
+Borgo Panigale - Reno,Barca,Altre tipologie familiari,5,4,20
+Borgo Panigale - Reno,Barca,Coniugi,2,1627,3254
+Borgo Panigale - Reno,Barca,Coniugi con altri membri conviventi,5,3,15
+Borgo Panigale - Reno,Barca,Madre con figli,6-10,4,25
+Borgo Panigale - Reno,Barca,Padre con figli e altri membri conviventi,4,84,336
+Borgo Panigale - Reno,Barca,Solo,1,2101,2101
+Borgo Panigale - Reno,Borgo Panigale,Altre tipologie familiari,3,58,174
+Borgo Panigale - Reno,Borgo Panigale,Coniugi con altri membri conviventi,3,59,177
+Borgo Panigale - Reno,Borgo Panigale,Coniugi con figli,6-10,50,322
+Borgo Panigale - Reno,Borgo Panigale,Coppia unita civilmente femminile,2,4,8
+Borgo Panigale - Reno,Borgo Panigale,Solo,1,3136,3136
+Borgo Panigale - Reno,Santa Viola,Coniugi con altri membri conviventi,3,31,93
+Borgo Panigale - Reno,Santa Viola,Coniugi con figli e altri membri conviventi,6-10,25,161
+Borgo Panigale - Reno,Santa Viola,Madre con figli,3,99,297
+Borgo Panigale - Reno,Santa Viola,Madre con figli e altri membri conviventi,5,8,40
+Navile,Bolognina,Altre tipologie familiari,5,9,45
+Navile,Bolognina,Coniugi,2,1963,3926
+Navile,Bolognina,Coniugi con altri membri conviventi,6-10,7,44
+Navile,Bolognina,Coniugi con figli,5,210,1050
+Navile,Bolognina,Coppia unita civilmente femminile,2,11,22
+Navile,Bolognina,Coppia unita civilmente maschile,2,23,46
+Navile,Bolognina,Madre con figli,2,976,1952
+Navile,Bolognina,Madre con figli e altri membri conviventi,4,169,676
+Navile,Bolognina,Madre con figli e altri membri conviventi,6-10,17,111
+Navile,Bolognina,Padre con figli,6-10,1,6
+Navile,Corticella,Coniugi con altri membri conviventi,6-10,1,6
+Navile,Corticella,Madre con figli,4,19,76
+Navile,Lame,Altre tipologie familiari,4,9,36
+Navile,Lame,Coniugi con figli,6-10,42,261
+Navile,Lame,Padre con figli e altri membri conviventi,3,105,315
+Navile,Lame,Padre con figli e altri membri conviventi,4,63,252
+Navile,Lame,Padre con figli e altri membri conviventi,5,12,60
+Porto - Saragozza,Costa Saragozza,Coniugi con altri membri conviventi,3,38,114
+Porto - Saragozza,Costa Saragozza,Coniugi con figli,3,974,2922
+Porto - Saragozza,Costa Saragozza,Madre con figli,2,738,1476
+Porto - Saragozza,Costa Saragozza,Padre con figli e altri membri conviventi,3,167,501
+Porto - Saragozza,Costa Saragozza,Padre con figli e altri membri conviventi,4,98,392
+Porto - Saragozza,Malpighi,Coniugi,2,665,1330
+Porto - Saragozza,Malpighi,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1,4
+Porto - Saragozza,Malpighi,Madre con figli e altri membri conviventi,6-10,1,7
+Porto - Saragozza,Malpighi,Padre con figli e altri membri conviventi,3,75,225
+Porto - Saragozza,Marconi,Altre tipologie familiari,2,343,686
+Porto - Saragozza,Marconi,Coniugi con altri membri conviventi,5,1,5
+Porto - Saragozza,Marconi,Coniugi con figli e altri membri conviventi,5,20,100
+Porto - Saragozza,Saffi,Coniugi con figli,3,639,1917
+Porto - Saragozza,Saffi,Madre con figli,3,175,525
+Porto - Saragozza,Saffi,Madre con figli e altri membri conviventi,3,146,438
+San Donato - San Vitale,San Donato,Coniugi con figli e altri membri conviventi,6-10,130,911
+San Donato - San Vitale,San Donato,Coniugi con figli e altri membri conviventi,Oltre 10,8,98
+San Donato - San Vitale,San Donato,Coppia unita civilmente femminile,2,8,16
+San Donato - San Vitale,San Donato,Coppia unita civilmente femminile con altri conviventi,3,1,3
+San Donato - San Vitale,San Donato,Madre con figli,4,48,192
+San Donato - San Vitale,San Donato,Padre con figli,3,47,141
+San Donato - San Vitale,San Donato,Padre con figli e altri membri conviventi,Oltre 10,1,11
+San Donato - San Vitale,San Vitale,Coniugi con altri membri conviventi,4,10,40
+San Donato - San Vitale,San Vitale,Padre con figli e altri membri conviventi,5,29,145
+Santo Stefano,Colli,Altre tipologie familiari,4,9,36
+Santo Stefano,Colli,Coniugi con figli,4,309,1236
+Santo Stefano,Colli,Coniugi con figli,5,95,475
+Santo Stefano,Colli,Coniugi con figli e altri membri conviventi,6-10,8,53
+Santo Stefano,Colli,Madre con figli e altri membri conviventi,6-10,7,45
+Santo Stefano,Colli,Padre con figli,3,29,87
+Santo Stefano,Colli,Padre con figli e altri membri conviventi,5,9,45
+Santo Stefano,Galvani,Altre tipologie familiari,2,323,646
+Santo Stefano,Galvani,Coppia unita civilmente femminile,2,1,2
+Santo Stefano,Galvani,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1,3
+Santo Stefano,Galvani,Padre con figli,2,107,214
+Santo Stefano,Galvani,Padre con figli e altri membri conviventi,5,9,45
+Santo Stefano,Irnerio,Coniugi con figli,6-10,8,54
+Santo Stefano,Irnerio,Coppia unita civilmente femminile,2,1,2
+Santo Stefano,Irnerio,Coppia unita civilmente femminile con altri conviventi,3,1,3
+Santo Stefano,Irnerio,Madre con figli,3,140,420
+Santo Stefano,Irnerio,Madre con figli,4,14,56
+Santo Stefano,Irnerio,Padre con figli e altri membri conviventi,5,6,30
+Santo Stefano,Irnerio,Sola,1,3100,3100
+Savena,Mazzini,Altre tipologie familiari,5,5,25
+Savena,Mazzini,Padre con figli,4,8,32
+Savena,San Ruffillo,Coniugi con figli e altri membri conviventi,Oltre 10,2,24
+Savena,San Ruffillo,Padre con figli,6-10,1,6
+Savena,San Ruffillo,Sola,1,3012,3012
+Santo Stefano,Irnerio,Madre con figli e altri membri conviventi,6-10,1,6
+Santo Stefano,Murri,Coniugi con figli,6-10,35,215
+Savena,Mazzini,Coniugi,2,2951,5902
+Savena,Mazzini,Madre con figli e altri membri conviventi,5,29,145
+Savena,San Ruffillo,Coniugi con altri membri conviventi,6-10,3,20
+Savena,San Ruffillo,Madre con figli e altri membri conviventi,3,165,495
+Savena,San Ruffillo,Padre con figli e altri membri conviventi,4,94,376
+Borgo Panigale - Reno,Borgo Panigale,Madre con figli e altri membri conviventi,5,26,130
+Porto - Saragozza,Malpighi,Coniugi con altri membri conviventi,3,17,51
+Porto - Saragozza,Malpighi,Madre con figli e altri membri conviventi,4,36,144
+Porto - Saragozza,Malpighi,Padre con figli e altri membri conviventi,4,44,176
+Porto - Saragozza,Marconi,Coniugi con figli,6-10,7,42
+Porto - Saragozza,Marconi,Madre con figli e altri membri conviventi,6-10,2,12
+Porto - Saragozza,Marconi,Padre con figli e altri membri conviventi,6-10,2,12
+San Donato - San Vitale,San Vitale,Altre tipologie familiari,2,950,1900
+San Donato - San Vitale,San Vitale,Coniugi con figli e altri membri conviventi,6-10,59,400
+San Donato - San Vitale,San Vitale,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1,3
+San Donato - San Vitale,San Vitale,Madre con figli e altri membri conviventi,5,35,175
+Santo Stefano,Colli,Altre tipologie familiari,6-10,2,15
+Santo Stefano,Colli,Madre con figli,2,256,512
+Santo Stefano,Galvani,Coniugi con figli,4,308,1232
+Santo Stefano,Irnerio,Coppia unita civilmente maschile con figli ed eventuali conviventi,3,1,3
+Santo Stefano,Irnerio,Padre con figli e altri membri conviventi,3,68,204
+Santo Stefano,Murri,Coniugi con figli,3,1142,3426
+Santo Stefano,Murri,Coniugi con figli,4,1031,4124
+Santo Stefano,Murri,Madre con figli,2,864,1728
+Santo Stefano,Murri,Padre con figli,3,71,213
+Santo Stefano,Murri,Padre con figli,4,9,36
+Savena,Mazzini,Altre tipologie familiari,3,54,162
+Savena,Mazzini,Coniugi con figli e altri membri conviventi,5,62,310
+Savena,Mazzini,Madre con figli,2,1147,2294
+Savena,San Ruffillo,Coniugi con altri membri conviventi,4,7,28
+Savena,San Ruffillo,Solo,1,2260,2260
+Borgo Panigale - Reno,Borgo Panigale,Padre con figli e altri membri conviventi,6-10,18,120
+Borgo Panigale - Reno,Santa Viola,Altre tipologie familiari,3,20,60
+Borgo Panigale - Reno,Santa Viola,Coniugi con figli,3,563,1689
+Borgo Panigale - Reno,Santa Viola,Padre con figli,4,5,20
+Navile,Bolognina,Altre tipologie familiari,4,31,124
+Navile,Bolognina,Padre con figli e altri membri conviventi,5,30,150
+Navile,Corticella,Altre tipologie familiari,2,402,804
+Navile,Corticella,Coniugi con altri membri conviventi,5,6,30
+Navile,Corticella,Padre con figli,3,31,93
+Porto - Saragozza,Costa Saragozza,Padre con figli e altri membri conviventi,6-10,5,35
+Porto - Saragozza,Costa Saragozza,Solo,1,3168,3168
+Borgo Panigale - Reno,Barca,Coniugi con altri membri conviventi,3,64,192
+Borgo Panigale - Reno,Barca,Coniugi con altri membri conviventi,6-10,3,21
+Borgo Panigale - Reno,Santa Viola,Coniugi con figli e altri membri conviventi,5,24,120
+Borgo Panigale - Reno,Santa Viola,Madre con figli,2,388,776
+Navile,Bolognina,Coniugi con altri membri conviventi,5,6,30
+Navile,Bolognina,Madre con figli,6-10,3,19
+Navile,Bolognina,Padre con figli,3,50,150
+Navile,Corticella,Altre tipologie familiari,4,7,28
+Navile,Corticella,Coniugi con altri membri conviventi,3,37,111
+Navile,Lame,Coniugi con figli e altri membri conviventi,4,33,132
+Porto - Saragozza,Costa Saragozza,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,4,12
+Porto - Saragozza,Costa Saragozza,Madre con figli e altri membri conviventi,4,108,432
+Porto - Saragozza,Malpighi,Altre tipologie familiari,2,264,528
+Porto - Saragozza,Malpighi,Madre con figli,6-10,2,13
+Porto - Saragozza,Malpighi,Padre con figli,2,78,156
+Porto - Saragozza,Marconi,Coniugi con altri membri conviventi,4,5,20
+Porto - Saragozza,Marconi,Coppia unita civilmente femminile,2,4,8
+Porto - Saragozza,Marconi,Madre con figli,2,461,922
+Porto - Saragozza,Marconi,Madre con figli e altri membri conviventi,5,7,35
+Porto - Saragozza,Marconi,Padre con figli,4,3,12
+Porto - Saragozza,Saffi,Altre tipologie familiari,2,437,874
+Porto - Saragozza,Saffi,Coppia unita civilmente femminile,2,5,10
+Porto - Saragozza,Saffi,Coppia unita civilmente maschile,2,12,24
+San Donato - San Vitale,San Donato,Altre tipologie familiari,6-10,3,18
+San Donato - San Vitale,San Donato,Coniugi con figli,3,1022,3066
+San Donato - San Vitale,San Donato,Coniugi con figli,4,783,3132
+San Donato - San Vitale,San Donato,Padre con figli,6-10,1,6
+San Donato - San Vitale,San Vitale,Altre tipologie familiari,4,17,68
+San Donato - San Vitale,San Vitale,Madre con figli,3,301,903
+San Donato - San Vitale,San Vitale,Madre con figli,5,5,25
+San Donato - San Vitale,San Vitale,Solo,1,5104,5104
+Santo Stefano,Colli,Coniugi,2,528,1056
+Santo Stefano,Colli,Madre con figli,3,117,351
+Santo Stefano,Colli,Madre con figli,5,4,20
+Santo Stefano,Colli,Madre con figli e altri membri conviventi,4,46,184
+Santo Stefano,Colli,Padre con figli,6-10,1,6
+Santo Stefano,Colli,Solo,1,897,897
+Santo Stefano,Galvani,Coniugi con figli,3,414,1242
+Santo Stefano,Galvani,Coniugi con figli,5,72,360
+Santo Stefano,Galvani,Madre con figli e altri membri conviventi,4,45,180
+Santo Stefano,Galvani,Padre con figli e altri membri conviventi,3,70,210
+Santo Stefano,Galvani,Padre con figli e altri membri conviventi,6-10,1,6
+Santo Stefano,Murri,Altre tipologie familiari,2,560,1120
+Santo Stefano,Murri,Altre tipologie familiari,3,50,150
+Santo Stefano,Murri,Altre tipologie familiari,4,10,40
+Santo Stefano,Murri,Coniugi con figli,5,171,855
+Santo Stefano,Murri,Coppia unita civilmente maschile con altri conviventi,3,2,6
+Santo Stefano,Murri,Madre con figli e altri membri conviventi,5,22,110
+Santo Stefano,Murri,Padre con figli e altri membri conviventi,5,13,65
+Savena,Mazzini,Coniugi con altri membri conviventi,3,87,261
+Savena,Mazzini,Coniugi con figli,3,1571,4713
+Savena,Mazzini,Coniugi con figli e altri membri conviventi,Oltre 10,3,38
+Savena,Mazzini,Coppia unita civilmente femminile,2,7,14
+Savena,Mazzini,Madre con figli e altri membri conviventi,4,176,704
+Savena,Mazzini,Sola,1,5747,5747
+Savena,San Ruffillo,Altre tipologie familiari,5,3,15
+Savena,San Ruffillo,Coniugi con altri membri conviventi,3,55,165
+Savena,San Ruffillo,Coniugi con figli,3,822,2466
+Savena,San Ruffillo,Coppia unita civilmente maschile,2,3,6
+Senza fissa dimora,Senza fissa dimora,Madre con figli,3,1,3
+Senza fissa dimora,Senza fissa dimora,Sola,1,87,87
+Borgo Panigale - Reno,Barca,Madre con figli,3,215,645
+Borgo Panigale - Reno,Barca,Padre con figli,2,138,276
+Borgo Panigale - Reno,Borgo Panigale,Coniugi con altri membri conviventi,6-10,2,12
+Borgo Panigale - Reno,Borgo Panigale,Madre con figli,2,688,1376
+Borgo Panigale - Reno,Borgo Panigale,Padre con figli,4,6,24
+Borgo Panigale - Reno,Santa Viola,Coniugi,2,912,1824
+Borgo Panigale - Reno,Santa Viola,Coniugi con altri membri conviventi,4,7,28
+Borgo Panigale - Reno,Santa Viola,Coniugi con altri membri conviventi,5,2,10
+Navile,Bolognina,Altre tipologie familiari,2,1068,2136
+Navile,Corticella,Altre tipologie familiari,3,36,108
+Navile,Corticella,Madre con figli e altri membri conviventi,6-10,13,84
+Navile,Corticella,Padre con figli,2,127,254
+Navile,Corticella,Padre con figli e altri membri conviventi,6-10,8,52
+Navile,Lame,Altre tipologie familiari,3,26,78
+Navile,Lame,Coniugi con altri membri conviventi,4,4,16
+Navile,Lame,Coniugi con figli,3,596,1788
+Navile,Lame,Coniugi con figli e altri membri conviventi,Oltre 10,2,22
+Navile,Lame,Madre con figli e altri membri conviventi,5,14,70
+Navile,Lame,Padre con figli,3,21,63
+Porto - Saragozza,Costa Saragozza,Altre tipologie familiari,4,2,8
+Porto - Saragozza,Costa Saragozza,Coniugi con figli,6-10,23,139
+Porto - Saragozza,Costa Saragozza,Coppia unita civilmente maschile con altri conviventi,3,1,3
+Porto - Saragozza,Costa Saragozza,Madre con figli e altri membri conviventi,3,155,465
+Porto - Saragozza,Costa Saragozza,Padre con figli,4,3,12
+Porto - Saragozza,Costa Saragozza,Sola,1,4150,4150
+Porto - Saragozza,Malpighi,Coppia unita civilmente maschile,2,6,12
+Porto - Saragozza,Malpighi,Madre con figli,3,108,324
+Porto - Saragozza,Marconi,Altre tipologie familiari,4,9,36
+Porto - Saragozza,Marconi,Coniugi con figli,4,387,1548
+Porto - Saragozza,Marconi,Padre con figli,5,1,5
+Porto - Saragozza,Marconi,Padre con figli e altri membri conviventi,4,35,140
+Porto - Saragozza,Saffi,Padre con figli e altri membri conviventi,4,68,272
+Porto - Saragozza,Saffi,Padre con figli e altri membri conviventi,5,15,75
+San Donato - San Vitale,San Donato,Altre tipologie familiari,4,17,68
+San Donato - San Vitale,San Donato,Coniugi con figli,5,240,1200
+San Donato - San Vitale,San Vitale,Coniugi con figli,4,1051,4204
+San Donato - San Vitale,San Vitale,Coniugi con figli e altri membri conviventi,Oltre 10,2,26
+Santo Stefano,Colli,Altre tipologie familiari,2,145,290
+Santo Stefano,Galvani,Altre tipologie familiari,4,6,24
+Santo Stefano,Galvani,Altre tipologie familiari,5,4,20
+Santo Stefano,Irnerio,Coniugi con altri membri conviventi,4,7,28
+Santo Stefano,Irnerio,Coniugi con altri membri conviventi,5,1,5
+Santo Stefano,Irnerio,Coniugi con figli,4,255,1020
+Santo Stefano,Irnerio,Padre con figli,3,35,105
+Santo Stefano,Murri,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,3,9
+Santo Stefano,Murri,Padre con figli e altri membri conviventi,3,165,495
+Savena,Mazzini,Altre tipologie familiari,2,847,1694
+Savena,Mazzini,Altre tipologie familiari,4,18,72
+Savena,Mazzini,Coniugi con figli e altri membri conviventi,6-10,79,527
+Savena,Mazzini,Madre con figli e altri membri conviventi,6-10,10,65
+Savena,Mazzini,Padre con figli,3,78,234
+Santo Stefano,Irnerio,Coniugi,2,733,1466
+Santo Stefano,Irnerio,Coniugi con figli e altri membri conviventi,5,14,70
+Santo Stefano,Irnerio,Madre con figli,2,376,752
+Santo Stefano,Irnerio,Padre con figli,4,5,20
+Santo Stefano,Murri,Coniugi con figli e altri membri conviventi,4,50,200
+Santo Stefano,Murri,Coniugi con figli e altri membri conviventi,6-10,32,211
+Santo Stefano,Murri,Madre con figli,3,319,957
+Santo Stefano,Murri,Madre con figli,4,39,156
+Santo Stefano,Murri,Madre con figli e altri membri conviventi,4,101,404
+Santo Stefano,Murri,Padre con figli,2,190,380
+Savena,Mazzini,Coniugi con figli e altri membri conviventi,4,87,348
+Savena,Mazzini,Madre con figli e altri membri conviventi,3,284,852
+Savena,San Ruffillo,Coniugi con figli e altri membri conviventi,5,43,215
+Savena,San Ruffillo,Coniugi con figli e altri membri conviventi,6-10,48,314
+Savena,San Ruffillo,Madre con figli,2,690,1380
+Savena,San Ruffillo,Madre con figli,4,33,132
+Savena,San Ruffillo,Madre con figli,6-10,2,12
+Borgo Panigale - Reno,Barca,Coniugi con figli,6-10,38,245
+Borgo Panigale - Reno,Barca,Coppia unita civilmente femminile,2,5,10
+Borgo Panigale - Reno,Barca,Madre con figli,2,669,1338
+Borgo Panigale - Reno,Barca,Padre con figli,3,30,90
+Borgo Panigale - Reno,Borgo Panigale,Altre tipologie familiari,6-10,1,6
+Borgo Panigale - Reno,Borgo Panigale,Coniugi con figli,5,165,825
+Borgo Panigale - Reno,Borgo Panigale,Coniugi con figli e altri membri conviventi,4,67,268
+Borgo Panigale - Reno,Borgo Panigale,Coniugi con figli e altri membri conviventi,5,78,390
+Borgo Panigale - Reno,Borgo Panigale,Madre con figli,4,37,148
+Borgo Panigale - Reno,Borgo Panigale,Padre con figli,3,42,126
+Borgo Panigale - Reno,Borgo Panigale,Padre con figli e altri membri conviventi,5,20,100
+Borgo Panigale - Reno,Santa Viola,Madre con figli,4,20,80
+Borgo Panigale - Reno,Santa Viola,Padre con figli e altri membri conviventi,5,12,60
+Navile,Bolognina,Madre con figli e altri membri conviventi,5,32,160
+Navile,Bolognina,Sola,1,5570,5570
+Navile,Corticella,Altre tipologie familiari,5,2,10
+Navile,Corticella,Altre tipologie familiari,6-10,2,13
+Navile,Corticella,Coniugi con figli,6-10,31,192
+Navile,Corticella,Madre con figli,2,507,1014
+Navile,Corticella,Madre con figli,5,2,10
+Navile,Corticella,Padre con figli,4,4,16
+Navile,Lame,Coniugi con figli e altri membri conviventi,5,21,105
+Navile,Lame,Coppia unita civilmente maschile,2,8,16
+Navile,Lame,Padre con figli,2,89,178
+Porto - Saragozza,Costa Saragozza,Altre tipologie familiari,2,561,1122
+Porto - Saragozza,Costa Saragozza,Coniugi con figli,5,141,705
+Porto - Saragozza,Costa Saragozza,Coniugi con figli e altri membri conviventi,5,41,205
+Porto - Saragozza,Costa Saragozza,Madre con figli e altri membri conviventi,5,14,70
+Porto - Saragozza,Costa Saragozza,Padre con figli,2,148,296
+Porto - Saragozza,Costa Saragozza,Padre con figli,5,1,5
+Porto - Saragozza,Malpighi,Altre tipologie familiari,6-10,2,12
+Porto - Saragozza,Marconi,Madre con figli,3,137,411
+Porto - Saragozza,Saffi,Coniugi,2,1162,2324
+Porto - Saragozza,Saffi,Coniugi con figli,5,109,545
+Porto - Saragozza,Saffi,Coniugi con figli e altri membri conviventi,5,33,165
+Porto - Saragozza,Saffi,Madre con figli e altri membri conviventi,4,66,264
+Porto - Saragozza,Saffi,Padre con figli e altri membri conviventi,3,106,318
+San Donato - San Vitale,San Donato,Altre tipologie familiari,2,797,1594
+San Donato - San Vitale,San Donato,Coniugi con altri membri conviventi,5,6,30
+San Donato - San Vitale,San Donato,Coniugi con figli e altri membri conviventi,5,79,395
+San Donato - San Vitale,San Donato,Coppia unita civilmente maschile,2,11,22
+San Donato - San Vitale,San Donato,Madre con figli,6-10,3,18
+San Donato - San Vitale,San Donato,Madre con figli e altri membri conviventi,4,128,512
+San Donato - San Vitale,San Donato,Madre con figli e altri membri conviventi,5,43,215
+San Donato - San Vitale,San Donato,Padre con figli,2,200,400
+San Donato - San Vitale,San Donato,Padre con figli e altri membri conviventi,4,125,500
+San Donato - San Vitale,San Donato,Padre con figli e altri membri conviventi,5,31,155
+San Donato - San Vitale,San Donato,Padre con figli e altri membri conviventi,6-10,12,83
+San Donato - San Vitale,San Donato,Sola,1,4744,4744
+San Donato - San Vitale,San Vitale,Madre con figli,2,991,1982
+Santo Stefano,Colli,Altre tipologie familiari,5,1,5
+Santo Stefano,Colli,Madre con figli,4,25,100
+Santo Stefano,Galvani,Coniugi con altri membri conviventi,3,25,75
+Santo Stefano,Galvani,Coniugi con altri membri conviventi,5,2,10
+Santo Stefano,Galvani,Coniugi con figli e altri membri conviventi,5,27,135
+Santo Stefano,Galvani,Madre con figli,2,438,876
+Santo Stefano,Galvani,Madre con figli e altri membri conviventi,3,73,219
+Santo Stefano,Galvani,Padre con figli,5,1,5
+Santo Stefano,Irnerio,Coniugi con figli,5,56,280
+Santo Stefano,Irnerio,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1,3
+Santo Stefano,Irnerio,Padre con figli e altri membri conviventi,6-10,3,23
+Santo Stefano,Irnerio,Solo,1,2904,2904
+Santo Stefano,Murri,Altre tipologie familiari,6-10,1,7
+Santo Stefano,Murri,Coniugi con altri membri conviventi,4,11,44
+Santo Stefano,Murri,Coppia unita civilmente femminile,2,1,2
+Santo Stefano,Murri,Coppia unita civilmente maschile,2,8,16
+Santo Stefano,Murri,Madre con figli e altri membri conviventi,3,193,579
+Santo Stefano,Murri,Madre con figli e altri membri conviventi,6-10,8,50
+Santo Stefano,Murri,Padre con figli e altri membri conviventi,6-10,1,6
+Santo Stefano,Murri,Solo,1,3469,3469
+Savena,Mazzini,Madre con figli,5,8,40
+Savena,Mazzini,Padre con figli e altri membri conviventi,5,22,110
+Savena,San Ruffillo,Altre tipologie familiari,4,14,56
+Savena,San Ruffillo,Padre con figli,5,5,25
+Savena,San Ruffillo,Padre con figli e altri membri conviventi,3,153,459
+Savena,San Ruffillo,Padre con figli e altri membri conviventi,6-10,6,38
+Senza fissa dimora,Senza fissa dimora,Altre tipologie familiari,2,3,6
+Senza fissa dimora,Senza fissa dimora,Coniugi con figli,4,1,4
+Borgo Panigale - Reno,Barca,Coniugi con altri membri conviventi,4,11,44
+Borgo Panigale - Reno,Barca,Coniugi con figli,3,838,2514
+Borgo Panigale - Reno,Borgo Panigale,Altre tipologie familiari,2,619,1238
+Borgo Panigale - Reno,Borgo Panigale,Padre con figli,6-10,1,9
+Borgo Panigale - Reno,Santa Viola,Altre tipologie familiari,4,4,16
+Borgo Panigale - Reno,Santa Viola,Coniugi con figli,4,437,1748
+Borgo Panigale - Reno,Santa Viola,Padre con figli,3,21,63
+Navile,Bolognina,Coniugi con altri membri conviventi,4,17,68
+Navile,Lame,Coniugi con altri membri conviventi,6-10,3,18
+Navile,Lame,Coniugi con figli,4,429,1716
+Navile,Lame,Padre con figli e altri membri conviventi,6-10,9,57
+Porto - Saragozza,Costa Saragozza,Coniugi con altri membri conviventi,4,6,24
+Porto - Saragozza,Costa Saragozza,Coniugi con figli,4,815,3260
+Porto - Saragozza,Costa Saragozza,Padre con figli e altri membri conviventi,5,16,80
+Porto - Saragozza,Malpighi,Coniugi con figli,3,360,1080
+Porto - Saragozza,Malpighi,Coniugi con figli,6-10,4,25
+Porto - Saragozza,Malpighi,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,2,6
+Porto - Saragozza,Malpighi,Madre con figli,4,10,40
+Porto - Saragozza,Malpighi,Madre con figli,5,3,15
+Porto - Saragozza,Malpighi,Madre con figli e altri membri conviventi,3,86,258
+Porto - Saragozza,Malpighi,Padre con figli,3,23,69
+Porto - Saragozza,Malpighi,Padre con figli e altri membri conviventi,5,7,35
+Porto - Saragozza,Marconi,Altre tipologie familiari,3,18,54
+Porto - Saragozza,Marconi,Coniugi con altri membri conviventi,3,26,78
+Porto - Saragozza,Marconi,Coniugi con figli,3,467,1401
+Porto - Saragozza,Marconi,Coniugi con figli e altri membri conviventi,4,24,96
+Porto - Saragozza,Marconi,Madre con figli,4,15,60
+Porto - Saragozza,Marconi,Padre con figli e altri membri conviventi,3,79,237
+Porto - Saragozza,Saffi,Coniugi con altri membri conviventi,5,3,15
+Porto - Saragozza,Saffi,Padre con figli,3,31,93
+San Donato - San Vitale,San Donato,Madre con figli,5,9,45
+San Donato - San Vitale,San Donato,Padre con figli,4,5,20
+San Donato - San Vitale,San Vitale,Altre tipologie familiari,3,44,132
+San Donato - San Vitale,San Vitale,Altre tipologie familiari,6-10,1,6
+San Donato - San Vitale,San Vitale,Coniugi con altri membri conviventi,6-10,3,20
+San Donato - San Vitale,San Vitale,Coniugi con figli,3,1215,3645
+San Donato - San Vitale,San Vitale,Coniugi con figli,5,243,1215
+San Donato - San Vitale,San Vitale,Coppia unita civilmente maschile,2,17,34
+San Donato - San Vitale,San Vitale,Madre con figli,6-10,1,6
+San Donato - San Vitale,San Vitale,Madre con figli e altri membri conviventi,4,108,432
+San Donato - San Vitale,San Vitale,Padre con figli,2,216,432
+Santo Stefano,Colli,Coniugi con altri membri conviventi,3,16,48
+Santo Stefano,Colli,Coniugi con figli,6-10,17,104
+Santo Stefano,Colli,Coniugi con figli e altri membri conviventi,4,13,52
+Santo Stefano,Colli,Madre con figli,6-10,1,6
+Santo Stefano,Colli,Padre con figli e altri membri conviventi,3,48,144
+Santo Stefano,Colli,Padre con figli e altri membri conviventi,6-10,3,19
+Santo Stefano,Colli,Sola,1,1111,1111
+Santo Stefano,Galvani,Coniugi,2,733,1466
+Santo Stefano,Galvani,Coniugi con altri membri conviventi,4,3,12
+Santo Stefano,Galvani,Coniugi con figli e altri membri conviventi,Oltre 10,1,12
+Santo Stefano,Galvani,Coppia unita civilmente maschile,2,11,22
+Santo Stefano,Galvani,Solo,1,1967,1967
+Santo Stefano,Irnerio,Altre tipologie familiari,3,30,90
+Savena,Mazzini,Coniugi con altri membri conviventi,5,4,20
+Savena,Mazzini,Madre con figli,3,330,990
+Savena,San Ruffillo,Coniugi con figli e altri membri conviventi,4,43,172
+Borgo Panigale - Reno,Barca,Altre tipologie familiari,2,448,896
+Borgo Panigale - Reno,Barca,Coppia unita civilmente maschile,2,3,6
+Borgo Panigale - Reno,Barca,Madre con figli e altri membri conviventi,4,93,372
+Borgo Panigale - Reno,Borgo Panigale,Madre con figli,6-10,1,6
+Borgo Panigale - Reno,Santa Viola,Altre tipologie familiari,2,373,746
+Borgo Panigale - Reno,Santa Viola,Coppia unita civilmente femminile con altri conviventi,3,1,3
+Navile,Bolognina,Coniugi con figli e altri membri conviventi,6-10,106,706
+Navile,Bolognina,Madre con figli,5,9,45
+Navile,Bolognina,Madre con figli e altri membri conviventi,3,280,840
+Navile,Bolognina,Padre con figli,2,201,402
+Navile,Bolognina,Padre con figli,4,6,24
+Navile,Bolognina,Padre con figli e altri membri conviventi,4,149,596
+Navile,Lame,Coniugi con figli,5,100,500
+Navile,Lame,Coppia unita civilmente femminile,2,1,2
+Navile,Lame,Madre con figli e altri membri conviventi,4,57,228
+Navile,Lame,Padre con figli,4,5,20
+Borgo Panigale - Reno,Barca,Coniugi con figli e altri membri conviventi,5,44,220
+Borgo Panigale - Reno,Barca,Madre con figli,5,6,30
+Borgo Panigale - Reno,Borgo Panigale,Madre con figli,3,250,750
+Borgo Panigale - Reno,Borgo Panigale,Madre con figli,5,5,25
+Borgo Panigale - Reno,Santa Viola,Padre con figli e altri membri conviventi,6-10,4,24
+Borgo Panigale - Reno,Santa Viola,Sola,1,1959,1959
+Navile,Bolognina,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,5,15
+Navile,Bolognina,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,2,8
+Navile,Bolognina,Padre con figli e altri membri conviventi,3,269,807
+Navile,Corticella,Coniugi con figli e altri membri conviventi,6-10,55,369
+Navile,Corticella,Padre con figli e altri membri conviventi,4,80,320
+Navile,Corticella,Solo,1,1946,1946
+Navile,Lame,Coniugi con altri membri conviventi,5,3,15
+Navile,Lame,Madre con figli e altri membri conviventi,3,97,291
+Porto - Saragozza,Costa Saragozza,Coniugi con altri membri conviventi,5,1,5
+Porto - Saragozza,Costa Saragozza,Coniugi con figli e altri membri conviventi,4,37,148
+Porto - Saragozza,Costa Saragozza,Madre con figli,4,40,160
+Porto - Saragozza,Malpighi,Altre tipologie familiari,4,4,16
+Porto - Saragozza,Malpighi,Coniugi con figli,4,248,992
+Porto - Saragozza,Malpighi,Coniugi con figli,5,55,275
+Porto - Saragozza,Malpighi,Sola,1,2459,2459
+Porto - Saragozza,Marconi,Coniugi con figli,5,74,370
+Porto - Saragozza,Marconi,Coniugi con figli e altri membri conviventi,6-10,10,66
+Porto - Saragozza,Marconi,Coppia unita civilmente maschile,2,14,28
+Porto - Saragozza,Marconi,Madre con figli e altri membri conviventi,4,46,184
+Porto - Saragozza,Marconi,Solo,1,2587,2587
+Porto - Saragozza,Saffi,Coniugi con altri membri conviventi,3,28,84
+Porto - Saragozza,Saffi,Coniugi con figli e altri membri conviventi,Oltre 10,1,11
+Porto - Saragozza,Saffi,Madre con figli e altri membri conviventi,5,15,75
+San Donato - San Vitale,San Donato,Coniugi con figli,6-10,87,544
+San Donato - San Vitale,San Donato,Coniugi con figli e altri membri conviventi,4,77,308
+San Donato - San Vitale,San Donato,Madre con figli,2,1106,2212
+San Donato - San Vitale,San Donato,Madre con figli e altri membri conviventi,3,199,597
+San Donato - San Vitale,San Donato,Madre con figli e altri membri conviventi,6-10,18,111
+San Donato - San Vitale,San Vitale,Coniugi con figli e altri membri conviventi,4,54,216
+San Donato - San Vitale,San Vitale,Coniugi con figli e altri membri conviventi,5,73,365
+San Donato - San Vitale,San Vitale,Madre con figli e altri membri conviventi,3,207,621
+San Donato - San Vitale,San Vitale,Padre con figli e altri membri conviventi,6-10,8,50
+Santo Stefano,Colli,Coniugi con figli,3,331,993
+Santo Stefano,Colli,Padre con figli,2,69,138
+Santo Stefano,Galvani,Coniugi con figli,6-10,14,88
+Santo Stefano,Irnerio,Altre tipologie familiari,5,2,10
+Santo Stefano,Irnerio,Coniugi con figli e altri membri conviventi,4,26,104
+Santo Stefano,Irnerio,Coppia unita civilmente maschile,2,12,24
+Santo Stefano,Murri,Coniugi,2,1949,3898
+Santo Stefano,Murri,Coniugi con altri membri conviventi,3,51,153
+Santo Stefano,Murri,Padre con figli,6-10,2,14
+Savena,Mazzini,Altre tipologie familiari,6-10,4,25
+Savena,Mazzini,Coniugi con figli,5,234,1170
+Savena,Mazzini,Coniugi con figli,6-10,52,327
+Savena,Mazzini,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,1,3
+Savena,San Ruffillo,Altre tipologie familiari,6-10,3,20
+Savena,San Ruffillo,Coniugi,2,1614,3228
+Savena,San Ruffillo,Coppia unita civilmente femminile,2,3,6
+Savena,San Ruffillo,Madre con figli,5,1,5
+Savena,San Ruffillo,Padre con figli,2,139,278
+Savena,San Ruffillo,Padre con figli e altri membri conviventi,5,21,105
+Senza fissa dimora,Senza fissa dimora,Madre con figli e altri membri conviventi,3,2,6
+Borgo Panigale - Reno,Borgo Panigale,Coniugi con altri membri conviventi,5,6,30
+Borgo Panigale - Reno,Borgo Panigale,Coniugi con figli,3,1062,3186
+Borgo Panigale - Reno,Borgo Panigale,Coniugi con figli,4,832,3328
+Borgo Panigale - Reno,Borgo Panigale,Coniugi con figli e altri membri conviventi,6-10,64,421
+Borgo Panigale - Reno,Borgo Panigale,Coniugi con figli e altri membri conviventi,Oltre 10,1,21
+Navile,Corticella,Coniugi con figli,5,107,535
+Navile,Corticella,Coniugi con figli e altri membri conviventi,4,41,164
+Navile,Corticella,Coniugi con figli e altri membri conviventi,5,49,245
+Navile,Corticella,Madre con figli,3,162,486
+Navile,Corticella,Madre con figli e altri membri conviventi,5,10,50
+Navile,Corticella,Padre con figli e altri membri conviventi,5,15,75
+Navile,Lame,Altre tipologie familiari,2,362,724
+Navile,Lame,Madre con figli,4,25,100
+Porto - Saragozza,Costa Saragozza,Altre tipologie familiari,3,40,120
+Porto - Saragozza,Costa Saragozza,Coniugi,2,1614,3228
+Porto - Saragozza,Costa Saragozza,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,2,8
+Porto - Saragozza,Malpighi,Coniugi con figli e altri membri conviventi,4,22,88
+Porto - Saragozza,Malpighi,Coniugi con figli e altri membri conviventi,5,13,65
+Porto - Saragozza,Malpighi,Coniugi con figli e altri membri conviventi,6-10,12,75
+Porto - Saragozza,Malpighi,Padre con figli,4,3,12
+Porto - Saragozza,Malpighi,Padre con figli e altri membri conviventi,6-10,2,13
+Porto - Saragozza,Marconi,Altre tipologie familiari,6-10,1,6
+Porto - Saragozza,Marconi,Madre con figli,5,2,10
+Porto - Saragozza,Marconi,Padre con figli e altri membri conviventi,5,11,55
+Porto - Saragozza,Marconi,Sola,1,3186,3186
+Porto - Saragozza,Saffi,Altre tipologie familiari,4,5,20
+Porto - Saragozza,Saffi,Coniugi con figli e altri membri conviventi,4,33,132
+Porto - Saragozza,Saffi,Madre con figli e altri membri conviventi,6-10,5,31
+Porto - Saragozza,Saffi,Padre con figli e altri membri conviventi,6-10,6,38
+Porto - Saragozza,Saffi,Solo,1,2878,2878
+San Donato - San Vitale,San Donato,Altre tipologie familiari,3,50,150
+San Donato - San Vitale,San Donato,Altre tipologie familiari,5,7,35
+San Donato - San Vitale,San Donato,Coniugi con altri membri conviventi,3,48,144
+San Donato - San Vitale,San Donato,Coniugi con altri membri conviventi,6-10,3,19
+San Donato - San Vitale,San Donato,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1,4
+San Donato - San Vitale,San Donato,Madre con figli,3,302,906
+San Donato - San Vitale,San Vitale,Coniugi,2,2154,4308
+San Donato - San Vitale,San Vitale,Coniugi con altri membri conviventi,5,7,35
+San Donato - San Vitale,San Vitale,Coniugi con figli,6-10,53,329
+San Donato - San Vitale,San Vitale,Padre con figli e altri membri conviventi,3,220,660
+Santo Stefano,Colli,Altre tipologie familiari,3,14,42
+Santo Stefano,Colli,Coniugi con figli e altri membri conviventi,5,13,65
+Santo Stefano,Galvani,Madre con figli e altri membri conviventi,5,11,55
+Santo Stefano,Galvani,Madre con figli e altri membri conviventi,6-10,2,13
+Santo Stefano,Galvani,Padre con figli,6-10,1,6
+Santo Stefano,Galvani,Padre con figli e altri membri conviventi,Oltre 10,1,14
+Santo Stefano,Irnerio,Coppia unita civilmente maschile con altri conviventi,4,1,4
+Santo Stefano,Irnerio,Madre con figli,5,2,10
+Santo Stefano,Irnerio,Madre con figli e altri membri conviventi,5,9,45
+Santo Stefano,Murri,Altre tipologie familiari,5,7,35
+Santo Stefano,Murri,Coniugi con altri membri conviventi,5,2,10
+Santo Stefano,Murri,Coniugi con altri membri conviventi,6-10,3,20
+Santo Stefano,Murri,Coniugi con figli e altri membri conviventi,5,41,205
+Santo Stefano,Murri,Sola,1,4925,4925
+Savena,Mazzini,Coniugi con altri membri conviventi,4,16,64
+Savena,Mazzini,Coniugi con altri membri conviventi,6-10,1,8
+Savena,Mazzini,Coniugi con figli,4,1229,4916
+Savena,Mazzini,Padre con figli,2,238,476
+Savena,San Ruffillo,Altre tipologie familiari,2,434,868
+Savena,San Ruffillo,Madre con figli e altri membri conviventi,4,94,376
+Savena,San Ruffillo,Padre con figli,3,32,96
+Senza fissa dimora,Senza fissa dimora,Padre con figli e altri membri conviventi,4,1,4
+Borgo Panigale - Reno,Barca,Coniugi con figli,5,130,650
+Borgo Panigale - Reno,Barca,Padre con figli e altri membri conviventi,5,11,55
+Borgo Panigale - Reno,Borgo Panigale,Coppia unita civilmente femminile con figli ed eventuali conviventi,3,2,6
+Borgo Panigale - Reno,Santa Viola,Coniugi con figli e altri membri conviventi,4,33,132
+Borgo Panigale - Reno,Santa Viola,Coppia unita civilmente femminile,2,3,6
+Navile,Bolognina,Coniugi con figli e altri membri conviventi,4,90,360
+Navile,Bolognina,Coniugi con figli e altri membri conviventi,5,98,490
+Navile,Bolognina,Madre con figli,3,324,972
+Navile,Corticella,Padre con figli e altri membri conviventi,3,112,336
+Navile,Lame,Altre tipologie familiari,5,5,25
+Navile,Lame,Coniugi con altri membri conviventi,3,32,96
+Navile,Lame,Madre con figli e altri membri conviventi,6-10,6,38
+Porto - Saragozza,Costa Saragozza,Coppia unita civilmente maschile,2,13,26
+Borgo Panigale - Reno,Barca,Coniugi con figli,4,678,2712
+Borgo Panigale - Reno,Barca,Coniugi con figli e altri membri conviventi,6-10,54,360
+Borgo Panigale - Reno,Barca,Madre con figli,4,34,136
+Borgo Panigale - Reno,Barca,Madre con figli e altri membri conviventi,3,152,456
+Borgo Panigale - Reno,Barca,Madre con figli e altri membri conviventi,5,27,135
+Borgo Panigale - Reno,Barca,Madre con figli e altri membri conviventi,6-10,7,46
+Borgo Panigale - Reno,Borgo Panigale,Altre tipologie familiari,4,10,40
+Borgo Panigale - Reno,Borgo Panigale,Altre tipologie familiari,5,10,50
+Borgo Panigale - Reno,Borgo Panigale,Coppia unita civilmente maschile,2,13,26
+Borgo Panigale - Reno,Borgo Panigale,Padre con figli e altri membri conviventi,3,219,657
+Borgo Panigale - Reno,Borgo Panigale,Padre con figli e altri membri conviventi,4,108,432
+Borgo Panigale - Reno,Borgo Panigale,Sola,1,3396,3396
+Borgo Panigale - Reno,Santa Viola,Coppia unita civilmente maschile,2,5,10
+Borgo Panigale - Reno,Santa Viola,Madre con figli e altri membri conviventi,3,115,345
+Borgo Panigale - Reno,Santa Viola,Madre con figli e altri membri conviventi,4,49,196
+Borgo Panigale - Reno,Santa Viola,Madre con figli e altri membri conviventi,6-10,4,27
+Borgo Panigale - Reno,Santa Viola,Padre con figli e altri membri conviventi,3,82,246
+Borgo Panigale - Reno,Santa Viola,Solo,1,1701,1701
+Navile,Bolognina,Altre tipologie familiari,6-10,9,56
+Navile,Bolognina,Coppia unita civilmente maschile con altri conviventi,4,1,4
+Navile,Bolognina,Solo,1,5794,5794
+Navile,Corticella,Sola,1,2223,2223
+Navile,Lame,Coniugi,2,1093,2186
+Navile,Lame,Madre con figli,2,460,920
+Navile,Lame,Madre con figli,5,5,25
+Navile,Lame,Sola,1,1778,1778
+Porto - Saragozza,Costa Saragozza,Altre tipologie familiari,6-10,1,6
+Porto - Saragozza,Costa Saragozza,Coniugi con altri membri conviventi,6-10,2,13
+Porto - Saragozza,Costa Saragozza,Coppia unita civilmente femminile,2,5,10
+Porto - Saragozza,Costa Saragozza,Madre con figli e altri membri conviventi,6-10,4,26
+Porto - Saragozza,Malpighi,Altre tipologie familiari,3,15,45
+Porto - Saragozza,Marconi,Madre con figli e altri membri conviventi,3,106,318
+Porto - Saragozza,Marconi,Padre con figli e altri membri conviventi,Oltre 10,1,11
+Porto - Saragozza,Saffi,Coniugi con figli,4,453,1812
+Porto - Saragozza,Saffi,Padre con figli,2,124,248
+Porto - Saragozza,Saffi,Sola,1,3328,3328
+San Donato - San Vitale,San Donato,Coniugi con altri membri conviventi,4,23,92
+San Donato - San Vitale,San Donato,Padre con figli e altri membri conviventi,3,171,513
+San Donato - San Vitale,San Vitale,Coppia unita civilmente femminile,2,7,14
+San Donato - San Vitale,San Vitale,Padre con figli,3,58,174
+San Donato - San Vitale,San Vitale,Padre con figli e altri membri conviventi,4,117,468
+Santo Stefano,Galvani,Coniugi con figli e altri membri conviventi,4,16,64
+Santo Stefano,Galvani,Coppia unita civilmente femminile con figli ed eventuali conviventi,4,1,4
+Santo Stefano,Galvani,Madre con figli,4,29,116
+Santo Stefano,Galvani,Padre con figli e altri membri conviventi,4,37,148
+Santo Stefano,Irnerio,Coniugi con figli,3,364,1092
+Santo Stefano,Murri,Madre con figli,5,3,15
+Savena,Mazzini,Padre con figli e altri membri conviventi,3,256,768
+Savena,Mazzini,Padre con figli e altri membri conviventi,4,145,580
+Savena,San Ruffillo,Altre tipologie familiari,3,40,120
+Senza fissa dimora,Senza fissa dimora,Altre tipologie familiari,3,1,3
+Senza fissa dimora,Senza fissa dimora,Madre con figli,2,5,10
+Senza fissa dimora,Senza fissa dimora,Madre con figli,4,2,8

@@ -1,0 +1,91 @@
+area_id,area_name,zona_id,zona_name,quartiere_id,quartiere_name
+1,LAVINO DI MEZZO,C,Borgo Panigale,11,Borgo Panigale - Reno
+2,VIA DEL VIVAIO,C,Borgo Panigale,11,Borgo Panigale - Reno
+3,BARGELLINO,C,Borgo Panigale,11,Borgo Panigale - Reno
+4,AEROPORTO,C,Borgo Panigale,11,Borgo Panigale - Reno
+5,LA BIRRA,C,Borgo Panigale,11,Borgo Panigale - Reno
+6,LUNGO RENO,C,Borgo Panigale,11,Borgo Panigale - Reno
+7,DUCATI-VILLAGGIO INA,C,Borgo Panigale,11,Borgo Panigale - Reno
+8,BORGO CENTRO,C,Borgo Panigale,11,Borgo Panigale - Reno
+9,TRIUMVIRATO-PIETRA,C,Borgo Panigale,11,Borgo Panigale - Reno
+10,RIGOSA,C,Borgo Panigale,11,Borgo Panigale - Reno
+11,CASTELDEBOLE,C,Borgo Panigale,11,Borgo Panigale - Reno
+12,CASERME ROSSE-MANIFATTURA,B,Bolognina,12,Navile
+13,CNR,B,Bolognina,12,Navile
+14,ARCOVEGGIO,B,Bolognina,12,Navile
+15,VIA FERRARESE,B,Bolognina,12,Navile
+16,EX MERCATO ORTOFRUTTICOLO,B,Bolognina,12,Navile
+17,PIAZZA DELL'UNITA',B,Bolognina,12,Navile
+18,SAN SAVINO,E,Corticella,12,Navile
+19,SAVENA ABBANDONATO,E,Corticella,12,Navile
+20,CROCE COPERTA,E,Corticella,12,Navile
+21,MULINO DEL GOMITO,E,Corticella,12,Navile
+22,LA DOZZA,E,Corticella,12,Navile
+23,LAGHETTI DEL ROSARIO,I,Lame,12,Navile
+24,LA NOCE,I,Lame,12,Navile
+25,TIRO A SEGNO,I,Lame,12,Navile
+26,PESCAROLA,I,Lame,12,Navile
+27,LAZZARETTO,I,Lame,12,Navile
+28,BEVERARA,I,Lame,12,Navile
+29,MARCONI-2,M,Marconi,13,Porto - Saragozza
+30,MARCONI-1,M,Marconi,13,Porto - Saragozza
+31,PRATI DI CAPRARA-OSPEDALE MAGGIORE,P,Saffi,13,Porto - Saragozza
+32,SCALO RAVONE,P,Saffi,13,Porto - Saragozza
+33,ZANARDI,P,Saffi,13,Porto - Saragozza
+34,VELODROMO,P,Saffi,13,Porto - Saragozza
+35,VIA VITTORIO VENETO,P,Saffi,13,Porto - Saragozza
+36,VILLAGGIO DELLA BARCA,A,Barca,11,Borgo Panigale - Reno
+37,BATTINDARNO,A,Barca,11,Borgo Panigale - Reno
+38,CANALE DI RENO,A,Barca,11,Borgo Panigale - Reno
+39,AGUCCHI,S,S. Viola,11,Borgo Panigale - Reno
+40,EMILIA PONENTE,S,S. Viola,11,Borgo Panigale - Reno
+41,CADRIANO-CALAMOSCO,Q,San Donato,14,San Donato - San Vitale
+42,FIERA,Q,San Donato,14,San Donato - San Vitale
+43,SAN DONNINO,Q,San Donato,14,San Donato - San Vitale
+44,PILASTRO,Q,San Donato,14,San Donato - San Vitale
+45,CAAB,Q,San Donato,14,San Donato - San Vitale
+46,SCALO MERCI SAN DONATO,Q,San Donato,14,San Donato - San Vitale
+47,VIA DEL LAVORO,Q,San Donato,14,San Donato - San Vitale
+48,MICHELINO,Q,San Donato,14,San Donato - San Vitale
+49,VIA MONDO,Q,San Donato,14,San Donato - San Vitale
+50,OSSERVANZA,D,Colli,15,Santo Stefano
+51,SAN MICHELE IN BOSCO,D,Colli,15,Santo Stefano
+52,PADERNO,D,Colli,15,Santo Stefano
+53,GALVANI-1,G,Galvani,15,Santo Stefano
+54,GALVANI-2,G,Galvani,15,Santo Stefano
+55,GIARDINI MARGHERITA,O,Murri,15,Santo Stefano
+56,MEZZOFANTI,O,Murri,15,Santo Stefano
+57,SIEPELUNGA,O,Murri,15,Santo Stefano
+58,DAGNINI,O,Murri,15,Santo Stefano
+59,CHIESANUOVA,O,Murri,15,Santo Stefano
+60,IRNERIO-1,H,Irnerio,15,Santo Stefano
+61,IRNERIO-2,H,Irnerio,15,Santo Stefano
+62,CIRENAICA,T,S. Vitale,14,San Donato - San Vitale
+63,SCANDELLARA,T,S. Vitale,14,San Donato - San Vitale
+64,VIA LARGA,T,S. Vitale,14,San Donato - San Vitale
+65,ROVERI,T,S. Vitale,14,San Donato - San Vitale
+66,OSPEDALE SANT'ORSOLA,T,S. Vitale,14,San Donato - San Vitale
+67,MENGOLI,T,S. Vitale,14,San Donato - San Vitale
+68,GUELFA,T,S. Vitale,14,San Donato - San Vitale
+69,CROCE DEL BIACCO,T,S. Vitale,14,San Donato - San Vitale
+70,STRADELLI GUELFI,T,S. Vitale,14,San Donato - San Vitale
+71,STADIO-MELONCELLO,F,Costa Saragozza,13,Porto - Saragozza
+72,XXI APRILE,F,Costa Saragozza,13,Porto - Saragozza
+73,SAN GIUSEPPE,F,Costa Saragozza,13,Porto - Saragozza
+74,RAVONE,F,Costa Saragozza,13,Porto - Saragozza
+75,VIA DEL GENIO,F,Costa Saragozza,13,Porto - Saragozza
+76,SAN LUCA,F,Costa Saragozza,13,Porto - Saragozza
+77,MALPIGHI-2,L,Malpighi,13,Porto - Saragozza
+78,MALPIGHI-1,L,Malpighi,13,Porto - Saragozza
+79,FOSSOLO,N,Mazzini,16,Savena
+80,DUE MADONNE,N,Mazzini,16,Savena
+81,LUNGO SAVENA,N,Mazzini,16,Savena
+82,PONTEVECCHIO,N,Mazzini,16,Savena
+83,BITONE,N,Mazzini,16,Savena
+84,CAVEDONE,N,Mazzini,16,Savena
+85,VIA ARNO,N,Mazzini,16,Savena
+86,OSPEDALE BELLARIA,N,Mazzini,16,Savena
+87,MONTE DONATO,R,S. Ruffillo,16,Savena
+88,VIA TOSCANA,R,S. Ruffillo,16,Savena
+89,CORELLI,R,S. Ruffillo,16,Savena
+90,PONTE SAVENA-LA BASTIA,R,S. Ruffillo,16,Savena
