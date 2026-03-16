@@ -2,12 +2,12 @@
 .DS_Store
 
 # Data excluded for license
-data/raw/*
-data/interim/*
-data/processed/*
-!data/raw/.gitkeep
-!data/interim/.gitkeep
-!data/processed/.gitkeep
+# data/raw/*
+# data/interim/*
+# data/processed/*
+# !data/raw/.gitkeep
+# !data/interim/.gitkeep
+# !data/processed/.gitkeep
 
 
 
